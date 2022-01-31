@@ -4,17 +4,17 @@ Brique libre de connaissances sur les modèles ouverts. Comprendre et maîtriser
 
 Plongez dans ces nouveaux phénomènes collaboratif de co-création du savoir à l'ère du numérique.
 
-## Contenu de la brique
+## Contenu de la brique
 
 [VIDE]
 
-## Ressources
+## Ressources
 
 Trouver toutes les ressources externes liés aux modèles ouverts dans cette [awesome list](/awesome-list.md) !
 
 ## Contribuer
 
-## Licences
+## Licences
 
 Tout les ressources de cette brique peuvent être utilisés, modifiés et partagés.
 
