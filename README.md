@@ -14,6 +14,10 @@ Trouver toutes les ressources externes liés aux modèles ouverts dans cette [aw
 
 ## Contribuer
 
+La brique repose sur le collaboration ouverte, toute contribution externe sera la bienvenue et permettra d'enrichir le projet !
+
+Le [guide de contribution](/CONTRIBUER.md) permet de découvrir les (quelques) possibilité de faire grandir le projet.
+
 ## Licences
 
 Tout les ressources de cette brique peuvent être utilisés, modifiés et partagés.
