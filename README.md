@@ -14,6 +14,10 @@ Plongez dans ces nouveaux phénomènes collaboratif de co-création du savoir à
 
 Trouver toutes les ressources externes liés aux modèles ouverts dans cette [awesome list](/awesome-list.md) !
 
+## Feuille de route
+
+[VIDE]
+
 ## Contribuer
 
 La brique repose sur le collaboration ouverte, toute contribution externe sera la bienvenue et permettra d'enrichir le projet !
