@@ -1,5 +1,7 @@
 # Open Models
 
+**[BRIQUE EN CONSTRUCTION]**
+
 Brique libre de connaissances sur les modèles ouverts. Comprendre et maîtriser les modèles basés sur l'open source et la collaboration ouverte.
 
 Plongez dans ces nouveaux phénomènes collaboratif de co-création du savoir à l'ère du numérique.
