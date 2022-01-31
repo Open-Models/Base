@@ -18,7 +18,12 @@ Trouver toutes les ressources externes liés aux modèles ouverts dans cette [aw
 
 ## Feuille de route
 
-[VIDE]
+Tu peux retrouver l'ensemble des évolutions en cours pour la [version
+0](https://github.com/AbcSxyZ/Open-Models/projects/1).
+
+La liste est co-construite en fonction des besoins et des demandes, les [issues](https://github.com/AbcSxyZ/Open-Models/issues) sont les bonnes places pour les partager.
+
+Les bonnes idées peuvent enrichir les développements en cours 💪
 
 ## Contribuer
 
