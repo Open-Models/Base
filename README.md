@@ -6,7 +6,7 @@ Brique libre de connaissances sur les modèles ouverts pour comprendre et maîtr
 
 Plongez dans ces nouveaux phénomènes collaboratif de co-création du savoir à l'ère du numérique.
 
-Pour commencer, la [définition](/ressources/definition.md).
+Pour commencer, la [définition](/contenu/definition.md).
 
 ## Contenu de la brique 📖
 
