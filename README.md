@@ -18,7 +18,7 @@ Le contenu est en construction, voir [l'ébauche de plan](https://github.com/Abc
 
 Visite l'[awesome list](/awesome-list.md) pour découvrir plein de ressources externes en lien avec les modèles ouverts !
 
-## Échanger avec la communauté
+## Échanger avec la communauté 🤳🏼
 
 L'[espace de discussion](https://github.com/AbcSxyZ/Open-Models/discussions/categories/questions) existe pour permettre de venir poser des questions, approfondir certains points ou simplement discuter avec d'autres membres de la communauté ❤️
 
