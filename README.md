@@ -36,7 +36,7 @@ L'[espace de discussion](https://github.com/AbcSxyZ/Open-Models/discussions/cate
 
 La brique repose sur le collaboration ouverte, toute contribution externe sera la bienvenue et permettra d'enrichir le projet !
 
-Le [guide de contribution](/CONTRIBUER.md) permet de découvrir les (quelques) possibilités de faire grandir le projet.
+Le [guide de contribution](/guide-contribution.md) permet de découvrir les (quelques) possibilités de faire grandir le projet.
 
 ## Licences ⚖️
 
