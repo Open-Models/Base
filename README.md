@@ -20,12 +20,12 @@ Visite l'[awesome list](/awesome-list.md) pour découvrir plein de ressources ex
 
 ## Feuille de route 🧭
 
-Tu peux retrouver l'ensemble des évolutions en cours pour la [version
+Tu peux retrouver l'ensemble des développements en cours pour la [version
 0](https://github.com/AbcSxyZ/Open-Models/projects/1).
 
-La liste est co-construite en fonction des besoins et des demandes, les [issues](https://github.com/AbcSxyZ/Open-Models/issues) sont les bonnes places pour les partager.
+La liste est co-construite en fonction des besoins et des demandes qui émergent grâce au système d'[issues](https://github.com/AbcSxyZ/Open-Models/issues) et de [pull requests](https://github.com/AbcSxyZ/Open-Models/pulls).
 
-Les bonnes idées peuvent enrichir les développements en cours 💪
+Viens partager tes idées pour enrichir les développements en cours dans l'[espace de discussion](https://github.com/AbcSxyZ/Open-Models/discussions) 💪
 
 
 ## Échanger avec la communauté 🤳🏼
