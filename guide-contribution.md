@@ -1,6 +1,6 @@
 ## Guide de contribution
 
-Tout ce qui permet de diffuser les modèles ouverts est bénéfique, toute aide sera précieuse !
+Tout ce qui permet d'élever les consciences sur les modèles ouverts est bénéfique, toute aide est précieuse !
 
 Chacun peut apporter sa pierre à l'édifice en fonction de ses compétences et de ses moyens.
 
