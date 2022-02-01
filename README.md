@@ -8,15 +8,21 @@ Plongez dans ces nouveaux phénomènes collaboratif de co-création du savoir à
 
 Pour commencer, la [définition](/ressources/definition.md).
 
-## Contenu de la brique
+## Contenu de la brique 📖
 
-[VIDE]
+L'objectif de cette brique est de découvrir la place des modèles ouverts et s'initier à leur fonctionnement pour pouvoir les utiliser pour ses propres usages.
 
-## Ressources
+Le contenu est en construction, voir [l'ébauche de plan](https://github.com/AbcSxyZ/Open-Models/issues/3).
 
-Trouver toutes les ressources externes liés aux modèles ouverts dans cette [awesome list](/awesome-list.md) !
+**[VIDE]**
 
-## Feuille de route
+Visite l'[awesome list](/awesome-list.md) pour découvrir plein de ressources externes en lien avec les modèles ouverts !
+
+## Échanger avec la communauté
+
+L'[espace de discussion](https://github.com/AbcSxyZ/Open-Models/discussions/categories/questions) existe pour permettre de venir poser des questions, approfondir certains points ou simplement discuter avec d'autres membres de la communauté ❤️
+
+## Feuille de route 🧭
 
 Tu peux retrouver l'ensemble des évolutions en cours pour la [version
 0](https://github.com/AbcSxyZ/Open-Models/projects/1).
@@ -25,13 +31,13 @@ La liste est co-construite en fonction des besoins et des demandes, les [issues]
 
 Les bonnes idées peuvent enrichir les développements en cours 💪
 
-## Contribuer
+## Contribuer 🐜
 
 La brique repose sur le collaboration ouverte, toute contribution externe sera la bienvenue et permettra d'enrichir le projet !
 
-Le [guide de contribution](/CONTRIBUER.md) permet de découvrir les (quelques) possibilité de faire grandir le projet.
+Le [guide de contribution](/CONTRIBUER.md) permet de découvrir les (quelques) possibilités de faire grandir le projet.
 
-## Licences
+## Licences ⚖️
 
 Tout les ressources de cette brique peuvent être utilisés, modifiés et partagés.
 
