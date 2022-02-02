@@ -7,7 +7,7 @@
 <p align="center" width="100%">
     <img src="/images/modele_ouverts.png">
     <br>
-    <i>Illustration de l'<a href="https://openbusiness.world/index.html">Open Business Foundation<a/><i>
+    <i>Illustration de l'<a href="https://openbusiness.world/index.html">Open Business Foundation</a></i>
 </p>
 
 Le numérique est un outil puissant pour la diffusion du savoir et pour permettre les interactions entre les individus.
