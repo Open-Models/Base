@@ -4,7 +4,9 @@
 
 > **Modèles ouverts** : Ensemble de phénomènes omnisectoriel basé sur le partage de connaissances et la collaboration ouverte autour de ressources intellectuelles à travers l'outil numérique. Ces ressources peuvent être librement utilisés, modifiés et partagés.
 
-![image open source graph](/images/modele_ouverts.png)
+<p align="center" width="100%">
+    <img src="/images/modele_ouverts.png">
+</p>
 
 Le numérique est un outil puissant pour la diffusion du savoir et pour permettre les interactions entre les individus.
 
