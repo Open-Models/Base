@@ -17,3 +17,19 @@ Avec ces propriétés, des phénomènes nouveaux apparaissent basés sur la coll
 L'enjeu alors est d'être capable pour un grand nombre d'individus de co-construire des savoirs communs en créant un environnement numérique approprié.
 
 Dans l'éducation, dans la science, dans la santé, dans l'industrie, dans l'agriculture... partout des germes de ce mouvement de fond existent déjà.
+
+L'Humanité découvre le numérique.
+
+## Émergence des modèles ouverts
+
+L'arrivée de ces nouveaux modèles est indissociable de l'histoire du numérique. Les informaticiens, avec leur contact direct avec ce nouvel outil, en ont été les pionniers. Les premiers à expérimenter les effets de ce partage de l'information et de cette collaboration à grande échelle.
+
+Une fois le logiciel libre de circuler, les bienfaits de la collaboration ouverte ont pu apparaître et se théoriser, donnant naissance au mouvement du logiciel open source.
+
+Les logiciels open source, en se transformant en briques communes, forment aujourd'hui les fondations de notre univers numérique. Tout le monde en dépend, dont toi en ce moment même.
+
+La pointe de cet iceberg s'appelle Linux.
+
+Ce mouvement de partage et de collaboration ouverte se manifeste aujourd'hui dans le champ du savoir, touchant tous les domaines de la société. Wikipédia n'étant qu'une des démonstrations de ces possibilités nouvelles.
+
+Partout le chemin de la co-création du savoir commence !
