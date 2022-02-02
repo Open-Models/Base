@@ -14,6 +14,8 @@ L'objectif de cette brique est de découvrir la place des modèles ouverts et s'
 
 **[EN CONSTRUCTION, voir [l'ébauche de plan](https://github.com/AbcSxyZ/Open-Models/issues/5)]**
 - [Liste des modèles ouverts](/contenu/modèles/README.md)
+- Histoire des modèles ouverts
+- Méthode de construction d'un projet ouvert
 
 Visite l'[awesome list](/awesome-list.md) pour découvrir plein de ressources externes en lien avec les modèles ouverts !
 
