@@ -12,9 +12,8 @@ Pour commencer, la [définition](/contenu/definition.md).
 
 L'objectif de cette brique est de découvrir la place des modèles ouverts et s'initier à leur fonctionnement pour pouvoir les utiliser pour ses propres usages.
 
-Le contenu est en construction, voir [l'ébauche de plan](https://github.com/AbcSxyZ/Open-Models/issues/3).
-
-**[VIDE]**
+**[EN CONSTRUCTION, voir [l'ébauche de plan](https://github.com/AbcSxyZ/Open-Models/issues/5)]**
+- [Liste des modèles ouverts](/contenu/modèles/README.md)
 
 Visite l'[awesome list](/awesome-list.md) pour découvrir plein de ressources externes en lien avec les modèles ouverts !
 
