@@ -2,7 +2,7 @@
 
 **[PAGE EN CONSTRUCTION, voir [#4](https://github.com/AbcSxyZ/Open-Models/issues/4)]**
 
-> **Modèles ouverts** : Ensemble de phénomènes basé sur le partage de connaissances et la collaboration ouverte autour de ressources intellectuelles à travers l'outil numérique. Ces ressources peuvent être librement utilisés, modifiés et partagés.
+> **Modèles ouverts** : Méthodes de production du savoir basé sur l'open source et la collaboration ouverte.
 
 <p align="center" width="100%">
     <img src="/images/modele_ouverts.png">
