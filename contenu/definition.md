@@ -1,4 +1,4 @@
-## Modèles ouverts
+## Les Modèles Ouverts
 
 **[PAGE EN CONSTRUCTION, voir [#4](https://github.com/AbcSxyZ/Open-Models/issues/4)]**
 
@@ -10,26 +10,18 @@
     <i>Illustration de l'<a href="https://openbusiness.world/index.html">Open Business Foundation</a></i>
 </p>
 
-Le numérique est un outil puissant pour la diffusion du savoir et pour permettre les interactions entre les individus.
+Le numérique est un outil puissant pour la diffusion du savoir et pour permettre les interactions entre les individus à l'échelle de la planète.
 
-Avec ces propriétés, des phénomènes nouveaux apparaissent basés sur la collaboration ouverte autour de ressources open source. La mise en réseau entraîne certaines singularités de l'intelligence collective, enrichissant ces ressources tout en devenant pour tous facilement appropriable, améliorable, partageable... Commencés dans le monde du logiciel, ces transformations du numérique arrivent dans tous les autres domaines.
+Avec ces propriétés, des phénomènes nouveaux apparaissent basés sur la collaboration ouverte autour de ressources dites open source. La mise en réseau entraîne certaines singularités de l'intelligence collective, enrichissant ces ressources qui deviennent des biens communs immatériels facilement appropriables, améliorables, diffusables. Les modèles ouverts ont débuté dans le monde du logiciel et atteignent aujourd'hui une relative maturité dans ce secteur, mais cette dynamique d'ouverture générée par le numérique s'invite dans tous les autres domaines. Le chemin ne fait que commencer.
 
-L'enjeu alors est d'être capable pour un grand nombre d'individus de co-construire des savoirs communs en créant un environnement numérique approprié.
+Le logiciel open source forme les fondations de notre écosystème numérique. Linux permet de faire fonctionner la majorité des serveurs, des superordinateurs, des téléphones. Les langages de programmation sont open source, les systèmes de gestions de base de données, les serveurs web... Tous les acteurs du monde du logiciel, à travers tous les continents, sont impliqués et en dépendent.
 
-Dans l'éducation, dans la science, dans la santé, dans l'industrie, dans l'agriculture... partout des germes de ce mouvement de fond existent déjà.
+Ces mécanismes basés sur l'open source et la collaboration ouverte se déportent à la création du savoir. Wikipédia montre qu'une encyclopédie peut se construire de façon collaborative tout en produisant des connaissances fiables. La science dans son ensemble connaît un mouvement de fond avec l'Open Science. Des plateformes se mettent en place pour publier la recherche, des universités investissent ces espaces facilitant la production et la diffusion des connaissances scientifiques. L'éducation se retrouve tout autant transformée avec un accès différent au contenu pédagogique en même temps que de nouveaux parcours d'apprentissage s'inventent.
 
-L'Humanité découvre le numérique.
+L'industrie libère progressivement ses inventions et ses brevets à travers l'Open Hardware, avec des initiatives tel qu'[Open Source Ecology](https://www.opensourceecology.org/) ou [Time For the Planet](https://www.time-planet.com/fr). Le domaine de la santé est touché avec des discussions sur la libération de la propriété intellectuelle des médicaments, des vaccins, des manières nouvelles de faire de la recherche médicale s'organisent.
 
-## Émergence des modèles ouverts
+Des modifications s'opèrent dans les organisations humaines, que ce soit au niveau de petites structures tel qu'une entreprise ou plus largement au niveau des états. Par exemple, l'open innovation va bouleverser la façon de co-créer des solutions grâce au partage du savoir, la mise en commun des moyens et des compétences entre les acteurs.
 
-L'arrivée de ces nouveaux modèles est indissociable de l'histoire du numérique. Les informaticiens, avec leur contact direct avec ce nouvel outil, en ont été les pionniers. Les premiers à expérimenter les effets de ce partage de l'information et de cette collaboration à grande échelle.
+Tous ces phénomènes partagent une problématique commune : comment créer un environnement numérique et humain approprié pour permettre la co-construction de savoirs et la mise en place d'une collaboration ouverte ?
 
-Une fois le logiciel libre de circuler, les bienfaits de la collaboration ouverte ont pu apparaître et se théoriser, donnant naissance au mouvement du logiciel open source.
-
-Les logiciels open source, en se transformant en briques communes, forment aujourd'hui les fondations de notre univers numérique. Tout le monde en dépend, dont toi en ce moment même.
-
-La pointe de cet iceberg s'appelle Linux.
-
-Ce mouvement de partage et de collaboration ouverte se manifeste aujourd'hui dans le champ du savoir, touchant tous les domaines de la société. Wikipédia n'étant qu'une des démonstrations de ces possibilités nouvelles.
-
-Partout le chemin de la co-création du savoir commence !
+Partout les germes de ces modèles ouverts émergents et sont le fruit des transformations qu'apportent le numérique à l'Humanité.
