@@ -1,6 +1,6 @@
 ## Les Modèles Ouverts
 
-> **Modèles ouverts** : Méthodes de production du savoir et de gestion de projets basées sur l'open source et la collaboration ouverte.
+> **Modèles ouverts** : Méthodes d'organisation et de production du savoir basées sur l'open source et la collaboration ouverte.
 
 <p align="center" width="100%">
     <img src="/images/modele_ouverts.png">
