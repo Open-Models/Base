@@ -20,7 +20,7 @@ Tout est en évolution constante et repose sur la revue entre pairs, apportes to
 Viens donner ton avis dans les [issues](https://github.com/AbcSxyZ/Open-Models/issues), les revues de [pull
 request](https://github.com/AbcSxyZ/Open-Models/pulls) (propositions de modification) sont fortement utiles.
 
-## Contribution hors contenu
+## Contribuer hors du contenu
 
 La contribution ne se limite pas à produire le contenu de la brique de connaissances.
 
