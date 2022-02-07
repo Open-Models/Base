@@ -9,7 +9,7 @@ Les contributions peuvent être autant sur le contenu de la brique de connaissan
 
 Mais avant tout, plus tu comprendras le phénomène des modèles ouverts, plus tu seras à l'aise dans ta capacité à contribuer. Prends le temps d'assimiler le sujet ❤️
 
-## Contribuer au contenu
+## Contribuer au contenu
 
 De réels freins techniques à la contribution existent pour le moment, une certaine maîtrise de Git/Github et du Markdown vont être requis pour produire le contenu (guide à venir ?).
 
