@@ -5,7 +5,8 @@ Tout ce qui permet d'élever les consciences sur les modèles ouverts est béné
 Chacun peut apporter sa pierre à l'édifice en fonction de ses compétences et de ses moyens, sens-toi libre si d'autres façons de
 contribuer te viennent à l'esprit.
 
-Les contributions peuvent être autant sur le contenu de la brique de connaissances que de manière plus annexe.
+Les contributions peuvent être autant sur le contenu de la brique de connaissances que de manière plus annexe.  
+Interagir dans les différents espaces nécessite un compte Github.
 
 Mais avant tout, plus tu comprendras le phénomène des modèles ouverts, plus tu seras à l'aise dans ta capacité à contribuer. Prends le temps d'assimiler le sujet ❤️
 
