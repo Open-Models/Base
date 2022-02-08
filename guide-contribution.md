@@ -1,4 +1,4 @@
-## Guide de contribution
+# Guide de contribution
 
 Tout ce qui permet d'élever les consciences sur les modèles ouverts est bénéfique, toute aide est précieuse !
 
@@ -20,7 +20,7 @@ Tout est en évolution constante et repose sur la revue entre pairs, apportes to
 Viens donner ton avis dans les [issues](https://github.com/AbcSxyZ/Open-Models/issues), les revues de [pull
 request](https://github.com/AbcSxyZ/Open-Models/pulls) (propositions de modification) sont fortement utiles.
 
-## Contribuer hors du contenu
+## Contribuer grâce au contenu
 
 La contribution ne se limite pas à produire le contenu de la brique de connaissances.
 
