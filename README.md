@@ -40,9 +40,9 @@ N'hésite pas à partager d'éventuels projets en lien avec les modèles ouverts
 
 ## Contribuer 🐜
 
-La brique repose sur le collaboration ouverte, toute contribution externe sera la bienvenue et permettra d'enrichir le projet !
+La brique repose sur le collaboration ouverte, tu es libre de participer. Toute contribution externe sera la bienvenue et permettra d'enrichir le projet.
 
-Le [guide de contribution](/guide-contribution.md) permet de découvrir les (quelques) possibilités de faire grandir le projet.
+Le [guide de contribution](/guide-contribution.md) permet de découvrir les (quelques) possibilités d'aider.
 
 ## Licences ⚖️
 
