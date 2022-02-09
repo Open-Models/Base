@@ -25,5 +25,14 @@ La façon de produire le logiciel était atypique et repoussait les limites de c
 
 20 ans plus tard, le logiciel libre et open source (FOSS) structure notre écosystème numérique pour en devenir la norme.
 
-## Influence de l'open source en dehors du logiciel
-...
+## Émergence des modèles ouverts en dehors du logiciel
+
+Cette façon de partager puis de collaborer pour produire du logiciel s'est construite sur plusieurs décennies. Les informaticiens ont pu développer les infrastructures techniques qui ont rendu cela possible, découvrant progressivement et un peu par hasard le potentiel collaboratif du numérique. La démocratisation des ordinateurs, d'Internet et du web au reste de la société va influencer une multitude d'autres domaines qui puisent alors des inspirations dans les mouvements issus du monde du logiciel, donnant naissance à une multitude de modèles ouverts qui connaissent une vraie porosité entre eux.
+
+Le terme open hardware apparaît vers 1997 par le co-fondateur de l'Open Source Initiative, les creatives commons en 2001 pour la publication de contenu, la technologie des wikis qui permet l'édition collaborative d'une page web émerge en 1995 avec Wikipédia qui s'appuie dessus en 2001, le concept d'open innovation se formule en 2003, open data en 1995... L'idée d'open science est un peu particulière, ce désir d'une science partagée débute très tôt du fait que les personnes à l'origine de ces outils étaient des universitaires, mais ce concept d'open science se formule plus explicitement dans la même période autour des années 2000. Plein de nouvelles dynamiques qui germent et se consolident petit à petit.
+
+Pour nombreux de ces phénomènes, au même titre que dans le monde du logiciel, on devrait pouvoir observer un mouvement en 2 temps. Le partage des ressources intellectuelles dans un premier temps, puis la structuration de la collaboration ouverte grâce à l'évolution des infrastructures techniques, en parallèle d'une culture de la contribution qui grandit.
+
+Des connaissances qui deviennent facilement accessible, coproduite massivement ce qui peut entraîner une solution de grande qualité grâce à ces particularités de l'intelligence collective, améliorable en continu, disponible à travers le monde entier.
+
+C'est une mécanique qui semble prendre place, ce sont des changements en profondeur sur du temps long, mais qu'il serait possible d'accélérer en comprenant davantage le phénomène.
