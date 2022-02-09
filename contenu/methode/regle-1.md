@@ -1,4 +1,4 @@
-Modèles ouverts, règle n°1 : Faire un projet qui a du sens et se base sur une utilité commune.
+## Règle n°1 : Faire un projet qui a du sens et se base sur une utilité commune
 
 Voici le début d'une "brique de connaissance" sur les modèles ouverts pour permettre à chacun de comprendre ce que sont ces modèles qui se basent sur l'open source et la collaboration ouverte : https://github.com/AbcSxyZ/Open-Models
 

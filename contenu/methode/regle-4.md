@@ -1,4 +1,4 @@
-Modèles ouverts, règle n°4 : Être capable d'intégrer des contributeurs externes.
+## Règle n°4 : Être capable d'intégrer des contributeurs externes.
 
 Accueillir la contribution externe demande toute une réflexion et la mise en place de procédés pour faciliter l'implication. Karl Fogel dans "Producing Open Source Software" parle d'énergie d'activation, l'effort nécessaire à un contributeur pour participer à un projet.
 

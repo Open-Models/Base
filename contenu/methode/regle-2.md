@@ -1,4 +1,4 @@
-Modèles ouverts, règle n°2 : Travailler et communiquer publiquement
+## Règle n°2 : Travailler et communiquer publiquement
 
 La transparence devient la règle et non l'exception. Dit autrement par Karl Fogel dans 'Producing Open Source Software' : "If there's no reason for it to be private, it should be public."
 

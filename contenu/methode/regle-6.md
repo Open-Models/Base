@@ -1,4 +1,4 @@
-Modèles ouverts, règles n°6 : Architecturer un environnement numérique de travail.
+## Règle n°6 : Architecturer un environnement numérique de travail.
 
 L'objectif d'un projet suivant un modèle ouvert est de faire collaborer des individus autour d'une même ressource grâce au numérique. Que ce soit un logiciel, des articles pour Wikipédia, une recherche pour l'open science, du plan de matériel pour l'open hardware...
 

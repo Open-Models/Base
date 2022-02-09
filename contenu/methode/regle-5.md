@@ -1,4 +1,4 @@
-Modèles ouverts, règle n°5 : Éprouver une ressource à travers l'évaluation par les pairs.
+## Règle n°5 : Éprouver une ressource à travers l'évaluation par les pairs.
 
 Pour améliorer la qualité d'une ressource, plus cette dernière sera affinée par des yeux experts, plus celle-ci aura le potentiel d'être pertinente. C'est cette collaboration de "spécialistes" que l'on va chercher.
 

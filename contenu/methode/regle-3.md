@@ -1,4 +1,4 @@
-Modèles ouverts, règle n°3 : La concurrence n'existe pas, transforme tout le monde en partenaire.
+## Règle n°3 : La concurrence n'existe pas, transforme tout le monde en partenaire.
 
 L'objectif est de co-construire une ressource intellectuelle qui bénéficiera à une grande variété de personnes partageant des besoins similaires où chacun peut enrichir cette solution.
 
