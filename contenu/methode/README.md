@@ -1,7 +1,8 @@
 ## Méthode gestion de projet ouvert
 
-La méthode est en pleine construction, pour réfléchir à son organisation et sa structuration. Voir [#9](https://github.com/AbcSxyZ/Open-Models/issues/9) pour les développements en cours.
+**[EN CONSTRUCTION, voir [#9](https://github.com/AbcSxyZ/Open-Models/issues/9)]**
 
+Malgré le contenu ici, la construction de la méthode n'a pas commencé et n'est pas structurée.
 
 Temporairement, reprise d'un ensemble de post linkedIn tel quel pour esquisser quelques principes et permettre une certaine assimilation du sujet.
 
