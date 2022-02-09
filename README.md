@@ -46,6 +46,6 @@ Le [guide de contribution](/guide-contribution.md) permet de découvrir les (que
 
 ## Licences ⚖️
 
-Toutes les ressources de cette brique de connaissances peuvent être librement utilisés, modifiés et partagés pour vos propres usages.
+Toutes les ressources de cette brique de connaissances peuvent être librement utilisés, modifiés et partagés pour vos propres usages. Les citations pour rediriger vers la brique sont appréciables !
 
 [GNU AGPL](/LICENSE) & [CC BY 4.0](/LICENSE_CC).
