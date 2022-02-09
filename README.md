@@ -18,7 +18,7 @@ L'objectif de cette brique est de découvrir la place des modèles ouverts et s'
 - [Liste de projets](/contenu/projets/README.md)
 - Méthode de construction d'un projet ouvert
 
-Visite l'[awesome list](/awesome-list.md) pour découvrir plein de ressources externes en lien avec les modèles ouverts !
+Visite l'[awesome list](/awesome-list.md) pour découvrir des ressources externes en lien avec les modèles ouverts.
 
 ## Feuille de route 🧭
 
