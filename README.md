@@ -36,6 +36,8 @@ Tu peux venir échanger avec les différentes personnes qui gravitent autour du 
 
 L'[espace de discussion](https://github.com/AbcSxyZ/Open-Models/discussions/categories/questions) existe pour permettre de venir poser des questions, approfondir certains points ou simplement discuter avec d'autres membres de la communauté ❤️
 
+Un [chat instantané](https://gitter.im/open-models/community) sur Gitter permet également de communiquer.
+
 N'hésite pas à partager d'éventuels projets en lien avec les modèles ouverts, cela pourrait intéresser d'autres personnes !
 
 ## Contribuer 🐜
