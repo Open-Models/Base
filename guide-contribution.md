@@ -13,12 +13,12 @@ Mais avant tout, plus tu comprendras le phénomène des modèles ouverts, plus t
 
 De réels freins techniques à la contribution existent pour le moment, une certaine maîtrise de Git/Github et du Markdown vont être requis pour produire le contenu (guide à venir ?).
 
-Regardes la roadmap de la [version 0](https://github.com/AbcSxyZ/Open-Models/projects/1) pour voir les développements en cours et participer où tu te sens à l'aise.
+Regardes la roadmap de la [version 0](https://github.com/Open-Models/Brique/projects/1) pour voir les développements en cours et participer où tu te sens à l'aise.
 
 Tout est en évolution constante et repose sur la revue entre pairs, apportes ton regard critique si tu vois un moyen d'améliorer la qualité du contenu.
 
-Viens donner ton avis dans les [issues](https://github.com/AbcSxyZ/Open-Models/issues), les revues de [pull
-request](https://github.com/AbcSxyZ/Open-Models/pulls) (propositions de modification) sont fortement utiles.
+Viens donner ton avis dans les [issues](https://github.com/Open-Models/Brique/issues), les revues de [pull
+request](https://github.com/Open-Models/Brique/pulls) (propositions de modification) sont fortement utiles.
 
 ## Contribuer grâce au contenu
 
@@ -28,4 +28,4 @@ Si tu te sens prêt, tu peux faire de l'éducation autour du sujet des modèles 
 
 Aide à répondre aux questions de la communauté, que ce soit sur Github ou partout ailleurs !
 
-Partage tes bonnes ressources en lien avec les modèles ouverts pour enrichir l'[awesome list](https://github.com/AbcSxyZ/Open-Models/discussions/7).
+Partage tes bonnes ressources en lien avec les modèles ouverts pour enrichir l'[awesome list](https://github.com/Open-Models/Brique/discussions/5).
