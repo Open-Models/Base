@@ -5,7 +5,7 @@ Accueillir la contribution externe demande toute une réflexion et la mise en pl
 Le but va être de réduire au maximum cette énergie. Différents éléments vont venir réduire cette friction, autant par la mise à disposition d'informations, la façon de prendre des décisions, la complexité de la ressource, l'environnement numérique, etc.
 
 La pratique de base dans le monde du logiciel est de mettre à disposition un "guide de contribution", la documentation va être un outil pour permettre cette intégration. Par exemple, le langage Python propose son guide pour contribuer : https://devguide.python.org/. Ils expliquent comment récupérer le code, soumettre des modifications, le lien vers différents outils tel que le bug tracker, des ressources pour débuter avec CPython (la code C de Python)...
-Guide que l'on retrouve sur Wikipédia (https://fr.wikipedia.org/wiki/Aide:D%C3%A9buter), ou qui en construction pour la brique de connaissances sur les modèles ouverts (https://github.com/AbcSxyZ/Open-Models/blob/main/guide-contribution.md)
+Guide que l'on retrouve sur Wikipédia (https://fr.wikipedia.org/wiki/Aide:D%C3%A9buter), ou qui en construction pour la brique de connaissances sur les modèles ouverts (https://github.com/Open-Models/Brique/blob/main/guide-contribution.md)
 
 La qualité du code, sa structuration, et donc plus généralement la complexité d'une ressource va influencer la facilité à contribuer. Si personne ne comprend, dans un code spaghetti par exemple, cela va rendre très difficile la participation.
 

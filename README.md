@@ -12,7 +12,7 @@ Pour commencer, la [définition](/contenu/definition.md).
 
 L'objectif de cette brique est de découvrir la place des modèles ouverts et s'initier à leur fonctionnement pour pouvoir les utiliser pour ses propres usages.
 
-**[EN CONSTRUCTION, voir [l'ébauche de plan](https://github.com/AbcSxyZ/Open-Models/issues/3)]**
+**[EN CONSTRUCTION, voir [l'ébauche de plan](https://github.com/Open-Models/Brique/issues/1)]**
 - [Histoire des modèles ouverts](/contenu/histoire.md)
 - [Liste des modèles ouverts](/contenu/modèles/README.md)
 - [Liste de projets](/contenu/projets/README.md)
@@ -23,20 +23,18 @@ Visite l'[awesome list](/awesome-list.md) pour découvrir des ressources externe
 ## Feuille de route 🧭
 
 Tu peux retrouver l'ensemble des développements en cours pour la [version
-0](https://github.com/AbcSxyZ/Open-Models/projects/1).
+0](https://github.com/Open-Models/Brique/projects/1).
 
-La liste est co-construite en fonction des besoins et des demandes qui émergent grâce au système d'[issues](https://github.com/AbcSxyZ/Open-Models/issues) et de [pull requests](https://github.com/AbcSxyZ/Open-Models/pulls).
+La liste est co-construite en fonction des besoins et des demandes qui émergent grâce au système d'[issues](https://github.com/Open-Models/Brique/issues) et de [pull requests](https://github.com/Open-Models/Brique/pulls).
 
-Viens partager tes idées pour enrichir les développements en cours dans l'[espace de discussion](https://github.com/AbcSxyZ/Open-Models/discussions) 💪
+Viens partager tes idées pour enrichir les développements en cours dans l'[espace de discussion](https://github.com/Open-Models/Brique/discussions) 💪
 
 
 ## Échanger avec la communauté 🤳🏼
 
 Tu peux venir échanger avec les différentes personnes qui gravitent autour du projet. Interagir dans les différents espaces ici va nécessiter un compte Github.
 
-L'[espace de discussion](https://github.com/AbcSxyZ/Open-Models/discussions/categories/questions) existe pour permettre de venir poser des questions, approfondir certains points ou simplement discuter avec d'autres membres de la communauté ❤️
-
-Un [chat instantané](https://gitter.im/open-models/community) sur Gitter permet également de communiquer.
+L'[espace de discussion](https://github.com/Open-Models/Brique/discussions) existe pour permettre de venir poser des questions, approfondir certains points ou simplement discuter avec d'autres membres de la communauté ❤️
 
 N'hésite pas à partager d'éventuels projets en lien avec les modèles ouverts, cela pourrait intéresser d'autres personnes !
 

@@ -1,6 +1,6 @@
 ## Liste de modèles ouverts
 
-**[Page en construction, voir [#5](https://github.com/AbcSxyZ/Open-Models/issues/5)]**
+**[Page en construction, voir [#2](https://github.com/Open-Models/Brique/issues/2)]**
 
 - [Open Science](/contenu/modèles/open-science.md)
 - Open Source

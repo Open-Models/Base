@@ -1,6 +1,6 @@
 ## Méthode gestion de projet ouvert
 
-**[EN CONSTRUCTION, voir [#9](https://github.com/AbcSxyZ/Open-Models/issues/9)]**
+**[EN CONSTRUCTION, voir [#4](https://github.com/Open-Models/Brique/issues/4)]**
 
 Malgré le contenu ici, la construction de la méthode n'a pas commencé et n'est pas structurée.
 
