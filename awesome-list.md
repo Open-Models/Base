@@ -31,5 +31,4 @@
 
 ### Longue (> 30 min)
 
-#### Témoignage Gestion projet open source
-- [Bryan Ostergaard - ex-Gentoo](https://www.youtube.com/watch?v=8mukIfWEC7g)
+- [Bryan Ostergaard - Gestion de projet open source](https://www.youtube.com/watch?v=8mukIfWEC7g)
