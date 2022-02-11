@@ -21,7 +21,6 @@
 
 - [Goldcorp Challenge - Rob McEwen](https://www.youtube.com/watch?v=BbifoFEswQ0)
 - [MakAir - Respirateur open source](https://www.youtube.com/watch?v=14ntkNCMIOA)
-- [History of GNU, Linux, Free and Open Source Software](https://www.youtube.com/watch?v=vjMZssWMweA)
 - [The Rise Of Open-Source Software - reportage CNBC](https://www.youtube.com/watch?v=SpeDK1TPbew)
 - [Max Stoiber - open source your projects](https://www.youtube.com/watch?v=hwdeUG_gySI)
 - [Max Stoiber - How Open Source Changed My Life](https://www.youtube.com/watch?v=ifq3xhik8tE)
@@ -32,3 +31,4 @@
 ### Longue (> 30 min)
 
 - [Bryan Ostergaard - Gestion de projet open source](https://www.youtube.com/watch?v=8mukIfWEC7g)
+- [History of GNU, Linux, Free and Open Source Software](https://www.youtube.com/watch?v=vjMZssWMweA)
