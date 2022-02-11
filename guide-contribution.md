@@ -24,7 +24,7 @@ request](https://github.com/AbcSxyZ/Open-Models/pulls) (propositions de modifica
 
 La contribution ne se limite pas à produire le contenu de la brique de connaissances.
 
-Si tu te sens prêt, tu peux faire de l'éducation populaire autour du sujet des modèles ouverts : des ateliers, formations, conférences... Tout comme produire du contenu pour les réseaux sociaux.
+Si tu te sens prêt, tu peux faire de l'éducation autour du sujet des modèles ouverts : des ateliers, formations, conférences... Tout comme produire du contenu pour les réseaux sociaux.
 
 Aide à répondre aux questions de la communauté, que ce soit sur Github ou partout ailleurs !
 
