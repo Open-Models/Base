@@ -1,6 +1,6 @@
-## Liste de ressources sur les modèles ouverts
+# Liste de ressources sur les modèles ouverts
 
-### Livres
+## Livres
 
 - [The Cathedral and the Bazaar](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/index.html#catbmain) - Eric S. Raymond
 - [Open Models : les business models de l'économie ouverte](https://drive.google.com/file/d/0B3FF0PcRH-F7YTduczNYdmNzT2s/view?resourcekey=0-JLwfPn6eT6eavH5lU1D9Aw) - coordonné par Louis-David Benyayer
@@ -9,15 +9,15 @@
 - [Open Source 2.0](https://en.wikipedia.org/wiki/Open_Sources_2.0) - O'Reilly Media
 - [Open Sources: Voices from the Open Source Revolution](https://en.wikipedia.org/wiki/Open_Sources) - O'Reilly Media
 
-### Articles
+## Articles
 
 - Github - [The readme project](https://github.com/readme/) : Interview d'acteurs de l'open source
 - [The Open Source contributor funnel](https://github.com/AbcSxyZ/Open-Source-Education/edit/main/awesome-open-source-resources.md) - Mike McQuaid
 - [Awesome maintainers](https://github.com/nayafia/awesome-maintainers) - *"Talks, blog posts, and interviews about the experience of being an open source maintainer"*
 
-### Vidéos
+## Vidéos
 
-#### Courte (< 30 min)
+### Courte (< 30 min)
 
 - [Goldcorp Challenge - Rob McEwen](https://www.youtube.com/watch?v=BbifoFEswQ0)
 - [MakAir - Respirateur open source](https://www.youtube.com/watch?v=14ntkNCMIOA)
@@ -29,7 +29,7 @@
 - [TedX Richard Stallman - Free software, free society](https://www.youtube.com/watch?v=Ag1AKIl_2GM)
 - [TedX Jim Whitehurst - ex-Red Hat CEO](https://www.youtube.com/watch?v=l0gyYcOAcFE)
 
-#### Longue (> 30 min)
+### Longue (> 30 min)
 
-##### Témoignage Gestion projet open source
+#### Témoignage Gestion projet open source
 - [Bryan Ostergaard - ex-Gentoo](https://www.youtube.com/watch?v=8mukIfWEC7g)
