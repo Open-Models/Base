@@ -14,3 +14,22 @@
 - Github - [The readme project](https://github.com/readme/) : Interview d'acteurs de l'open source
 - [The Open Source contributor funnel](https://github.com/AbcSxyZ/Open-Source-Education/edit/main/awesome-open-source-resources.md) - Mike McQuaid
 - [Awesome maintainers](https://github.com/nayafia/awesome-maintainers) - *"Talks, blog posts, and interviews about the experience of being an open source maintainer"*
+
+### Vidéos
+
+#### Courte (< 30 min)
+
+- [Goldcorp Challenge - Rob McEwen](https://www.youtube.com/watch?v=BbifoFEswQ0)
+- [MakAir - Respirateur open source](https://www.youtube.com/watch?v=14ntkNCMIOA)
+- [History of GNU, Linux, Free and Open Source Software](https://www.youtube.com/watch?v=vjMZssWMweA)
+- [The Rise Of Open-Source Software - reportage CNBC](https://www.youtube.com/watch?v=SpeDK1TPbew)
+- [Max Stoiber - open source your projects](https://www.youtube.com/watch?v=hwdeUG_gySI)
+- [Max Stoiber - How Open Source Changed My Life](https://www.youtube.com/watch?v=ifq3xhik8tE)
+- [Le libre et l'open source des logiciels et objets - monsieur Bidouille](https://www.youtube.com/watch?v=y2GNVGagWdM)
+- [TedX Richard Stallman - Free software, free society](https://www.youtube.com/watch?v=Ag1AKIl_2GM)
+- [TedX Jim Whitehurst - ex-Red Hat CEO](https://www.youtube.com/watch?v=l0gyYcOAcFE)
+
+#### Longue (> 30 min)
+
+##### Témoignage Gestion projet open source
+- [Bryan Ostergaard - ex-Gentoo](https://www.youtube.com/watch?v=8mukIfWEC7g)
