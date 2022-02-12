@@ -1,4 +1,4 @@
-# Open Models
+# Modèles Ouverts - Brique de connaissances
 
 **[BRIQUE EN CONSTRUCTION]**
 
