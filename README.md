@@ -6,11 +6,13 @@ Brique libre de connaissances sur les modèles ouverts pour comprendre et maîtr
 
 Plongez dans ces nouveaux phénomènes collaboratif de co-création du savoir à l'ère du numérique.
 
-Pour commencer, la [définition](/contenu/definition.md).
-
 ## Contenu de la brique 📖
 
-L'objectif de cette brique est de découvrir la place des modèles ouverts et s'initier à leur fonctionnement pour pouvoir les utiliser pour ses propres usages.
+L'objectif de cette brique est de regrouper des connaissances sur les modèles ouverts. Découvrir ces phénomènes, leurs histoires, s'initier au fonctionnement de ces dynamiques collaboratives pour pouvoir se les approprier.
+
+Toutes les informations relatives aux modèles ouverts sont listées ici.
+
+En guise d'introduction, une [définition et une présentation des modèles ouverts](/contenu/definition.md).
 
 **[EN CONSTRUCTION, voir [l'ébauche de plan](https://github.com/Open-Models/Brique/issues/1)]**
 - [Histoire des modèles ouverts](/contenu/histoire.md)
