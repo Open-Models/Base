@@ -11,7 +11,13 @@ Henry Chesbrough
 
 L'open innovation consiste en tant qu'acteur d'un écosystème à s'enrichir des connaissances extérieures tout comme redistribuer les siennes au reste de l'écosystème pour la création de solutions. Dans le monde de l'entreprise, cela passe par la mise en commun de la propriété intellectuelle, de la R&D.
 
-C'est à la fois la mise en interactions d'acteurs de secteurs complémentaires que l'inclusion des utilisateurs. La possibilité de réutiliser des ressources communes voir coopérer dessus, permettant une mutualisation des efforts et des moyens, élargissant le socle de compétences disponible pour l'améliorer.
+Chesbrough divise l'open innovation en deux aspects, l'*outside-in* et l'*inside-out*.
+
+L'**outside-in** consiste pour une organisation à utiliser des connaissances extérieures pour ses activités internes. Être capable d'aller puiser des informations et d'inclure différentes contributions de partenaires, d'utilisateurs.
+
+L'**inside-out** consiste alors de permettre à sa propriété intellectuelle d'être réutilisée par d'autres pour la mise en place de leurs solutions. Des connaissances issues de la recherche, souvent sous-exploités, seraient utilisable ailleurs. Pour les ressources centrales à l'acteur, cela permet à d'autres de réutiliser, modifier et d'améliorer ses solutions pour bénéficier soi-même de potentiels apports.
+
+À l'intersection de l'outside-in et l'inside-out peuvent se trouver des environnements numériques collaboratifs où les améliorations seront mises en communs entre différents acteurs complémentaires, chacun utilisant la solution pour ses propres activités, avec une mise en interaction des compétences lors de la co-construction de la ressource.
 
 ## Histoire
 
