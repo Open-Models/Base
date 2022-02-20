@@ -38,6 +38,7 @@
 - 👩‍🎓 [Boite à Outils des Communs Numériques](https://doc.incubateur.net/outils-communs/)
 - 👩‍🎓 [Tutoriel des Communs Numériques](https://labo.societenumerique.gouv.fr/2019/10/16/tutoriel-aux-communs-numeriques-guide-pratique-pour-sengager-dans-une-demarche-de-commun-numerique/)
 - 👩‍🎓 [Économie de la contribution et entrepreneuriat - Base de connaissances](https://contribution.ch/EC1/EC1_Economie-de-la-Contribution_Base-de-connaissances_v0-9.pdf)
+- 👩🏽‍🔬 [Les net-up… une nouvelle forme du projet entrepreneurial ?](https://www.erudit.org/fr/revues/ipme/2017-v30-n2-ipme03119/1040456ar/)
 - [Appel pour une société des communs](https://societedescommuns.com/appel/)
 
 ## Open Source
@@ -64,6 +65,9 @@
 - Label [Territoire Numérique Libre](https://territoire-numerique-libre.org)
 - 👩🏽‍🔬 Étude FOSSEPS pour la commission Européenne - [Free and Open Source Software Solutions for European Public Services](https://joinup.ec.europa.eu/collection/fosseps/news/fosseps-critical-open-source-software-study-report)
 - 👩🏽‍🔬 Enquête [Open Source Program Office 2022](https://todogroup.org/blog/ospo-survey-2022-results/) par TODO group
+- 👩🏽‍🔬 [Why We Engage in FLOSS: Answers from Core Developers](https://arxiv.org/pdf/1803.05741.pdf)
+- 👩🏽‍🔬 [Why Modern Open Source Projects Fail](https://arxiv.org/pdf/1707.02327.pdf)
+- 👩🏽‍🔬 [The Role of Foundations in Open Source Projects](https://livablesoftware.com/study-open-source-foundations/)
 - 👩‍🎓 [Site éducatif sur l'open source](https://opensource.dev/) de Google
 - 🕴️ [TODO](https://todogroup.org/), for organizations committed to Open Source and Open Source Program Offices
 - 🕴️ 🇫🇷 [Addulact](https://adullact.org/)
@@ -93,6 +97,9 @@
 - 🎥 [Open science avec Célya Gruson-Daniel (HackYourPhD & DRISS) \| Probablement?](https://www.youtube.com/watch?v=5rWpNmm0dfA), Science4All
 - 👩🏽‍🔬 [Étude sur les journaux en Open Access Diamonds](https://scienceeurope.org/media/yejfasey/20210309_coalitions_diamond_study_final.pdf)
 - 👩🏽‍🔬 [Towards an Open Science definition as a political and legal framework](https://hal.archives-ouvertes.fr/hal-02962399/document)
+- 👩🏽‍🔬 [The Economic Impacts of Open Science: A Rapid Evidence Assessment](https://www.mdpi.com/2304-6775/7/3/46/htm)
+- 👩🏽‍🔬 [Le marché de l'édition scientifique, entre accès « propriétaire » et accès « libre »](https://www.cairn.info/revue-hermes-la-revue-2010-2-page-137.htm)
+- 👩🏽‍🔬 [Point of View: How open science helps researchers succeed](https://elifesciences.org/articles/16800)
 - 🔎 [Core](https://core.ac.uk/)
 - 🔎 [Sci-Hub](https://fr.wikipedia.org/wiki/Sci-Hub)
 - 📚 [Open Science Framework](https://osf.io/)
@@ -130,6 +137,9 @@
 
 - 🎥 [Goldcorp Challenge - Rob McEwen](https://www.youtube.com/watch?v=BbifoFEswQ0)
 - 📰 [4 examples d'open innovation chez Lego, Nasa, Samsung et General Eletric](https://www.onova.io/innovation-insights/four-examples-of-open-innovation)
+- 👩🏽‍🔬 [Open Innovation Business Models : the example of living labs in France](https://hal.archives-ouvertes.fr/hal-03312263/document)
+- 👩🏽‍🔬 [A Study of Patent Open Source Strategies Based on Open Innovation: The Case of Tesla](https://www.scirp.org/journal/paperinformation.aspx?paperid=101900)
+- 👩🏽‍🔬 [Intellectual Property and Licensing Strategies in Open Collaborative Innovation](http://www.marcelbogers.com/Pubs/Bogers-Bekkers-Granstrand_2012_ch3_Intellectual-Property-and-Licensing-Strategies-in-Open-Collaborative-Innovation.pdf)
 
 ## Open Data
 
@@ -145,6 +155,7 @@
 - 🕴️ [Open Compute Project](https://www.opencompute.org/)
 - 📰 [Liste de projets open hardware](https://en.wikipedia.org/wiki/List_of_open-source_hardware_projects)
 - 📚 [Thingiverse](https://www.thingiverse.com/)
+- 👩🏽‍🔬 [Business models for open source hardware](https://tel.archives-ouvertes.fr/tel-02504769/document)
 
 ## Open Business
 
