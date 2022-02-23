@@ -8,6 +8,7 @@
 - [Swarmwise](https://falkvinge.net/files/2013/04/Swarmwise-2013-by-Rick-Falkvinge-v1-Final-2013Jul18.pdf) - Rick Falkvinge
 - [Open Source 2.0](https://en.wikipedia.org/wiki/Open_Sources_2.0) - O'Reilly Media
 - [Open Sources: Voices from the Open Source Revolution](https://en.wikipedia.org/wiki/Open_Sources) - O'Reilly Media
+- [Passeport pour la science ouverte : guide pratique à l'usage des doctorant(e)s](https://www.ouvrirlascience.fr/wp-content/uploads/2021/10/SO_21-10-14-WEB-FR.pdf)
 
 ## Articles
 
