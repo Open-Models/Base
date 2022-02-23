@@ -13,3 +13,16 @@ Depuis toujours dans la science, une partie des acteurs cherchent à diffuser le
 Ce concept d'open science a muri en 20 ans, de plus en plus d'universités publient leurs recherches en open access et construisent des environnements propices à la collaboration. Le MIT met en place l'[Open Science Framework (OSF)](https://github.com/centerforopenscience), une plateforme open source pour publier et travailler en collaboration entre chercheurs. L'Organisation des Nations unies pour l'éducation, la science et la culture (UNSECO) a émis des [recommandations sur l'Open Science](https://www.unesco.org/en/articles/unesco-sets-ambitious-international-standards-open-science) adoptées par 193 pays. Tout un [ensemble d'universités](https://osf.io/kgnva/wiki/Universities/) se tournent vers cette dynamique. L'Europe, en février 2022 dans le cadre du Paris Open Science European Conference, a lancé l'[Appel de Paris](https://osec2022.eu/fr/appel-de-paris/) pour inciter les pays européens à publier leurs recherches.
 
 Des réseaux d'universités se mettent en place et choisissent de partager leurs recherches à la fois par volonté de contribuer au savoir commun, mais également car leur accès à l'information devient facilité. Un changement de paradigme s'opère dans la science.
+
+## Projets
+
+### Agrégateurs et plateformes
+
+- [Core](https://core.ac.uk/) [recommandé]
+- [Sci-Hub](https://fr.wikipedia.org/wiki/Sci-Hub)
+- [Open Science Framework](https://osf.io/)
+- [HAL archive ouverte](https://hal.archives-ouvertes.fr/)
+- [Theses.fr](https://www.theses.fr/fr/)
+- [Open Edition](https://www.openedition.org/)
+- [Science Open](https://www.scienceopen.com/)
+- [Zenodo](https://zenodo.org/)
