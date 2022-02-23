@@ -26,3 +26,7 @@ Des réseaux d'universités se mettent en place et choisissent de partager leurs
 - [Open Edition](https://www.openedition.org/)
 - [Science Open](https://www.scienceopen.com/)
 - [Zenodo](https://zenodo.org/)
+
+### Acteurs
+
+- [Ouvrir la science](https://www.ouvrirlascience.fr/)
