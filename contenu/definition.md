@@ -3,7 +3,7 @@
 > **Modèles ouverts** : Méthodes d'organisation et de production du savoir basées sur l'open source et la collaboration ouverte.
 
 <p align="center" width="100%">
-    <img src="/images/modele_ouverts.png">
+    <img src="https://raw.githubusercontent.com/Open-Models/Brique/main/images/modele_ouverts.png">
     <br>
     <i>Illustration de l'<a href="https://openbusiness.world/index.html">Open Business Foundation</a></i>
 </p>

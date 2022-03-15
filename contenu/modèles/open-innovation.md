@@ -7,7 +7,7 @@ Henry Chesbrough
 
 ## Présentation
 
-![open innovation](/images/open-innovation.jpg)
+![open innovation](https://raw.githubusercontent.com/Open-Models/Brique/main/images/open-innovation.jpg)
 
 L'open innovation consiste en tant qu'acteur d'un écosystème à s'enrichir des connaissances extérieures tout comme redistribuer les siennes au reste de l'écosystème pour la création de solutions. Dans le monde de l'entreprise, cela passe par la mise en commun de la propriété intellectuelle, de la R&D.
 
