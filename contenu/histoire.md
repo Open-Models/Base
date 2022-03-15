@@ -8,11 +8,11 @@ Petit à petit, le monde du logiciel s'est mis à plus ou moins directement infl
 
 ## Modèles ouverts dans le monde du logiciel
 
-![Frise chronologique](/images/frise-chronologique-open-source.png)
+![Frise chronologique](https://raw.githubusercontent.com/Open-Models/Brique/main/images/frise-chronologique-open-source.png)
 
 Au début de l'informatique, le logiciel open source et la collaboration ouverte étaient techniquement impossible.
 
-En 1945, le premier ordinateur pesait 30 tonnes, construit par des universitaires avec des programmes qui se faisaient sur des [cartes perforées](/images/carte_perforee.png). Le premier programme numérisé apparaît le 11 juin 1948. Lorsque les premières entreprises à produire du matériel informatique puis des logiciels sont apparues,  les logiciels étaient en quelque sorte "open source" même si le terme n'existait pas, le code source était fourni avec le matériel car les modèles économiques reposaient sur la vente des composants physiques. Les ordinateurs étaient réservés à des cercles restreint de spécialistes maîtrisant la programmation et qui étaient amenés à modifier les logiciels.
+En 1945, le premier ordinateur pesait 30 tonnes, construit par des universitaires avec des programmes qui se faisaient sur des [cartes perforées](https://raw.githubusercontent.com/Open-Models/Brique/main/images/carte_perforee.png). Le premier programme numérisé apparaît le 11 juin 1948. Lorsque les premières entreprises à produire du matériel informatique puis des logiciels sont apparues,  les logiciels étaient en quelque sorte "open source" même si le terme n'existait pas, le code source était fourni avec le matériel car les modèles économiques reposaient sur la vente des composants physiques. Les ordinateurs étaient réservés à des cercles restreint de spécialistes maîtrisant la programmation et qui étaient amenés à modifier les logiciels.
 
 À partir des années 70, une nouvelle étape de la démocratisation de l'informatique s'opère avec l'arrivée de la "[micro-informatique](https://fr.wikipedia.org/wiki/Micro-informatique)", les ordinateurs deviennent plus personnels. Les bidouilleurs/hackers s'en saisissent en même temps que des nouvelles entreprises apparaissent comme Microsoft en 1975, Apple en 1977. Ces dernières voulant garder le contrôle sur les logiciels, le code se ferme progressivement, la propriété intellectuelle commence à s'appliquer au logiciel avec le [Copyright Act](https://fr.wikipedia.org/wiki/Copyright_Act_(1976)) de 1976. Le code source devient la propriété exclusive des entreprises, les logiciels sont distribués sans le code source sous forme d'exécutables.
 
