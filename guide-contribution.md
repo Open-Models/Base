@@ -11,6 +11,8 @@ Mais avant tout, plus tu comprendras le phénomène des modèles ouverts, plus t
 
 ## Contribuer au contenu
 
+Le contenu de la brique et toute modification repose sur le code d'un [dépôt Github](https://github.com/Open-Models/Brique).
+
 De réels freins techniques à la contribution existent pour le moment, une certaine maîtrise de Git/Github et du Markdown vont être requis pour produire le contenu (guide à venir ?).
 
 Regardes la roadmap de la [version 0](https://github.com/Open-Models/Brique/projects/1) pour voir les développements en cours et participer où tu te sens à l'aise.
