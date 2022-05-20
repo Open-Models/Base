@@ -12,13 +12,12 @@ L'objectif de cette brique est de regrouper des connaissances sur les modèles o
 
 Toutes les informations relatives aux modèles ouverts sont listées ici.
 
-En guise d'introduction, une [définition et une présentation des modèles ouverts](contenu/definition.md).
-
 **[EN CONSTRUCTION, voir [l'ébauche de plan](https://github.com/Open-Models/Brique/issues/1)]**
+- [Introduction aux modèles ouverts](contenu/introduction.md)
 - [Histoire des modèles ouverts](contenu/histoire.md)
+- [Méthode de construction d'un projet ouvert](contenu/methode/README.md)
 - [Liste des modèles ouverts](contenu/modèles/README.md)
 - [Liste de projets](contenu/projets/README.md)
-- [Méthode de construction d'un projet ouvert](contenu/methode/README.md)
 
 Visite l'[awesome list](awesome-list.md) pour découvrir des ressources externes en lien avec les modèles ouverts.
 
