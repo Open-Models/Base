@@ -44,6 +44,8 @@ N'hésite pas à partager d'éventuels projets en lien avec les modèles ouverts
 
 La brique repose sur le collaboration ouverte, tu es libre de participer. Toute contribution externe sera la bienvenue et permettra d'enrichir le projet.
 
+La familiarisation avec les modèles ouverts et les différents espaces de la brique vont aider à être à l'aise pour contribuer, prends le temps d'explorer l'environnement, les différents outils, les différents échanges en cours.
+
 Le [guide de contribution](guide-contribution.md) permet de découvrir les (quelques) possibilités d'aider.
 
 ## Licences ⚖️
