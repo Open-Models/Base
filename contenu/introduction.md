@@ -20,6 +20,6 @@ L'industrie libère progressivement ses inventions et ses brevets à travers l'O
 
 Des modifications s'opèrent dans les organisations humaines, que ce soit au niveau de petites structures tel qu'une entreprise ou plus largement au niveau des états. Par exemple, l'open innovation va bouleverser la façon de co-créer des solutions grâce au partage du savoir, la mise en commun des moyens et des compétences entre les acteurs.
 
-Tous ces phénomènes partagent une problématique commune : comment créer un environnement numérique et humain approprié pour permettre la co-construction de savoirs et la mise en place d'une collaboration ouverte ?
+Tous ces phénomènes partagent une problématique commune : comment créer un environnement socio-technique approprié pour permettre la co-construction de savoirs et la mise en place d'une collaboration ouverte ?
 
 Partout les germes de ces modèles ouverts émergents et sont le fruit des transformations qu'apportent le numérique à l'Humanité.
