@@ -4,6 +4,8 @@
 
 Brique libre de connaissances sur les modèles ouverts pour comprendre et maîtriser les modèles basés sur l'open source et la collaboration ouverte.
 
+Un commun numérique pour se former, former et expérimenter ces nouveaux concepts : Open Source, Open Science, Open Education, Open Collaboration, Open Data, Open Hardware...
+
 Plongez dans ces nouveaux phénomènes collaboratif de co-création du savoir à l'ère du numérique.
 
 ## Contenu de la brique 📖
