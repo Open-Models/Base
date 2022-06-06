@@ -1,6 +1,6 @@
 ## Les Modèles Ouverts
 
-> **Modèles ouverts** : Modes d'organisation et de production du savoir basées sur l'open source et la collaboration ouverte.
+> **Modèles ouverts** : Modes d'organisation et de production du savoir basés sur l'open source et la collaboration ouverte.
 
 <p align="center" width="100%">
     <img src="https://raw.githubusercontent.com/Open-Models/Brique/main/images/modele_ouverts.png">
