@@ -25,10 +25,11 @@ Visite l'[awesome list](awesome-list.md) pour découvrir des ressources externes
 
 ## Feuille de route 🧭
 
-Tu peux retrouver l'ensemble des développements en cours pour la [version
-0](https://github.com/Open-Models/Brique/projects/1).
+La brique se veut un commun construit collaborativement, ouvert à la contribution sur [GitHub](https://github.com/Open-Models/Brique).
 
-La liste est co-construite en fonction des besoins et des demandes qui émergent grâce au système d'[issues](https://github.com/Open-Models/Brique/issues) et de [pull requests](https://github.com/Open-Models/Brique/pulls).
+Une roadmap permet de voir l'ensemble des développements en cours pour la [version 0](https://github.com/Open-Models/Brique/projects/1).
+
+La liste est co-construite en fonction des besoins et problèmes qui émergent grâce au système d'[issues](https://github.com/Open-Models/Brique/issues) et de [pull requests](https://github.com/Open-Models/Brique/pulls).
 
 Viens partager tes idées pour enrichir les développements en cours dans l'[espace de discussion](https://github.com/Open-Models/Brique/discussions) 💪
 
