@@ -34,7 +34,7 @@ Des réseaux d'universités se mettent en place et choisissent de partager leurs
 
 ### Politiques
 
-- [Analyses des politiques d'open science en Europe](https://zenodo.org/record/3379705)
+- [Analyses des politiques d'open science en Europe (V7)](https://zenodo.org/record/4725817)
 - 🇫🇷 [Plan national pour la science ouverte](https://www.enseignementsup-recherche.gouv.fr/fr/le-plan-national-pour-la-science-ouverte-les-resultats-de-la-recherche-scientifique-ouverts-tous-49241)
 - [Open Science Monitor](https://ec.europa.eu/info/research-and-innovation/strategy/strategy-2020-2024/our-digital-future/open-science/open-science-monitor_en) de la Commission Européenne
 - 🇫🇷 [Open Science Monitor](https://frenchopensciencemonitor.esr.gouv.fr/) français
