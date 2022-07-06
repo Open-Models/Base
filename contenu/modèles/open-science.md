@@ -31,3 +31,8 @@ Des réseaux d'universités se mettent en place et choisissent de partager leurs
 ### Acteurs
 
 - [Ouvrir la science](https://www.ouvrirlascience.fr/)
+
+### Politiques
+
+- [Analyses des politiques d'open science en Europe](https://zenodo.org/record/3379705)
+- 🇫🇷 [Plan national pour la science ouverte](https://www.enseignementsup-recherche.gouv.fr/fr/le-plan-national-pour-la-science-ouverte-les-resultats-de-la-recherche-scientifique-ouverts-tous-49241)
