@@ -23,30 +23,21 @@ Toutes les informations relatives aux modèles ouverts sont listées ici.
 
 Visite l'[awesome list](awesome-list.md) pour découvrir des ressources externes en lien avec les modèles ouverts.
 
-## Feuille de route 🧭
+## Contribuer 🐜
 
-La brique se veut un commun construit collaborativement, ouvert à la contribution sur [GitHub](https://github.com/Open-Models/Brique).
+La brique se veut un commun construit collaborativement, ouvert à la contribution et hébergé sur [GitHub](https://github.com/Open-Models/Brique).
 
-Une roadmap permet de voir l'ensemble des développements en cours pour la [version 0](https://github.com/Open-Models/Brique/projects/1).
+Le [guide de contribution](guide-contribution.md) permet de découvrir quelques manières d'aider.
 
-La liste est co-construite en fonction des besoins et problèmes qui émergent grâce au système d'[issues](https://github.com/Open-Models/Brique/issues) et de [pull requests](https://github.com/Open-Models/Brique/pulls).
+Une roadmap permet de voir l'ensemble des développements en cours pour la [version 0](https://github.com/Open-Models/Brique/projects/1). La liste est co-construite en fonction des besoins et problèmes qui émergent grâce au système d'[issues](https://github.com/Open-Models/Brique/issues) et de [pull requests](https://github.com/Open-Models/Brique/pulls).
 
 Viens partager tes idées pour enrichir les développements en cours dans l'[espace de discussion](https://github.com/Open-Models/Brique/discussions) 💪
 
-
 ## Échanger avec la communauté 🤳🏼
-
-Tu peux venir échanger avec les différentes personnes qui gravitent autour du projet. Interagir dans les différents espaces ici va nécessiter un compte Github.
 
 L'[espace de discussion](https://github.com/Open-Models/Brique/discussions) existe pour permettre de venir poser des questions, approfondir certains points ou simplement discuter avec d'autres membres de la communauté ❤️
 
-N'hésite pas à partager d'éventuels projets en lien avec les modèles ouverts, cela pourrait intéresser d'autres personnes !
-
-## Contribuer 🐜
-
-La brique repose sur la collaboration ouverte, tu es libre de participer. Toute contribution externe sera la bienvenue et permettra d'enrichir le projet.
-
-Le [guide de contribution](guide-contribution.md) permet de découvrir les (quelques) possibilités d'aider.
+N'hésite pas à partager là-bas d'éventuels projets en lien avec les modèles ouverts, cela pourrait intéresser d'autres personnes !
 
 ## Licences ⚖️
 

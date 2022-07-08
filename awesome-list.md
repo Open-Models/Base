@@ -1,5 +1,11 @@
 # Liste de ressources sur les modèles ouverts
 
+## Médias
+
+- [Les communs d'abord](https://www.les-communs-dabord.org/)
+- [Blog open source de Google](https://opensource.googleblog.com/)
+- [Open Science Magazine](https://open-science-future.zbw.eu/en/)
+
 ## Livres
 
 - [The Cathedral and the Bazaar](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/index.html#catbmain) - Eric S. Raymond
