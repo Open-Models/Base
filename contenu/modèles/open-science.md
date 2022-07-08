@@ -31,6 +31,7 @@ Des réseaux d'universités se mettent en place et choisissent de partager leurs
 ### Acteurs
 
 - [Ouvrir la science](https://www.ouvrirlascience.fr/)
+- [Center For Open Science](https://www.cos.io/)
 
 ### Politiques
 
