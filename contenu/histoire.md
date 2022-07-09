@@ -2,9 +2,10 @@
 
 L'histoire des modèles ouverts se lie intimement à l'évolution du numérique. Leur arrivée se fait progressivement en même temps que notre utilisation de cet outil s'intensifie.
 
-Ce mouvement a commencé dans le monde du logiciel, grâce à son contact direct avec l'informatique, ce qui leur a permis d'apprécier cette capacité de partager d'une ressource, ici un logiciel, et de s'apercevoir que la collaboration ouverte pouvait apporter certaines propriétés uniques. Cette compréhension  s'est faite en plusieurs étapes.
+Ce mouvement a commencé dans le monde du logiciel qui grâce à son contact direct avec l'informatique a pu apprécier cette capacité de partager une ressource, ici un logiciel, pour s'apercevoir que la collaboration ouverte pouvait apporter certaines propriétés uniques. Cette compréhension s'est faite en plusieurs étapes au fil de l'histoire
+de ces dernières décennies.
 
-Petit à petit, le monde du logiciel s'est mis à plus ou moins directement influencer d'autres domaines d'activités.
+Petit à petit, le monde du logiciel s'est mis à plus ou moins directement influencer d'autres domaines d'activités. Ces dynamiques collaboratives se produisent dans tout le champ du savoir.
 
 ## Modèles ouverts dans le monde du logiciel
 
