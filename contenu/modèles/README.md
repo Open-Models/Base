@@ -7,10 +7,18 @@
 - [Open Hardware](open-hardware.md)
 - [Open Innovation](open-innovation.md)
 - [Open Peer Review](open-peer-review.md)
-- Open Source
-- Open Open Standards
 - Open Access
+- Open Business
+- Open Banking
 - Open Cloud
+- Open Content
 - Open Data
+- Open Government
 - Open Health
-- ...
+- Open Journalism
+- Open Knowledge
+- Open Law
+- Open Music
+- Open Patent
+- Open (Source) Software
+- Open Standard
