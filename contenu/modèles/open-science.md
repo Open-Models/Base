@@ -27,6 +27,7 @@ Des réseaux d'universités se mettent en place et choisissent de partager leurs
 - [Science Open](https://www.scienceopen.com/)
 - [Zenodo](https://zenodo.org/)
 - [European Open Science Cloud](https://eosc-portal.eu/)
+- [In&Sight](https://inandsight.science/)
 
 ### Acteurs
 
