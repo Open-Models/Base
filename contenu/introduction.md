@@ -5,7 +5,7 @@
 <p align="center" width="100%">
     <img src="https://raw.githubusercontent.com/Open-Models/Brique/main/images/modele_ouverts.png">
     <br>
-    <i>Illustration de l'<a href="https://openbusiness.world/index.html">Open Business Foundation</a></i>
+    <i>Illustration de Johannes Spielhagen pour l'Open Source Business Foundation</i>
 </p>
 
 Le numérique est un outil puissant pour la diffusion du savoir et pour permettre les interactions entre les individus à l'échelle de la planète.
