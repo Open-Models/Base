@@ -4,8 +4,6 @@
 
 <p align="center" width="100%">
     <img src="https://raw.githubusercontent.com/Open-Models/Brique/main/images/modele_ouverts.png">
-    <br>
-    <i>Illustration de Johannes Spielhagen pour l'Open Source Business Foundation</i>
 </p>
 
 Le numérique transforme notre rapport au savoir par sa capacité de diffusion de l'information et de mise en relation des individus. Une variété de dynamiques nouvelles basées sur le partage et la collaboration autour de ressources informationnelles émerge permettant une co-production de connaissances.
