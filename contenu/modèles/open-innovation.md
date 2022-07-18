@@ -2,8 +2,11 @@
 
 ## Définition
 
-> *Un processus d'innovation distribué basé sur des flux de connaissances gérés à dessein au-delà des frontières organisationnelles, en utilisant des mécanismes pécuniaires et non pécuniaires conformes au modèle d'entreprise de l'organisation.*  
-Henry Chesbrough
+> *L'innovation ouverte est l'utilisation des flux entrants et sortants intentionnels de connaissances pour accélérer
+> l'innovation interne, et élargir les marchés pour l'utilisation externe de l'innovation, respectivement. [Ce paradigme]
+> suppose que les entreprises peuvent et doivent utiliser des idées externes ainsi que des idées internes, et des voies
+> internes et externes vers le marché, lorsqu'elles cherchent à faire progresser leur technologie.*  
+> Henry Chesbrough, Open Innovation: Researching a New Paradigm (2006)
 
 ## Présentation
 
