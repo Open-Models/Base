@@ -35,6 +35,7 @@ Des réseaux d'universités se mettent en place et choisissent de partager leurs
 - [Ouvrir la science](https://www.ouvrirlascience.fr/)
 - [Center For Open Science](https://www.cos.io/)
 - [SPARC](https://sparcopen.org/)
+- [Facilitate Open Science Training for European Research (FOSTER)](https://www.fosteropenscience.eu/)
 
 ### Politiques
 
