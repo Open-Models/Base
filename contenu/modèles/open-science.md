@@ -29,6 +29,7 @@ Des réseaux d'universités se mettent en place et choisissent de partager leurs
 - [European Open Science Cloud](https://eosc-portal.eu/)
 - [In&Sight](https://inandsight.science/)
 - [ResearchGate](https://www.researchgate.net/)
+- [SpringerOpen](https://www.springeropen.com/)
 
 ### Acteurs
 
