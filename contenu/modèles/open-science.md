@@ -5,6 +5,21 @@
 > *La science ouverte est la pratique de la science de manière à ce que d'autres puissent collaborer et contribuer, où les données de recherche, les notes de laboratoire et d'autres processus de recherche sont librement disponibles, dans des conditions qui permettent la réutilisation, la redistribution et la reproduction de la recherche et de ses données et méthodes sous-jacentes.*  
 [Foster Open Science](https://www.fosteropenscience.eu/foster-taxonomy/open-science-definition)
 
+## Présentation
+
+<p align="center">
+    <img width="60%" src="https://raw.githubusercontent.com/Open-Models/Brique/main/images/open-science-schema.png">
+       <br>
+       <i>Illustration de la NASA</i>
+</p>
+
+L'open science, dans une volonté de diffusion de la connaissance, repose sur la mise à en accès libre ([open access](open-access.md)) de la recherche scientifique, ainsi que la mise à disposition des ressources nécessaires à sa reproduction à travers notamment l'open data et le logiciel open source.
+
+L'évaluation par les pairs est réalisé dans une logique d'[open peer review](open-peer-review.md), avec une identité et des rapports publiques, permettant une interaction entre auteurs et évaluateurs, ouvert à la communauté et aux non-scientifiques, avec de l'évaluation post-publication...
+
+Avec la mise en relation qu'offre le numérique, de nouvelles formes de collaboration deviennent possibles, autant pour co-produire un travail de recherche que pour entrer en relation avec une communauté de scientifiques permettant un support mutuel. Ces dynamiques collaboratives vont pouvoir favoriser la transdisciplinarité ainsi que l'inclusion des différentes parties prenantes (institutions, citoyens, organisations publiques/privées, etc).
+
+L'open science représente tout un changement de pratiques pour le chercheur, de nouvelles sources d'informations, de nouveau formats, de nouveaux outils, de nouvelles possibilités, etc. C'est également une valorisation différente de la recherche qui prend forme, anciennement basée sur le prestige des revues, avec par exemple le développement des altmetrics.
 
 ## Histoire
 
