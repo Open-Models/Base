@@ -12,7 +12,9 @@ Le numérique transforme notre rapport au savoir par sa capacité de diffusion d
 
 Les communs numériques reposent sur une gouvernance partagée et peuvent être librement utilisés, étudiés, modifiés et redistribués. Ces ressources vont pouvoir bénéficier des singularités de l'intelligence collective cumulées à des effets de réseaux.
 
-L'étude des modèles ouverts cherche à comprendre comment se construisent les environnements socio-techniques autour de communs numériques ainsi que les bénéfices et risques dû aux interactions d'un commun avec ses différents écosystèmes.
+Le terme modèles ouverts permet de penser ces différents phénomènes comme un ensemble qui obéit à des lois communes. Leur étude cherche à comprendre comment se construisent les environnements socio-techniques autour de communs numériques ainsi que les bénéfices et risques dû aux interactions d'un commun avec ses différents écosystèmes.
+
+Ces modèles vont être complémentaires entre eux et se renforcent mutuellement.
 
 Les modèles ouverts sont déjà omniprésents à des niveaux de maturité variables. Le logiciel open source étant le modèle ouvert le plus mature, il forme les fondations de notre monde numérique, tout en étant un puissant moteur dans son évolution. Les autres modèles ouverts se développent au fur et à mesure que les technologies se démocratisent dans l'ensemble des secteurs.
 
