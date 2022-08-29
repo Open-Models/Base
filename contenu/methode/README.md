@@ -1,12 +1,15 @@
-## Méthode gestion de projet ouvert
+## Méthode de construction d'un commun numérique
 
 **[EN CONSTRUCTION, voir [#4](https://github.com/Open-Models/Brique/issues/4)]**
 
-Malgré le contenu ici, la construction de la méthode n'a pas commencé et n'est pas structurée.
+Malgré le contenu ici, la construction de la méthode n'a pas commencée et n'est pas structurée.
 
 Temporairement, reprise d'un ensemble de post linkedIn tel quel pour esquisser quelques principes et permettre une certaine assimilation du sujet.
 
-Pour comprendre certaines dynamiques qui permettent la collaboration ouverte sur de des ressources open source.
+Les modèles ouverts s'appuient bien souvent (mais pas uniquement) sur la mise en place de commun numérique,
+une ressource informationnelle co-produite par une communauté qui bénéficie d'une liberté d'usage et dont la gouvernance est partagée.
+
+Tout un ensemble de stratégies permet de structurer un commun numérique, nous cherchons aujourd'hui une certaine méthodologie.
 
 - **Règle n°1** : [Faire un projet qui a du sens et se base sur une utilité commune](regle-1.md)
 - **Règle n°2** : [Travailler et communiquer publiquement](regle-2.md)
