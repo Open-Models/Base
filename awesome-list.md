@@ -26,6 +26,15 @@
 
 - 📡 [Les communs d'abord](https://www.les-communs-dabord.org/)
 - 📖 [Open Models : les business models de l'économie ouverte](https://drive.google.com/file/d/0B3FF0PcRH-F7YTduczNYdmNzT2s/view?resourcekey=0-JLwfPn6eT6eavH5lU1D9Aw) - coordonné par Louis-David Benyayer
+- 🎥 [Commun(s)](https://www.youtube.com/watch?v=8QpQUsMlpxQ), Politikon
+- 🎥 [Les communs de l'écologie politique #1](https://www.youtube.com/watch?v=RgMdYhYgB1c), Game Of Hearth
+- 🎥 [Les communs de l'écologie politique #2](https://www.youtube.com/watch?v=rakCobsY174), Game Of Hearth
+- 🎥 [De la propriété privée aux communs](https://www.youtube.com/watch?v=2wPRUyleCCo), Entretien avec Pierre Crétois
+- 🎥 "[Je propose de dépasser la propriété privée par la propriété sociale et temporaire](https://www.youtube.com/watch?v=3VUSPKko8Do)", Interview Thomas Piketty France Inter
+- 🎥 [Biens ou bien : une histoire de la propriété](https://www.youtube.com/watch?v=sOhekXybHL4), Interview Arnaud-Dominique Houte
+- 👩‍🎓 [Boite à Outils des Communs Numériques](https://doc.incubateur.net/outils-communs/)
+- 👩‍🎓 [Tutoriel des Communs Numériques](https://labo.societenumerique.gouv.fr/2019/10/16/tutoriel-aux-communs-numeriques-guide-pratique-pour-sengager-dans-une-demarche-de-commun-numerique/)
+- 👩‍🎓 [Économie de la contribution et entrepreneuriat - Base de connaissances](https://contribution.ch/EC1/EC1_Economie-de-la-Contribution_Base-de-connaissances_v0-9.pdf)
 - [Appel pour une société des communs](https://societedescommuns.com/appel/)
 
 ## Open Source
@@ -40,6 +49,8 @@
 - 📰 [Awesome maintainers](https://github.com/nayafia/awesome-maintainers) - *"Talks, blog posts, and interviews about the experience of being an open source maintainer"*
 - 📰 [Time Till Open Source Alternative](https://staltz.com/time-till-open-source-alternative.html), André Staltz
 - 📰 [Projet GPL Violations](https://gpl-violations.org/) [inactif, archivage]
+- 📰 [Dossier magazine Swissquote : Les milliards de l'open source](https://resources.swissquote.com/sites/default/files/2020-08/magazine_56_fr.pdf)
+- 📰 [The five stages of the Open Source Program Office](https://blog.opensource.org/the-five-stages-of-the-open-source-program-office/)
 - 🎥 [The Rise Of Open-Source Software - reportage CNBC](https://www.youtube.com/watch?v=SpeDK1TPbew)
 - 🎥 [Max Stoiber - open source your projects](https://www.youtube.com/watch?v=hwdeUG_gySI)
 - 🎥 [Max Stoiber - How Open Source Changed My Life](https://www.youtube.com/watch?v=ifq3xhik8tE)
@@ -49,6 +60,14 @@
 - Label [Territoire Numérique Libre](https://territoire-numerique-libre.org)
 - 👩🏽‍🔬 Étude FOSSEPS pour la commission Européenne - [Free and Open Source Software Solutions for European Public Services](https://joinup.ec.europa.eu/collection/fosseps/news/fosseps-critical-open-source-software-study-report)
 - 👩‍🎓 [Site éducatif sur l'open source](https://opensource.dev/) de Google
+- 🕴️ [TODO](https://todogroup.org/), for organizations committed to Open Source and Open Source Program Offices
+- 🕴️ [CodeGouv](https://code.gouv.fr/), code source du secteur public français
+- 🕴️ [OpenMairie](http://www.openmairie.org/)
+- [Guide des logiciels open source](https://www.smile.eu/fr/livres-blancslivres-blancs/guide-lopen-source), Smile
+- [Awesome-Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted), liste de logiciels open source à auto-héberger
+- [(Ex-)Annuaire des principaux logiciels libres & open source](https://www.jdbonjour.ch/logiciel-libre/), EPFL
+- [Comptoir du libre](https://comptoir-du-libre.org/fr/), annuaire de l'ADULLACT
+- [Socle interministériel (🇫🇷) de logiciels libres](https://sill.etalab.gouv.fr/software)
 
 ## Open Science
 
