@@ -54,8 +54,21 @@
 
 - 📡 [Open Science Magazine](https://open-science-future.zbw.eu/en/)
 - 📖 [Passeport pour la science ouverte : guide pratique à l'usage des doctorant(e)s](https://www.ouvrirlascience.fr/wp-content/uploads/2021/10/SO_21-10-14-WEB-FR.pdf)
+- 🎥 [Open Science : À qui les données de la science appartiennent-elles ?](https://www.youtube.com/watch?v=vsP8S63qOhY), La Tronche en biais ft. TenL95
+- 🎥 [Open science avec Célya Gruson-Daniel (HackYourPhD & DRISS) | Probablement?](https://www.youtube.com/watch?v=5rWpNmm0dfA), Science4All
+- 👩🏽‍🔬 [Étude sur les journaux en Open Access Diamonds](https://scienceeurope.org/media/yejfasey/20210309_coalitions_diamond_study_final.pdf)
+- 👩🏽‍🔬 [Towards an Open Science definition as a political and legal framework](https://hal.archives-ouvertes.fr/hal-02962399/document)
 - 🏦🇺🇸 White House Office of Science and Technology Policy, [orientation politique du 25/08/2022](https://www.whitehouse.gov/ostp/news-updates/2022/08/25/breakthroughs-for-alldelivering-equitable-access-to-americas-research/)
+- 🏦🇫🇷 [Deuxième plan pour la science ouverte, généraliser la science ouverte en France 2021-2024](https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2021-09/2e-plan-national-pour-la-science-ouverte-12968.pdf)
+- [Budapest Open Access Initiative](https://www.budapestopenaccessinitiative.org/read/), 2002
+- [Berlin Declaration on Open Access to Knowledge in the Sciences and Humanities](https://openaccess.mpg.de/Berlin-Declaration), 2003
+- [Bethesda Statement on Open Access Publishing](http://legacy.earlham.edu/~peters/fos/bethesda.htm), 2003
+- [Open Climate Campaign](https://openclimatecampaign.org/)
+- 🕴️ [Directory of Open Access Journals](https://doaj.org/), find open access journals & articles
+- 🕴️ [Peer Community In](https://peercommunityin.org/), organization of researchers offering peer review
 - 🕴️🇫🇷 [Centre pour la Communication Scientifique Directe](https://www.ccsd.cnrs.fr/)
+- 🕴️🇫🇷 [Fond national pour la science ouverte](https://www.ouvrirlascience.fr/le-fonds-national-pour-la-science-ouverte/)
+- 🕴️[OpenAIRE](https://www.openaire.eu/), create and operate services for Open Science
 
 ## Open Innovation
 
