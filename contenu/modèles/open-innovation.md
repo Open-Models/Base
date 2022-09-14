@@ -27,8 +27,3 @@ L'**inside-out** consiste alors de permettre à sa propriété intellectuelle d'
 Le terme date de 2003, Henry Chesbrough le popularise dans son livre "Open Innovation: The New Imperative for Creating and Profiting from Technology". Il oppose deux modèles d'innovation, celui traditionnellement fermé ou les entreprises protège leur propriété intellectuelle, contre un modèle ouvert où la connaissance circule.
 
 Ces modèles fermés étant plus habitués à ne pas utiliser les connaissances de l'extérieur et tentent de maintenir une protection sur leur propriété intellectuelle, pour essayer de garder un avantage compétitif.
-
-## Exemples de projets
-
-- [Goldcorp Challenge - Rob McEwen](https://www.youtube.com/watch?v=BbifoFEswQ0)
-- [4 examples d'open innovation chez Lego, Nasa, Samsung et General Eletric](https://www.onova.io/innovation-insights/four-examples-of-open-innovation)

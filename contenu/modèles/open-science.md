@@ -59,38 +59,3 @@ La science traverse une [crise de la reproductibilité](https://en.wikipedia.org
 En opposition au modèle des éditeurs, une fronde souffle, ce qui vient renforcer ce mouvement autour de l'open science. Des initiatives comme Sci-Hub (2011) viennent rendre accessible (illégalement) les publications des revues scientifiques, on observe l'arrivée d'un "Printemps Académique" (Academic Spring) avec des mouvements de contestation comme le boycott de revue avec "The Cost of Knowledge" (2012). Des universités prestigieuses suppriment leurs abonnements à certains éditeurs, utilisant des voies alternatives pour publier et permettre l'accès aux différents travaux scientifiques.
 
 L'open science devient une évolution dans la façon de faire la science et pourrait demain devenir la norme, au cœur des bouleversements sociétaux que notre époque nous impose, les crises pouvant venir accélérer cette dynamique.
-
-## Projets
-
-### Agrégateurs et plateformes
-
-- [Core](https://core.ac.uk/) [recommandé]
-- [Sci-Hub](https://fr.wikipedia.org/wiki/Sci-Hub)
-- [Open Science Framework](https://osf.io/)
-- [HAL archive ouverte](https://hal.archives-ouvertes.fr/)
-- [Theses.fr](https://www.theses.fr/fr/)
-- [Open Edition](https://www.openedition.org/)
-- [Science Open](https://www.scienceopen.com/)
-- [Zenodo](https://zenodo.org/)
-- [European Open Science Cloud](https://eosc-portal.eu/)
-- [In&Sight](https://inandsight.science/)
-- [ResearchGate](https://www.researchgate.net/)
-- [SpringerOpen](https://www.springeropen.com/)
-
-### Acteurs
-
-- [Ouvrir la science](https://www.ouvrirlascience.fr/)
-- [Center For Open Science](https://www.cos.io/)
-- [SPARC](https://sparcopen.org/)
-- [Facilitate Open Science Training for European Research (FOSTER)](https://www.fosteropenscience.eu/)
-
-### Politiques
-
-- [Analyses des politiques d'open science en Europe (V7)](https://zenodo.org/record/4725817)
-- 🇫🇷 [Plan national pour la science ouverte](https://www.enseignementsup-recherche.gouv.fr/fr/le-plan-national-pour-la-science-ouverte-les-resultats-de-la-recherche-scientifique-ouverts-tous-49241)
-- [Open Science Monitor](https://ec.europa.eu/info/research-and-innovation/strategy/strategy-2020-2024/our-digital-future/open-science/open-science-monitor_en) de la Commission Européenne
-- 🇫🇷 [Open Science Monitor](https://frenchopensciencemonitor.esr.gouv.fr/) français
-
-### Livres
-
-- [Opening Science](http://www.openingscience.org/get-the-book/), Sönke Bartling & Sascha Friesike

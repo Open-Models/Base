@@ -10,6 +10,7 @@
 1. [Open Hardware](#open-hardware)
 1. [Open Business](#open-business)
 1. [Open Health](#open-health)
+1. [Open Collaboration](#open-collaboration)
 1. [Type indéterminé](#type-indéterminé)
 
 **Type de ressources** :
@@ -21,6 +22,8 @@
 - 🏦 Règlementation
 - 👩‍🎓 Contenu Pédagogique
 - 🕴️ Acteur
+- 🔎 Moteur de recherche
+- 📚 Database
 
 ## Modèles ouverts et communs
 
@@ -73,25 +76,48 @@
 
 - 📡 [Open Science Magazine](https://open-science-future.zbw.eu/en/)
 - 📖 [Passeport pour la science ouverte : guide pratique à l'usage des doctorant(e)s](https://www.ouvrirlascience.fr/wp-content/uploads/2021/10/SO_21-10-14-WEB-FR.pdf)
+- 📖 [Opening Science](http://www.openingscience.org/get-the-book/), Sönke Bartling & Sascha Friesike
 - 🎥 [Open Science : À qui les données de la science appartiennent-elles ?](https://www.youtube.com/watch?v=vsP8S63qOhY), La Tronche en biais ft. TenL95
 - 🎥 [Open science avec Célya Gruson-Daniel (HackYourPhD & DRISS) \| Probablement?](https://www.youtube.com/watch?v=5rWpNmm0dfA), Science4All
 - 👩🏽‍🔬 [Étude sur les journaux en Open Access Diamonds](https://scienceeurope.org/media/yejfasey/20210309_coalitions_diamond_study_final.pdf)
 - 👩🏽‍🔬 [Towards an Open Science definition as a political and legal framework](https://hal.archives-ouvertes.fr/hal-02962399/document)
+- 🔎 [Core](https://core.ac.uk/)
+- 🔎 [Sci-Hub](https://fr.wikipedia.org/wiki/Sci-Hub)
+- 📚 [Open Science Framework](https://osf.io/)
+- 📚 [HAL archive ouverte](https://hal.archives-ouvertes.fr/)
+- 📚 [Theses.fr](https://www.theses.fr/fr/)
+- 📚 [Open Edition](https://www.openedition.org/)
+- 📚 [Science Open](https://www.scienceopen.com/)
+- 📚 [Zenodo](https://zenodo.org/)
+- 📚 [In&Sight](https://inandsight.science/)
+- 📚 [ResearchGate](https://www.researchgate.net/)
+- 📚 [SpringerOpen](https://www.springeropen.com/)
 - 🏦🇺🇸 White House Office of Science and Technology Policy, [orientation politique du 25/08/2022](https://www.whitehouse.gov/ostp/news-updates/2022/08/25/breakthroughs-for-alldelivering-equitable-access-to-americas-research/)
+- 🏦 🇫🇷 [Plan national pour la science ouverte](https://www.enseignementsup-recherche.gouv.fr/fr/le-plan-national-pour-la-science-ouverte-les-resultats-de-la-recherche-scientifique-ouverts-tous-49241)
 - 🏦🇫🇷 [Deuxième plan pour la science ouverte, généraliser la science ouverte en France 2021-2024](https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2021-09/2e-plan-national-pour-la-science-ouverte-12968.pdf)
+- 🏦 🇪🇺 [Analyses des politiques d'open science en Europe (V7)](https://zenodo.org/record/4725817)
+- 🏦 🇪🇺 [Open Science Monitor](https://ec.europa.eu/info/research-and-innovation/strategy/strategy-2020-2024/our-digital-future/open-science/open-science-monitor_en) de la Commission Européenne
+- 🏦 🇫🇷 [Open Science Monitor](https://frenchopensciencemonitor.esr.gouv.fr/) français
 - [Budapest Open Access Initiative](https://www.budapestopenaccessinitiative.org/read/), 2002
 - [Berlin Declaration on Open Access to Knowledge in the Sciences and Humanities](https://openaccess.mpg.de/Berlin-Declaration), 2003
 - [Bethesda Statement on Open Access Publishing](http://legacy.earlham.edu/~peters/fos/bethesda.htm), 2003
 - [Open Climate Campaign](https://openclimatecampaign.org/)
 - 🕴️ [Directory of Open Access Journals](https://doaj.org/), find open access journals & articles
+- 📰 [Liste Wikipédia de dépôts de pré-publication](https://en.wikipedia.org/wiki/List_of_preprint_repositories)
 - 🕴️ [Peer Community In](https://peercommunityin.org/), organization of researchers offering peer review
 - 🕴️🇫🇷 [Centre pour la Communication Scientifique Directe](https://www.ccsd.cnrs.fr/)
 - 🕴️🇫🇷 [Fond national pour la science ouverte](https://www.ouvrirlascience.fr/le-fonds-national-pour-la-science-ouverte/)
 - 🕴️[OpenAIRE](https://www.openaire.eu/), create and operate services for Open Science
+- 🕴️ [European Open Science Cloud](https://eosc-portal.eu/)
+- 🕴️ [Ouvrir la science](https://www.ouvrirlascience.fr/)
+- 🕴️ [Center For Open Science](https://www.cos.io/)
+- 🕴️ [SPARC](https://sparcopen.org/)
+- 🕴️ [Facilitate Open Science Training for European Research (FOSTER)](https://www.fosteropenscience.eu/)
 
 ## Open Innovation
 
 - 🎥 [Goldcorp Challenge - Rob McEwen](https://www.youtube.com/watch?v=BbifoFEswQ0)
+- 📰 [4 examples d'open innovation chez Lego, Nasa, Samsung et General Eletric](https://www.onova.io/innovation-insights/four-examples-of-open-innovation)
 
 ## Open Data
 
@@ -100,6 +126,11 @@
 ## Open Hardware
 
 - 🎥 [Le libre et l'open source des logiciels et objets - monsieur Bidouille](https://www.youtube.com/watch?v=y2GNVGagWdM)
+- 🕴️ [Arduino](https://www.arduino.cc/)
+- [Open Source Ecology](https://www.opensourceecology.org/)
+- 🕴️ [PinePhone](https://www.pine64.org/)
+- 📰 [Liste de projets open hardware](https://en.wikipedia.org/wiki/List_of_open-source_hardware_projects)
+- 📚 [Thingiverse](https://www.thingiverse.com/)
 
 ## Open Business
 
@@ -109,6 +140,11 @@
 ## Open Health
 
 - 🎥 [MakAir - Respirateur open source](https://www.youtube.com/watch?v=14ntkNCMIOA)
+
+## Open Collaboration
+
+- 👩🏽‍🔬 [Defining, Understanding and Supporting Open Collaboration: Lessons from the Literature](http://andreaforte.net/ForteLampe-Submitted.pdf), Andrea Forte, Cliff Lampe
+- 👩🏽‍🔬 [Commons-based Peer Production and Virtue](https://nissenbaum.tech.cornell.edu/papers/jopp_235.pdf), Yochai Benkler, Helen Nissenbaum
 
 ## Type indéterminé
 
