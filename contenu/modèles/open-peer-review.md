@@ -24,7 +24,3 @@ Traditionnellement, les résultats d'une recherche étaient envoyés à une revu
 Avec l'arrivée du numérique, des plateformes de pré-publication se mettent en place où les chercheurs viennent publier leurs travaux avec cette évaluation qui se réalise de façon ouverte, les pairs venant revoir les recherches sans être nécessairement sélectionnés suivant un processus davantage public. Par exemple, l'article qui fournit la définition sur [F1000Research](https://f1000research.com/articles/6-588/v2) montre la validation par 4 examinateurs et leurs commentaires.
 
 Les avantages peuvent être multiples : plus grand nombre d'évaluateurs, amélioration de la transparence de l'évaluation, interactions entre les scientifiques... Dans l'objectif d'avoir des travaux de recherche de meilleure qualité.
-
-## Projets
-
-- [Liste Wikipédia de dépôts de pré-publication](https://en.wikipedia.org/wiki/List_of_preprint_repositories)

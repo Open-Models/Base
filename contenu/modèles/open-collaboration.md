@@ -17,13 +17,3 @@ Un projet reposant sur la collaboration ouverte cherchera à être capable d'int
 La collaboration ouverte apparaît partout sous diverses formes et se structure autour d'une multitude de phénomènes. La collaboration se produit autant pour la production de cet artefact, que dans son administration et sa curation.
 
 La contribution se fait sous une forme de volontariat et d'auto-sélection en fonction des motivations individuelles.
-
-## Exemples de projets
-
-Tous les projets listés dans la brique de connaissance, et bien d'autres !
-
-## Articles en liens
-
-[Defining, Understanding and Supporting Open Collaboration: Lessons from the Literature](http://andreaforte.net/ForteLampe-Submitted.pdf), Andrea Forte, Cliff Lampe
-
-[Commons-based Peer Production and Virtue](https://nissenbaum.tech.cornell.edu/papers/jopp_235.pdf), Yochai Benkler, Helen Nissenbaum
