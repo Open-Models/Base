@@ -62,6 +62,7 @@
 - 🎥 [History of GNU, Linux, Free and Open Source Software](https://www.youtube.com/watch?v=vjMZssWMweA)
 - Label [Territoire Numérique Libre](https://territoire-numerique-libre.org)
 - 👩🏽‍🔬 Étude FOSSEPS pour la commission Européenne - [Free and Open Source Software Solutions for European Public Services](https://joinup.ec.europa.eu/collection/fosseps/news/fosseps-critical-open-source-software-study-report)
+- 👩🏽‍🔬 Enquête [Open Source Program Office 2022](https://todogroup.org/blog/ospo-survey-2022-results/) par TODO group
 - 👩‍🎓 [Site éducatif sur l'open source](https://opensource.dev/) de Google
 - 🕴️ [TODO](https://todogroup.org/), for organizations committed to Open Source and Open Source Program Offices
 - 🕴️ [CodeGouv](https://code.gouv.fr/), code source du secteur public français
