@@ -23,3 +23,4 @@
 - Open (Source) Software
 - Open Standard
 - Open Pedagogy
+- Open Design
