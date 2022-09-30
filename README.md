@@ -1,6 +1,6 @@
 # Modèles Ouverts - Brique de connaissances
 
-**[BRIQUE EN CONSTRUCTION]**
+**[BRIQUE EN CONSTRUCTION, voir la [feuille de route](organisation/feuille-de-route.md)]**
 
 Le numérique est un nouveau monde que nous ne faisons que commencer à explorer.
 
@@ -23,7 +23,6 @@ Des connaissances pour découvrir ces phénomènes, leurs histoires, développer
 
 Une ressource pour se construire des bases et devenir acteur de ces univers.
 
-*[EN CONSTRUCTION, voir [l'ébauche de plan](https://github.com/Open-Models/Brique/issues/1)]*  
 **Connaissances sur les modèles ouverts :**
 - [Introduction aux modèles ouverts](contenu/introduction.md)
 - [Histoire des modèles ouverts](contenu/histoire.md)
@@ -33,15 +32,17 @@ Une ressource pour se construire des bases et devenir acteur de ces univers.
 
 Visite l'[awesome list](awesome-list.md) pour découvrir des ressources externes en lien avec les modèles ouverts.
 
+## Feuille de route 🗺️
+
+Pour fixer et comprendre l'orientation de la communauté autour de la brique, une [feuille de route](organisation/feuille-de-route.md) permet de voir
+les grands axes de travail définis.
+
+Un projet collectif, un commun numérique construit collaborativement, ouvert à la contribution et hébergé (temporairement 🤞) sur la plateforme non open-source [GitHub](https://github.com/Open-Models/Brique).
+
 ## Contribuer 🐜
 
-La brique se veut un commun construit collaborativement, ouvert à la contribution et hébergé sur [GitHub](https://github.com/Open-Models/Brique).
-
-Le [guide de contribution](guide-contribution.md) permet de découvrir quelques manières d'aider.
-
-Une roadmap permet de voir l'ensemble des développements en cours pour la [version 0](https://github.com/Open-Models/Brique/projects/1). La liste est co-construite en fonction des besoins et problèmes qui émergent grâce au système d'[issues](https://github.com/Open-Models/Brique/issues) et de [pull requests](https://github.com/Open-Models/Brique/pulls).
-
-Viens partager tes idées pour enrichir les développements en cours dans l'[espace de discussion](https://github.com/Open-Models/Brique/discussions) 💪
+Le [guide de contribution](organisation/guide-contribution.md) permet de découvrir quelques manières d'aider,
+des actions accessibles autant pour une personne qui découvre les modèles ouverts que des spécialistes de tout horizon !
 
 ## Échanger avec la communauté 🤳🏼
 
