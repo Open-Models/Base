@@ -2,19 +2,29 @@
 
 **[BRIQUE EN CONSTRUCTION]**
 
-Brique de connaissances sur les modèles ouverts pour comprendre et maîtriser les modèles basés sur l'open source et la collaboration ouverte.
+Le numérique est un nouveau monde que nous ne faisons que commencer à explorer.
 
-Un commun numérique pour se former, former et expérimenter ces nouveaux concepts : Open Source, Open Science, Open Education, Open Collaboration, Open Data, Open Hardware...
+Par sa capacité de libre circulation de la connaissance et de collaboration à grande échelle, des phénomènes uniques
+se dessinent : des modèles ouverts qui fondent l'épicentre de cette révolution numérique.
 
-Plongez dans ces phénomènes collaboratifs de co-création du savoir à l'ère du numérique.
+Omniprésents, nous n'en connaissons presque rien. Les modèles ouverts ont déjà façonné le numérique
+et pourraient demain participer à transformer la société face aux crises de l'Anthropocène
+en modifiant de notre rapport au savoir.
 
-## Contenu de la brique 📖
+La brique de connaissances sur les modèles ouverts se veut un commun numérique pour maîtriser ces nouveaux concepts : Open (Source) Software, Open Science, Open Education, Open Hardware, Open Data, Open Innovation, Open Standard, Open Organization...
 
-L'objectif de cette brique est de regrouper des connaissances sur les modèles ouverts. Découvrir ces phénomènes, leurs histoires, s'initier au fonctionnement de ces dynamiques collaboratives pour pouvoir se les approprier.
+Du savoir en libre accès pour plonger dans ce numérique de la connaissance.
 
-Toutes les informations relatives aux modèles ouverts sont listées ici.
+## Connaissances de la brique 📖
 
-**[EN CONSTRUCTION, voir [l'ébauche de plan](https://github.com/Open-Models/Brique/issues/1)]**
+Le centre névralgique de la brique consiste en un corpus de connaissances sur les modèles ouverts.
+
+Des connaissances pour découvrir ces phénomènes, leurs histoires, développer une méthodologie pour construire un commun numérique, s'initier au fonctionnement de ces dynamiques collaboratives pour chercher à se les approprier !
+
+Une ressource pour se construire des bases et devenir acteur de ces univers.
+
+*[EN CONSTRUCTION, voir [l'ébauche de plan](https://github.com/Open-Models/Brique/issues/1)]*  
+**Connaissances sur les modèles ouverts :**
 - [Introduction aux modèles ouverts](contenu/introduction.md)
 - [Histoire des modèles ouverts](contenu/histoire.md)
 - [Méthode de construction d'un commun numérique](contenu/methode/README.md)
