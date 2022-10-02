@@ -52,7 +52,7 @@ N'hésite pas à partager là-bas d'éventuels projets en lien avec les modèles
 ## Licences ⚖️
 
 Toutes les ressources de cette brique de connaissances peuvent être librement utilisés, modifiés et partagés pour vos
-propres usages, commercial ou non. Licence virale, les modifications/forks doivent être redistribuées licence CC BY-SA.
+propres usages, commercial ou non. Licence virale, les modifications/forks doivent être redistribuées sous licence CC BY-SA.
 
 Les citations pour rediriger vers la brique sont appréciables !
 
