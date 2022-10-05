@@ -24,3 +24,4 @@
 - Open Standard
 - Open Pedagogy
 - Open Design
+- Open License
