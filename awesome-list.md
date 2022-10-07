@@ -66,6 +66,14 @@
 - 👩🏽‍🔬 Enquête [Open Source Program Office 2022](https://todogroup.org/blog/ospo-survey-2022-results/) par TODO group
 - 👩‍🎓 [Site éducatif sur l'open source](https://opensource.dev/) de Google
 - 🕴️ [TODO](https://todogroup.org/), for organizations committed to Open Source and Open Source Program Offices
+- 🕴️ 🇫🇷 [Addulact](https://adullact.org/)
+- 🕴️ 🇫🇷 [The Open Source I Trust (TOSIT)](https://tosit.fr/)
+- 🕴️ 🇬🇧 [OpenUk](https://openuk.uk/)
+- 🕴️ 🇫🇷 [Conseil National du Logiciel Libre](https://cnll.fr/)
+- 🕴️ 🇫🇷 [Clusters d'entreprises du logiciel open source](https://cnll.fr/cnll/membres/), adhérents du CNLL
+- 🕴️ 🇪🇺 [OW2](https://www.ow2.org/), European Open Source Software Community
+- 🕴️ [Open Source Security Foundation](https://openssf.org/)
+- 🕴️ [Free/Libre and Open Source Software (FLOSS) foundations](https://flossfoundations.org/foundation-directory/)
 - 🕴️ [CodeGouv](https://code.gouv.fr/), code source du secteur public français
 - 🕴️ [OpenMairie](http://www.openmairie.org/)
 - [Guide des logiciels open source](https://www.smile.eu/fr/livres-blancslivres-blancs/guide-lopen-source), Smile
