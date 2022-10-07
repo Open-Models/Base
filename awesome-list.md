@@ -134,6 +134,7 @@
 - [Open Source Ecology](https://www.opensourceecology.org/)
 - 🕴️ [L'Atelier Paysan](https://www.latelierpaysan.org/)
 - 🕴️ [PinePhone](https://www.pine64.org/)
+- 🕴️ [Open Compute Project](https://www.opencompute.org/)
 - 📰 [Liste de projets open hardware](https://en.wikipedia.org/wiki/List_of_open-source_hardware_projects)
 - 📚 [Thingiverse](https://www.thingiverse.com/)
 
