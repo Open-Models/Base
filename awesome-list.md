@@ -5,6 +5,7 @@
 1. [Modèles ouverts et communs](#modèles-ouverts-et-communs)
 1. [Open Source](#open-source)
 1. [Open Science](#open-science)
+1. [Open Education](#open-education)
 1. [Open Innovation](#open-innovation)
 1. [Open Data](#open-data)
 1. [Open Hardware](#open-hardware)
@@ -125,6 +126,10 @@
 - 🕴️ [Center For Open Science](https://www.cos.io/)
 - 🕴️ [SPARC](https://sparcopen.org/)
 - 🕴️ [Facilitate Open Science Training for European Research (FOSTER)](https://www.fosteropenscience.eu/)
+
+## Open Education
+
+- 📚 [Sites de l'innovation pédagogique dans l'enseignement supérieur francophone](https://www.innovation-pedagogique.fr/article39.html)
 
 ## Open Innovation
 
