@@ -47,6 +47,7 @@
 - 📖 [Producing Open Source Software](https://producingoss.com/) de Karl Fogel
 - 📖 [Open Source 2.0](https://en.wikipedia.org/wiki/Open_Sources_2.0) - O'Reilly Media
 - 📖 [Open Sources: Voices from the Open Source Revolution](https://en.wikipedia.org/wiki/Open_Sources) - O'Reilly Media
+- 📖 [Vers une communication numérique plus sociale et solidaire](https://blog.comem.ch/wp-content/uploads/2020/08/guide_v2_read.pdf), guide ESS
 - 📰 Github - [The readme project](https://github.com/readme/) : Interview d'acteurs de l'open source
 - 📰 [The Open Source contributor funnel](https://github.com/AbcSxyZ/Open-Source-Education/edit/main/awesome-open-source-resources.md) - Mike McQuaid
 - 📰 [Awesome maintainers](https://github.com/nayafia/awesome-maintainers) - *"Talks, blog posts, and interviews about the experience of being an open source maintainer"*
