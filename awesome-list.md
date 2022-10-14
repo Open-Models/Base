@@ -39,6 +39,7 @@
 - 👩‍🎓 [Tutoriel des Communs Numériques](https://labo.societenumerique.gouv.fr/2019/10/16/tutoriel-aux-communs-numeriques-guide-pratique-pour-sengager-dans-une-demarche-de-commun-numerique/)
 - 👩‍🎓 [Économie de la contribution et entrepreneuriat - Base de connaissances](https://contribution.ch/EC1/EC1_Economie-de-la-Contribution_Base-de-connaissances_v0-9.pdf)
 - [Appel pour une société des communs](https://societedescommuns.com/appel/)
+- [copyleft.org](https://copyleft.org/)
 
 ## Open Source
 
