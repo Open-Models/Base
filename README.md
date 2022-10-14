@@ -41,8 +41,10 @@ Un projet collectif, un commun numérique construit collaborativement, ouvert à
 
 ## Contribuer 🐜
 
-Le [guide de contribution](organisation/guide-contribution.md) permet de découvrir quelques manières d'aider,
-des actions accessibles autant pour une personne qui découvre les modèles ouverts que des spécialistes de tout horizon !
+Les communs numériques reposent sur toute une culture de la contribution. Les apports de chacun viennent faire
+prospérer l'ensemble, à condition que l'écosystème autour d'un projet soit dans la capacité d'inclure des acteurs externes.
+
+Un [guide de contribution](organisation/guide-contribution.md) explique différentes manières d'aider sur ce projet de brique de connaissances, pour participer à cette démocratisation des modèles ouverts.
 
 ## Échanger avec la communauté 🤳🏼
 
