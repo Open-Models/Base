@@ -42,6 +42,7 @@
 - 👩🏽‍🔬 [Les net-up… une nouvelle forme du projet entrepreneurial ?](https://www.erudit.org/fr/revues/ipme/2017-v30-n2-ipme03119/1040456ar/)
 - [Appel pour une société des communs](https://societedescommuns.com/appel/)
 - [copyleft.org](https://copyleft.org/)
+- 👩🏽‍🔬 [Comment faire converger la transition numérique et la transition écologique au Québec dans un horizon de 20 ans ?](https://cheminsdetransition.org/defi-numerique.pdf), Chemins de transition (Université de Montréal)
 
 ## Open Source
 
