@@ -72,6 +72,7 @@
 - 👩🏽‍🔬 [Why We Engage in FLOSS: Answers from Core Developers](https://arxiv.org/pdf/1803.05741.pdf)
 - 👩🏽‍🔬 [Why Modern Open Source Projects Fail](https://arxiv.org/pdf/1707.02327.pdf)
 - 👩🏽‍🔬 [The Role of Foundations in Open Source Projects](https://livablesoftware.com/study-open-source-foundations/)
+- 👩🏽‍🔬 [Why Do Developers Adopt Open Source Software? Past, Present and Future](https://hal.archives-ouvertes.fr/hal-02305701)
 - 👩‍🎓 [Site éducatif sur l'open source](https://opensource.dev/) de Google
 - 🕴️ [TODO](https://todogroup.org/), for organizations committed to Open Source and Open Source Program Offices
 - 🕴️ 🇫🇷 [Addulact](https://adullact.org/)
