@@ -104,6 +104,7 @@
 - 👩🏽‍🔬 [The Economic Impacts of Open Science: A Rapid Evidence Assessment](https://www.mdpi.com/2304-6775/7/3/46/htm)
 - 👩🏽‍🔬 [Le marché de l'édition scientifique, entre accès « propriétaire » et accès « libre »](https://www.cairn.info/revue-hermes-la-revue-2010-2-page-137.htm)
 - 👩🏽‍🔬 [Point of View: How open science helps researchers succeed](https://elifesciences.org/articles/16800)
+- 👩🏽‍🔬 [L’archive ouverte HAL-SHS : Comment ça marche, pourquoi s’en servir ?](https://archivesic.ccsd.cnrs.fr/sic_00407275/file/Emigrinter2009_HALSHS.pdf), [2009]
 - 🔎 [Core](https://core.ac.uk/)
 - 🔎 [Sci-Hub](https://fr.wikipedia.org/wiki/Sci-Hub)
 - 📚 [Open Science Framework](https://osf.io/)
