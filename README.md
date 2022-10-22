@@ -9,7 +9,7 @@ se dessinent : des modèles ouverts qui fondent l'épicentre de cette révolutio
 
 Omniprésents, nous n'en connaissons presque rien. Les modèles ouverts ont déjà façonné le numérique
 et pourraient demain participer à transformer la société face aux crises de l'Anthropocène
-en modifiant de notre rapport au savoir.
+en modifiant notre rapport au savoir.
 
 La brique de connaissances sur les modèles ouverts se veut un commun numérique pour maîtriser ces nouveaux concepts : Open (Source) Software, Open Science, Open Education, Open Hardware, Open Data, Open Innovation, Open Standard, Open Organization...
 
