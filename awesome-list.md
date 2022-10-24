@@ -113,6 +113,7 @@
 - 👩🏽‍🔬 [L’archive ouverte HAL-SHS : Comment ça marche, pourquoi s’en servir ?](https://archivesic.ccsd.cnrs.fr/sic_00407275/file/Emigrinter2009_HALSHS.pdf), [2009]
 - 🔎 [Core](https://core.ac.uk/)
 - 🔎 [Sci-Hub](https://fr.wikipedia.org/wiki/Sci-Hub)
+- 🔎 [Libgen](https://fr.wikipedia.org/wiki/Library_Genesis), moteur de recherche d'articles et de livres
 - 📚 [Open Science Framework](https://osf.io/)
 - 📚 [HAL archive ouverte](https://hal.archives-ouvertes.fr/)
 - 📚 [Theses.fr](https://www.theses.fr/fr/)
