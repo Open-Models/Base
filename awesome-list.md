@@ -24,6 +24,7 @@
 - 👩‍🎓 Contenu Pédagogique
 - 🕴️ Acteur
 - 🔎 Moteur de recherche
+- 🛠️ Outils
 - 📚 Database
 
 ## Modèles ouverts et communs
@@ -114,6 +115,7 @@
 - 🔎 [Core](https://core.ac.uk/)
 - 🔎 [Sci-Hub](https://fr.wikipedia.org/wiki/Sci-Hub)
 - 🔎 [Libgen](https://fr.wikipedia.org/wiki/Library_Genesis), moteur de recherche d'articles et de livres
+- 🛠️ [Sherpa Romeo](https://v2.sherpa.ac.uk/romeo/), analyses des politiques open access des éditeurs
 - 📚 [Open Science Framework](https://osf.io/)
 - 📚 [HAL archive ouverte](https://hal.archives-ouvertes.fr/)
 - 📚 [Theses.fr](https://www.theses.fr/fr/)
