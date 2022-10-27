@@ -116,6 +116,7 @@
 - 🔎 [Sci-Hub](https://fr.wikipedia.org/wiki/Sci-Hub)
 - 🔎 [Libgen](https://fr.wikipedia.org/wiki/Library_Genesis), moteur de recherche d'articles et de livres
 - 🛠️ [Sherpa Romeo](https://v2.sherpa.ac.uk/romeo/), analyses des politiques open access des éditeurs
+- 🛠️ [Unpaywall](https://unpaywall.org/), extension navigateur pour contourner les paywalls
 - 📚 [Open Science Framework](https://osf.io/)
 - 📚 [HAL archive ouverte](https://hal.archives-ouvertes.fr/)
 - 📚 [Theses.fr](https://www.theses.fr/fr/)
