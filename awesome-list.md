@@ -112,6 +112,7 @@
 - 👩🏽‍🔬 [Le marché de l'édition scientifique, entre accès « propriétaire » et accès « libre »](https://www.cairn.info/revue-hermes-la-revue-2010-2-page-137.htm)
 - 👩🏽‍🔬 [Point of View: How open science helps researchers succeed](https://elifesciences.org/articles/16800)
 - 👩🏽‍🔬 [L’archive ouverte HAL-SHS : Comment ça marche, pourquoi s’en servir ?](https://archivesic.ccsd.cnrs.fr/sic_00407275/file/Emigrinter2009_HALSHS.pdf), [2009]
+- 👩🏽‍🔬 [Amplifying the impact of open access: Wikipedia and the diffusion of science](https://asistdl.onlinelibrary.wiley.com/doi/full/10.1002/asi.23687)
 - 🔎 [Core](https://core.ac.uk/)
 - 🔎 [Sci-Hub](https://fr.wikipedia.org/wiki/Sci-Hub)
 - 🔎 [Libgen](https://fr.wikipedia.org/wiki/Library_Genesis), moteur de recherche d'articles et de livres
