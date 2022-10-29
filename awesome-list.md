@@ -100,9 +100,9 @@
 ## Open Science
 
 - 📡 [Open Science Magazine](https://open-science-future.zbw.eu/en/)
-- 📖 [Passeport pour la science ouverte : guide pratique à l'usage des doctorant(e)s](https://www.ouvrirlascience.fr/wp-content/uploads/2021/10/SO_21-10-14-WEB-FR.pdf)
 - 📖 [Opening Science](http://www.openingscience.org/get-the-book/), Sönke Bartling & Sascha Friesike
 - 👩‍🎓 🇫🇷 [MOOC La science ouverte](https://www.fun-mooc.fr/fr/cours/la-science-ouverte/), par France Université Numérique (FUN) MOOC
+- 👩‍🎓 🇫🇷 [Passeport pour la science ouverte : guide pratique à l'usage des doctorant(e)s](https://www.ouvrirlascience.fr/wp-content/uploads/2021/10/SO_21-10-14-WEB-FR.pdf)
 - 👩‍🎓 [The Open Science Training Handbook](https://open-science-training-handbook.github.io/Open-Science-Training-Handbook_EN//) by Foster open science
 - 👩‍🎓 🇫🇷 [Guide sur les journaux prédateurs](https://www.unige.ch/biblio/files/8316/4362/2029/2022_midi_predatory_journals_memo_fr_v1.pdf), Université de Genève
 - 🎥 [Open Science : À qui les données de la science appartiennent-elles ?](https://www.youtube.com/watch?v=vsP8S63qOhY), La Tronche en biais ft. TenL95
