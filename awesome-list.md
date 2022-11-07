@@ -64,6 +64,7 @@
 - 📰 [Projet GPL Violations](https://gpl-violations.org/) [inactif, archivage]
 - 📰 [Dossier magazine Swissquote : Les milliards de l'open source](https://resources.swissquote.com/sites/default/files/2020-08/magazine_56_fr.pdf)
 - 📰 [The five stages of the Open Source Program Office](https://blog.opensource.org/the-five-stages-of-the-open-source-program-office/)
+- 📰 [We're living in a post-open source world](https://www.infoworld.com/article/2608576/open-source-software-we-re-living-in-a-post-open-source-world.html)
 - 🎥 [The Rise Of Open-Source Software - reportage CNBC](https://www.youtube.com/watch?v=SpeDK1TPbew)
 - 🎥 [Max Stoiber - open source your projects](https://www.youtube.com/watch?v=hwdeUG_gySI)
 - 🎥 [Max Stoiber - How Open Source Changed My Life](https://www.youtube.com/watch?v=ifq3xhik8tE)
