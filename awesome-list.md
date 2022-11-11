@@ -93,6 +93,7 @@
 - 🕴️ [OpenMairie](http://www.openmairie.org/)
 - 🕴️ [Framasoft](https://framasoft.org/fr/)
 - 🕴️ [Open Source Observatory](https://joinup.ec.europa.eu/collection/open-source-observatory-osor), commission européene
+- [Transform to Open Science (TOPS)](https://science.nasa.gov/open-science/transform-to-open-science), mission NASA
 - 📚 [Guide des logiciels open source](https://www.smile.eu/fr/livres-blancslivres-blancs/guide-lopen-source), Smile
 - 📚 [Awesome-Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted), liste de logiciels open source à auto-héberger
 - 📚 [(Ex-)Annuaire des principaux logiciels libres & open source](https://www.jdbonjour.ch/logiciel-libre/), EPFL
