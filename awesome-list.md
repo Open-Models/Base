@@ -48,6 +48,7 @@
 - 👩🏽‍🔬 [Comment faire converger la transition numérique et la transition écologique au Québec dans un horizon de 20 ans ?](https://cheminsdetransition.org/defi-numerique.pdf), Chemins de transition (Université de Montréal)
 - 📰 [Podcast Brevets et droits d’auteur : propriétés fragiles](https://www.radiofrance.fr/franceculture/podcasts/concordance-des-temps/brevets-et-droits-d-auteur-proprietes-fragiles-2322638), France Culture avec l'Historien Gabriel Galvez-Behar
 - 📚 [Openverse](https://wordpress.org/openverse/), banque d'image et son sous CC
+- 🕴️ [Fabrique des mobilités](https://lafabriquedesmobilites.fr/), construire la mobilité durable via les communs
 
 ## Open Source
 
