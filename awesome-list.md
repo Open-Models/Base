@@ -162,6 +162,9 @@
 
 ## Open Education
 
+- 📚 [OER Commons](https://www.oercommons.org/)
+- 📚 [MIT OpenCourseWare](https://ocw.mit.edu/)
+- 📚 [Databases of Open Educational Ressources](https://guides.library.unr.edu/oer/find), by University of Nevada
 - 📚 [Sites de l'innovation pédagogique dans l'enseignement supérieur francophone](https://www.innovation-pedagogique.fr/article39.html)
 - 🕴️ 🇫🇷 [Délégation Académique au Numérique Éducatif (DANE)](https://www.ac-paris.fr/delegation-academique-au-numerique-educatif-dane-122341), AC Paris
 - 👩🏽‍🔬 🇫🇷 [Sondage annuel (depuis 2014) usage numérique chez les enseignants](https://www.ac-paris.fr/sondage-sur-les-usages-du-numerique-123944)
