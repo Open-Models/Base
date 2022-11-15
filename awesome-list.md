@@ -66,6 +66,7 @@
 - 📰 [Dossier magazine Swissquote : Les milliards de l'open source](https://resources.swissquote.com/sites/default/files/2020-08/magazine_56_fr.pdf)
 - 📰 [The five stages of the Open Source Program Office](https://blog.opensource.org/the-five-stages-of-the-open-source-program-office/)
 - 📰 [We're living in a post-open source world](https://www.infoworld.com/article/2608576/open-source-software-we-re-living-in-a-post-open-source-world.html)
+- 📰 [Open source has a funding problem](https://stackoverflow.blog/2021/01/07/open-source-has-a-funding-problem/), the Overflow
 - 🎥 [The Rise Of Open-Source Software - reportage CNBC](https://www.youtube.com/watch?v=SpeDK1TPbew)
 - 🎥 [Max Stoiber - open source your projects](https://www.youtube.com/watch?v=hwdeUG_gySI)
 - 🎥 [Max Stoiber - How Open Source Changed My Life](https://www.youtube.com/watch?v=ifq3xhik8tE)
@@ -103,6 +104,10 @@
 - 📚 [Open Source - répertoire des (50) sites de référence et de formation, Thot Cursus](https://cursus.edu/fr/17405/open-source-code-source-libre-repertoire-des-sites-de-reference-et-de-formation)
 - 📚 [Open Source Events](https://github.com/anubhavpulkit/Open-Source-Events)
 - 📚 [Software Heritage](https://www.softwareheritage.org/), archive ouverte universelle de logiciels
+- 🛠️ [GitHub Sponsor](https://github.com/sponsors)
+- 🛠️ [FundOSS](https://fundoss.org/)
+- 🛠️ [Free Software Fund](https://www.fsf.org/working-together/fund) (FSF)
+- 🛠️ [Copie Publique](https://copiepublique.fr/), crowfunding d'entreprises pour support brique logicielle
 
 ## Open Science
 
