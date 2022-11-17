@@ -50,6 +50,7 @@
 - 📰 [Podcast Brevets et droits d’auteur : propriétés fragiles](https://www.radiofrance.fr/franceculture/podcasts/concordance-des-temps/brevets-et-droits-d-auteur-proprietes-fragiles-2322638), France Culture avec l'Historien Gabriel Galvez-Behar
 - 📚 [Openverse](https://wordpress.org/openverse/), banque d'image et son sous CC
 - 📚 [Pixabay](https://pixabay.com/), banque d'images, sons et vidéos libres de droits
+- 📚 [Iconoir](https://iconoir.com/), librairie de logo
 - 🕴️ [Fabrique des mobilités](https://lafabriquedesmobilites.fr/), construire la mobilité durable via les communs
 
 ## Open Source
