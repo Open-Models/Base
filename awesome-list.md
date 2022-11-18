@@ -9,6 +9,7 @@
 1. [Open Innovation](#open-innovation)
 1. [Open Data](#open-data)
 1. [Open Hardware](#open-hardware)
+1. [Open Content](#open-content)
 1. [Open Business](#open-business)
 1. [Open Health](#open-health)
 1. [Open Collaboration](#open-collaboration)
@@ -203,6 +204,12 @@
 - 📰 [Liste de projets open hardware](https://en.wikipedia.org/wiki/List_of_open-source_hardware_projects)
 - 📚 [Thingiverse](https://www.thingiverse.com/)
 - 👩🏽‍🔬 [Business models for open source hardware](https://tel.archives-ouvertes.fr/tel-02504769/document)
+
+## Open Content
+
+- 📰 [Ouverture des contenus et des données dans les institutions culturelles : où en sommes-nous ?](https://labo.societenumerique.gouv.fr/fr/articles/ouverture-des-contenus-et-des-donn%C3%A9es-dans-les-institutions-culturelles-o%C3%B9-en-sommes-nous/)
+- 📚 [Paris Musées Collections](https://www.parismuseescollections.paris.fr/fr)
+- 🕴️ [Open GLAM](https://openglam.org/) (Gallerie, Librarie, Archive and Museum)
 
 ## Open Business
 
