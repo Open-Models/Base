@@ -164,6 +164,7 @@
 - 🕴️[OpenAIRE](https://www.openaire.eu/), create and operate services for Open Science
 - 🕴️ [European Open Science Cloud](https://eosc-portal.eu/)
 - 🕴️ [Ouvrir la science](https://www.ouvrirlascience.fr/)
+- 🕴️ 🇫🇷 [Le Fonds National pour la Science Ouverte](https://www.ouvrirlascience.fr/category/fnso/projets-initiatives-fnso/?menu=2)
 - 🕴️ [Center For Open Science](https://www.cos.io/)
 - 🕴️ [SPARC](https://sparcopen.org/)
 - 🕴️ [Facilitate Open Science Training for European Research (FOSTER)](https://www.fosteropenscience.eu/)
