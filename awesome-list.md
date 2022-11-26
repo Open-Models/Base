@@ -166,6 +166,7 @@
 - 🕴️ [Ouvrir la science](https://www.ouvrirlascience.fr/)
 - 🕴️ [Center For Open Science](https://www.cos.io/)
 - 🕴️ [SPARC](https://sparcopen.org/)
+- 🕴️ [Electronic Information for Libraries (EIFL)](https://www.eifl.net/)
 - 🕴️ [Facilitate Open Science Training for European Research (FOSTER)](https://www.fosteropenscience.eu/)
 - 🕴️ 🇪🇺 [Plan S](https://www.coalition-s.org/), coalition (cOAlition S) de financeurs public/privé de la recherche
 
