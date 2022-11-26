@@ -169,6 +169,7 @@
 - 🕴️ [SPARC](https://sparcopen.org/)
 - 🕴️ [Facilitate Open Science Training for European Research (FOSTER)](https://www.fosteropenscience.eu/)
 - 🕴️ 🇪🇺 [Plan S](https://www.coalition-s.org/), coalition (cOAlition S) de financeurs public/privé de la recherche
+- 🕴️ [Portail Open Science Centre Européen pour la Recherche Nucléaire (CERN)](https://openscience.cern/)
 
 ## Open Education
 
