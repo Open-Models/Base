@@ -13,6 +13,7 @@
 1. [Open Business](#open-business)
 1. [Open Health](#open-health)
 1. [Open Collaboration](#open-collaboration)
+1. [Open Standard](#open-standard)
 1. [Type indéterminé](#type-indéterminé)
 
 **Type de ressources** :
@@ -233,6 +234,10 @@
 
 - 👩🏽‍🔬 [Defining, Understanding and Supporting Open Collaboration: Lessons from the Literature](http://andreaforte.net/ForteLampe-Submitted.pdf), Andrea Forte, Cliff Lampe
 - 👩🏽‍🔬 [Commons-based Peer Production and Virtue](https://nissenbaum.tech.cornell.edu/papers/jopp_235.pdf), Yochai Benkler, Helen Nissenbaum
+
+## Open Standard
+
+- 🏦 🇪🇺[Interoperable Europe Act](https://ec.europa.eu/commission/presscorner/detail/fr/ip_22_6907)
 
 ## Type indéterminé
 
