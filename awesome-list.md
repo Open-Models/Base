@@ -10,6 +10,7 @@
 1. [Open Data](#open-data)
 1. [Open Hardware](#open-hardware)
 1. [Open Content](#open-content)
+1. [Open Scolarship](#open-scolarship)
 1. [Open Business](#open-business)
 1. [Open Health](#open-health)
 1. [Open Collaboration](#open-collaboration)
@@ -147,6 +148,7 @@
 - 📚 [SpringerOpen](https://www.springeropen.com/)
 - 📚 [recherche.data.gouv.fr](https://recherche.data.gouv.fr/fr)
 - 📚 [Academics on Mastodon](https://github.com/nathanlesage/academics-on-mastodon)
+- 📚 [Open Science Success Stories Database](https://projectopen.io/)
 - 🏦🇺🇸 White House Office of Science and Technology Policy, [orientation politique du 25/08/2022](https://www.whitehouse.gov/ostp/news-updates/2022/08/25/breakthroughs-for-alldelivering-equitable-access-to-americas-research/)
 - 🏦 🇫🇷 [Plan national pour la science ouverte](https://www.enseignementsup-recherche.gouv.fr/fr/le-plan-national-pour-la-science-ouverte-les-resultats-de-la-recherche-scientifique-ouverts-tous-49241)
 - 🏦🇫🇷 [Deuxième plan pour la science ouverte, généraliser la science ouverte en France 2021-2024](https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2021-09/2e-plan-national-pour-la-science-ouverte-12968.pdf)
@@ -174,6 +176,7 @@
 - 🕴️ 🇪🇺 [Plan S](https://www.coalition-s.org/), coalition (cOAlition S) de financeurs public/privé de la recherche
 - 🕴️ [Portail Open Science Centre Européen pour la Recherche Nucléaire (CERN)](https://openscience.cern/)
 - 🕴️ 🇪🇺 [Open Universal Science (OPUS)](https://opusproject.eu/)
+- 🕴️ [Open Research Funders Group](https://www.orfg.org/)
 
 ## Open Education
 
@@ -218,6 +221,11 @@
 - 📰 [Ouverture des contenus et des données dans les institutions culturelles : où en sommes-nous ?](https://labo.societenumerique.gouv.fr/fr/articles/ouverture-des-contenus-et-des-donn%C3%A9es-dans-les-institutions-culturelles-o%C3%B9-en-sommes-nous/)
 - 📚 [Paris Musées Collections](https://www.parismuseescollections.paris.fr/fr)
 - 🕴️ [Open GLAM](https://openglam.org/) (Gallerie, Librarie, Archive and Museum)
+
+## Open Scolarship
+
+- 🕴️ [Higher Education Leadership Initiative for Open Scholarship](https://www.heliosopen.org/) (HELIOS)
+- 🕴️ [Alliance for Open Scolarship](https://www.all4os.org/) (All4OS)
 
 ## Open Business
 

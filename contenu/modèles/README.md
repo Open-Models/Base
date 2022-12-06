@@ -23,5 +23,6 @@
 - Open (Source) Software
 - Open Standard
 - Open Pedagogy
+- Open Scolarship
 - Open Design
 - Open License
