@@ -197,6 +197,7 @@
 
 - [Pappers](https://pappers.fr) pour les informations d'entreprises, [Justice Pappers](https://justice.pappers.fr/) pour les décisions de justice
 - 📚 [data.gouv.fr](https://www.data.gouv.fr/fr/)
+- 📚 [open.urssaf.fr](https://open.urssaf.fr)
 - 📚 [Radio Garden FM AM](https://radio.garden/), map monde des radios
 - 📰 [OpenStreetMap is having a Moment](https://joemorrison.medium.com/openstreetmap-is-having-a-moment-dcc7eef1bb01) (organisations investment)
 - 📰 [The world needs a better map: TomTom is making it with its new mapping platform and ecosystem](https://www.tomtom.com/newsroom/behind-the-map/the-future-of-mapmaking-tomtom-maps-platform/) (2022)
