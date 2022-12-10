@@ -179,6 +179,7 @@
 - 🕴️ [Portail Open Science Centre Européen pour la Recherche Nucléaire (CERN)](https://openscience.cern/)
 - 🕴️ 🇪🇺 [Open Universal Science (OPUS)](https://opusproject.eu/)
 - 🕴️ [Open Research Funders Group](https://www.orfg.org/)
+- 🕴️ [Invest in Open Infrastructure](https://investinopen.org/)
 
 ## Open Education
 
