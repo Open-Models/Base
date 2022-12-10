@@ -42,6 +42,7 @@
 - 🎥 [De la propriété privée aux communs](https://www.youtube.com/watch?v=2wPRUyleCCo), Entretien avec Pierre Crétois
 - 🎥 "[Je propose de dépasser la propriété privée par la propriété sociale et temporaire](https://www.youtube.com/watch?v=3VUSPKko8Do)", Interview Thomas Piketty France Inter
 - 🎥 [Biens ou bien : une histoire de la propriété](https://www.youtube.com/watch?v=sOhekXybHL4), Interview Arnaud-Dominique Houte
+- 🎥 [The Internet's Own Boy: The Story of Aaron Swartz](https://www.youtube.com/watch?v=9vz06QO3UkQ)
 - 👩‍🎓 [Boite à Outils des Communs Numériques](https://doc.incubateur.net/outils-communs/)
 - 👩‍🎓 [Tutoriel des Communs Numériques](https://labo.societenumerique.gouv.fr/2019/10/16/tutoriel-aux-communs-numeriques-guide-pratique-pour-sengager-dans-une-demarche-de-commun-numerique/)
 - 👩‍🎓 [Économie de la contribution et entrepreneuriat - Base de connaissances](https://contribution.ch/EC1/EC1_Economie-de-la-Contribution_Base-de-connaissances_v0-9.pdf)
@@ -166,6 +167,7 @@
 - [Budapest Open Access Initiative](https://www.budapestopenaccessinitiative.org/read/), 2002
 - [Berlin Declaration on Open Access to Knowledge in the Sciences and Humanities](https://openaccess.mpg.de/Berlin-Declaration), 2003
 - [Bethesda Statement on Open Access Publishing](http://legacy.earlham.edu/~peters/fos/bethesda.htm), 2003
+- [Guerilla Open Access Manifesto](https://archive.org/details/GuerillaOpenAccessManifesto/mode/2up)
 - [Open Climate Campaign](https://openclimatecampaign.org/)
 - 🕴️ [Directory of Open Access Journals](https://doaj.org/), find open access journals & articles
 - 📰 [Liste Wikipédia de dépôts de pré-publication](https://en.wikipedia.org/wiki/List_of_preprint_repositories)
