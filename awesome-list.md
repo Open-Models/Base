@@ -54,6 +54,7 @@
 - 📚 [Pixabay](https://pixabay.com/), banque d'images, sons et vidéos libres de droits
 - 📚 [Iconoir](https://iconoir.com/), librairie de logo
 - 🕴️ [Fabrique des mobilités](https://lafabriquedesmobilites.fr/), construire la mobilité durable via les communs
+- 🕴️ [Open Future Foundation](https://openfuture.eu/)
 
 ## Open Source
 
