@@ -55,6 +55,8 @@
 - 📚 [Iconoir](https://iconoir.com/), librairie de logo
 - 📚 [Directory of Open Access Books](https://www.doabooks.org/) (DOAB)
 - 🕴️ [Fabrique des mobilités](https://lafabriquedesmobilites.fr/), construire la mobilité durable via les communs
+- 🕴️ [Open Future Foundation](https://openfuture.eu/)
+- 🕴️ 🇪🇺 [OpenForum Europe](https://openforumeurope.org/)
 
 ## Open Source
 
