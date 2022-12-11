@@ -135,6 +135,7 @@
 - 👩🏽‍🔬 [L’archive ouverte HAL-SHS : Comment ça marche, pourquoi s’en servir ?](https://archivesic.ccsd.cnrs.fr/sic_00407275/file/Emigrinter2009_HALSHS.pdf), [2009]
 - 👩🏽‍🔬 [Amplifying the impact of open access: Wikipedia and the diffusion of science](https://asistdl.onlinelibrary.wiley.com/doi/full/10.1002/asi.23687)
 - 👩🏽‍🔬 [Open Science for private Interests? How the Logic of Open Science Contributes to the Commercialization of Research](https://www.frontiersin.org/articles/10.3389/frma.2020.588331/full)
+- 👩🏽‍🔬 [Open access publishing – noble intention, flawed reality](https://www.sciencedirect.com/science/article/pii/S027795362200898X)
 - 🛠️ [Core](https://core.ac.uk/)
 - 🛠️ [Sci-Hub](https://fr.wikipedia.org/wiki/Sci-Hub)
 - 🛠️ [Libgen](https://fr.wikipedia.org/wiki/Library_Genesis), moteur de recherche d'articles et de livres
