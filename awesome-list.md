@@ -53,6 +53,7 @@
 - 📚 [Openverse](https://wordpress.org/openverse/), banque d'image et son sous CC
 - 📚 [Pixabay](https://pixabay.com/), banque d'images, sons et vidéos libres de droits
 - 📚 [Iconoir](https://iconoir.com/), librairie de logo
+- 📚 [Directory of Open Access Books](https://www.doabooks.org/) (DOAB)
 - 🕴️ [Fabrique des mobilités](https://lafabriquedesmobilites.fr/), construire la mobilité durable via les communs
 
 ## Open Source
