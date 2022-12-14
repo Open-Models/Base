@@ -233,6 +233,7 @@
 
 - 🕴️ [Higher Education Leadership Initiative for Open Scholarship](https://www.heliosopen.org/) (HELIOS)
 - 🕴️ [Alliance for Open Scolarship](https://www.all4os.org/) (All4OS)
+- 📚 [Ubiquity Press](https://www.ubiquitypress.com/), open access publisher of peer-reviewed academic journals, books and data
 
 ## Open Business
 
