@@ -231,6 +231,7 @@
 
 - 📰 [Ouverture des contenus et des données dans les institutions culturelles : où en sommes-nous ?](https://labo.societenumerique.gouv.fr/fr/articles/ouverture-des-contenus-et-des-donn%C3%A9es-dans-les-institutions-culturelles-o%C3%B9-en-sommes-nous/)
 - 📚 [Paris Musées Collections](https://www.parismuseescollections.paris.fr/fr)
+- 📚 [Unesdoc open access ressources](https://unesdoc.unesco.org/notice?id=72a71bb0-74c9-4ef5-a26b-934dd8b90ab8), by United Nations Educational, Scientific and Cultural Organization (UNESCO)
 - 🕴️ [Open GLAM](https://openglam.org/) (Gallerie, Librarie, Archive and Museum)
 
 ## Open Scolarship
