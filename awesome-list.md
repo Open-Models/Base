@@ -225,6 +225,7 @@
 
 - 🎥 [Le libre et l'open source des logiciels et objets - monsieur Bidouille](https://www.youtube.com/watch?v=y2GNVGagWdM)
 - 🕴️ [Arduino](https://www.arduino.cc/)
+- 🛠️ [Prusa](https://www.prusa3d.com/), imprimantes 3D
 - [Open Source Ecology](https://www.opensourceecology.org/)
 - 🕴️ [L'Atelier Paysan](https://www.latelierpaysan.org/)
 - 🕴️ [PinePhone](https://www.pine64.org/)
