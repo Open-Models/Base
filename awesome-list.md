@@ -271,6 +271,7 @@
 ## Open Standard
 
 - 🏦 🇪🇺[Interoperable Europe Act](https://ec.europa.eu/commission/presscorner/detail/fr/ip_22_6907)
+- 🛠️ [RISC-V](https://riscv.org/), Instruction Set Architecture (computer architecture)
 
 ## Type indéterminé
 
