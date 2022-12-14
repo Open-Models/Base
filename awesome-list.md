@@ -151,6 +151,7 @@
 - 📚 [recherche.data.gouv.fr](https://recherche.data.gouv.fr/fr)
 - 📚 [Academics on Mastodon](https://github.com/nathanlesage/academics-on-mastodon)
 - 📚 [Open Science Success Stories Database](https://projectopen.io/)
+- 📚 [Open Access Publishing Tools](https://radicaloa.disruptivemedia.org.uk/resources/publishing-tools/), by Radical Open Access
 - 🏦🇺🇸 White House Office of Science and Technology Policy, [orientation politique du 25/08/2022](https://www.whitehouse.gov/ostp/news-updates/2022/08/25/breakthroughs-for-alldelivering-equitable-access-to-americas-research/)
 - 🏦 🇫🇷 [Plan national pour la science ouverte](https://www.enseignementsup-recherche.gouv.fr/fr/le-plan-national-pour-la-science-ouverte-les-resultats-de-la-recherche-scientifique-ouverts-tous-49241)
 - 🏦🇫🇷 [Deuxième plan pour la science ouverte, généraliser la science ouverte en France 2021-2024](https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2021-09/2e-plan-national-pour-la-science-ouverte-12968.pdf)
@@ -175,6 +176,7 @@
 - 🕴️ [SPARC](https://sparcopen.org/)
 - 🕴️ [Electronic Information for Libraries (EIFL)](https://www.eifl.net/)
 - 🕴️ [Facilitate Open Science Training for European Research (FOSTER)](https://www.fosteropenscience.eu/)
+- 🕴️ [Radical Open Access](https://radicaloa.disruptivemedia.org.uk/)
 - 🕴️ 🇪🇺 [Plan S](https://www.coalition-s.org/), coalition (cOAlition S) de financeurs public/privé de la recherche
 - 🕴️ [Portail Open Science Centre Européen pour la Recherche Nucléaire (CERN)](https://openscience.cern/)
 - 🕴️ 🇪🇺 [Open Universal Science (OPUS)](https://opusproject.eu/)
