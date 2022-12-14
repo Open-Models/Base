@@ -82,6 +82,7 @@
 - Label [Territoire Numérique Libre](https://territoire-numerique-libre.org)
 - 👩🏽‍🔬 Étude FOSSEPS pour la commission Européenne - [Free and Open Source Software Solutions for European Public Services](https://joinup.ec.europa.eu/collection/fosseps/news/fosseps-critical-open-source-software-study-report)
 - 👩🏽‍🔬 Enquête [Open Source Program Office 2022](https://todogroup.org/blog/ospo-survey-2022-results/) par TODO group
+- 👩🏽‍🔬 Enquête GitHub [State of the Octoverse](https://octoverse.github.com/)
 - 👩🏽‍🔬 [Why We Engage in FLOSS: Answers from Core Developers](https://arxiv.org/pdf/1803.05741.pdf)
 - 👩🏽‍🔬 [Why Modern Open Source Projects Fail](https://arxiv.org/pdf/1707.02327.pdf)
 - 👩🏽‍🔬 [The Role of Foundations in Open Source Projects](https://livablesoftware.com/study-open-source-foundations/)
