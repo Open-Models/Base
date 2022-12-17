@@ -57,6 +57,7 @@
 - 🕴️ [Fabrique des mobilités](https://lafabriquedesmobilites.fr/), construire la mobilité durable via les communs
 - 🕴️ [Open Future Foundation](https://openfuture.eu/)
 - 🕴️ 🇪🇺 [OpenForum Europe](https://openforumeurope.org/)
+- 🕴️ [Open Climate](https://open-climate.org/), exploring the intersection between the open movement and the climate crisis
 
 ## Open Source
 
