@@ -101,6 +101,7 @@
 - 🕴️ [Framasoft](https://framasoft.org/fr/)
 - 🕴️ [Open Source Observatory](https://joinup.ec.europa.eu/collection/open-source-observatory-osor), commission européene
 - 🕴️ [Foundation for Public Code](https://publiccode.net/)
+- 🕴️ [OpenInfra Foundation](https://openinfra.dev/)
 - [Transform to Open Science (TOPS)](https://science.nasa.gov/open-science/transform-to-open-science), mission NASA
 - [Public Code, Public Money](https://publiccode.eu/)
 - 📚 [Guide des logiciels open source](https://www.smile.eu/fr/livres-blancslivres-blancs/guide-lopen-source), Smile
