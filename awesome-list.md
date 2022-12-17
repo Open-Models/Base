@@ -212,6 +212,7 @@
 - 📚 [Radio Garden FM AM](https://radio.garden/), map monde des radios
 - 📰 [OpenStreetMap is having a Moment](https://joemorrison.medium.com/openstreetmap-is-having-a-moment-dcc7eef1bb01) (organisations investment)
 - 📰 [The world needs a better map: TomTom is making it with its new mapping platform and ecosystem](https://www.tomtom.com/newsroom/behind-the-map/the-future-of-mapmaking-tomtom-maps-platform/) (2022)
+- 🕴️ [Overture Maps Foundation](https://overturemaps.org/), coalition pour des cartes interopérables
 
 ## Open Hardware
 
