@@ -205,6 +205,7 @@
 - 👩🏽‍🔬 [A Study of Patent Open Source Strategies Based on Open Innovation: The Case of Tesla](https://www.scirp.org/journal/paperinformation.aspx?paperid=101900)
 - 👩🏽‍🔬 [Intellectual Property and Licensing Strategies in Open Collaborative Innovation](http://www.marcelbogers.com/Pubs/Bogers-Bekkers-Granstrand_2012_ch3_Intellectual-Property-and-Licensing-Strategies-in-Open-Collaborative-Innovation.pdf)
 - 🕴️ [Open Innovation Network](https://openinventionnetwork.com/)
+- 🕴️ 🇫🇷 [pole-emploi.io](https://pole-emploi.io/), plateforme d’innovation ouverte pôle emploi
 
 ## Open Data
 
