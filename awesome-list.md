@@ -59,6 +59,7 @@
 - 🕴️ [Fabrique des mobilités](https://lafabriquedesmobilites.fr/), construire la mobilité durable via les communs
 - 🕴️ [Open Future Foundation](https://openfuture.eu/)
 - 🕴️ 🇪🇺 [OpenForum Europe](https://openforumeurope.org/)
+- 🕴️ 🇬🇧 [OpenUk](https://openuk.uk/)
 - 🕴️ [Open Climate](https://open-climate.org/), exploring the intersection between the open movement and the climate crisis
 
 ## Open Source
@@ -97,7 +98,6 @@
 - 🕴️ [TODO](https://todogroup.org/), for organizations committed to Open Source and Open Source Program Offices
 - 🕴️ 🇫🇷 [Addulact](https://adullact.org/)
 - 🕴️ 🇫🇷 [The Open Source I Trust (TOSIT)](https://tosit.fr/)
-- 🕴️ 🇬🇧 [OpenUk](https://openuk.uk/)
 - 🕴️ 🇫🇷 [Conseil National du Logiciel Libre](https://cnll.fr/)
 - 🕴️ 🇫🇷 [Clusters d'entreprises du logiciel open source](https://cnll.fr/cnll/membres/), adhérents du CNLL
 - 🕴️ 🇪🇺 [OW2](https://www.ow2.org/), European Open Source Software Community
