@@ -222,6 +222,7 @@
 
 - [Pappers](https://pappers.fr) pour les informations d'entreprises, [Justice Pappers](https://justice.pappers.fr/) pour les décisions de justice
 - 📚 [data.gouv.fr](https://www.data.gouv.fr/fr/)
+- 📚 🇫🇷 [api.gouv.fr](https://api.gouv.fr/), liste API des services publics
 - 📚 [open.urssaf.fr](https://open.urssaf.fr)
 - 📚 [Global Biodiversity Information Facility](https://www.gbif.org/) (GBIF)
 - 📚 [Radio Garden FM AM](https://radio.garden/), map monde des radios
