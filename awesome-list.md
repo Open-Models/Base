@@ -102,7 +102,6 @@
 - 🕴️ [Open Source Observatory](https://joinup.ec.europa.eu/collection/open-source-observatory-osor), commission européene
 - 🕴️ [Foundation for Public Code](https://publiccode.net/)
 - 🕴️ [OpenInfra Foundation](https://openinfra.dev/)
-- [Transform to Open Science (TOPS)](https://science.nasa.gov/open-science/transform-to-open-science), mission NASA
 - [Public Code, Public Money](https://publiccode.eu/)
 - 📚 [Guide des logiciels open source](https://www.smile.eu/fr/livres-blancslivres-blancs/guide-lopen-source), Smile
 - 📚 [Awesome-Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted), liste de logiciels open source à auto-héberger
@@ -158,6 +157,7 @@
 - 🏦 🇪🇺 [Analyses des politiques d'open science en Europe (V7)](https://zenodo.org/record/4725817)
 - 🏦 🇪🇺 [Open Science Monitor](https://ec.europa.eu/info/research-and-innovation/strategy/strategy-2020-2024/our-digital-future/open-science/open-science-monitor_en) de la Commission Européenne
 - 🏦 🇫🇷 [Open Science Monitor](https://frenchopensciencemonitor.esr.gouv.fr/) français
+- 🏦 🇺🇸 [Transform to Open Science (TOPS)](https://science.nasa.gov/open-science/transform-to-open-science), mission NASA
 - [Budapest Open Access Initiative](https://www.budapestopenaccessinitiative.org/read/), 2002
 - [Berlin Declaration on Open Access to Knowledge in the Sciences and Humanities](https://openaccess.mpg.de/Berlin-Declaration), 2003
 - [Bethesda Statement on Open Access Publishing](http://legacy.earlham.edu/~peters/fos/bethesda.htm), 2003
