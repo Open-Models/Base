@@ -110,6 +110,7 @@
 - 🕴️ [Foundation for Public Code](https://publiccode.net/)
 - 🕴️ [OpenInfra Foundation](https://openinfra.dev/)
 - [Public Code, Public Money](https://publiccode.eu/)
+- [fedigov.eu](https://fedigov.eu/fr/), promotion citoyenne du fediverse pour les institutions
 - 📚 [Guide des logiciels open source](https://www.smile.eu/fr/livres-blancslivres-blancs/guide-lopen-source), Smile
 - 📚 [Awesome-Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted), liste de logiciels open source à auto-héberger
 - 📚 [(Ex-)Annuaire des principaux logiciels libres & open source](https://www.jdbonjour.ch/logiciel-libre/), EPFL
