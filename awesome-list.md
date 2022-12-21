@@ -204,6 +204,7 @@
 - 🕴️ 🇫🇷 [Délégation Académique au Numérique Éducatif (DANE)](https://www.ac-paris.fr/delegation-academique-au-numerique-educatif-dane-122341), AC Paris
 - 🕴️ 🇺🇸 [Community College Consortium for OER](https://www.cccoer.org/) (CCCOER)
 - 🕴️ [Open Education Global](https://www.oeglobal.org/)
+- 🕴️ [Open EdTech](https://www.openedtech.global/), designing a global NextGen educational open source platform
 - 🕴️ 🇫🇷 [Fabrique des Communs Pédagogiques](https://fabpeda.org/)
 - 👩🏽‍🔬 🇫🇷 [Sondage annuel (depuis 2014) usage numérique chez les enseignants](https://www.ac-paris.fr/sondage-sur-les-usages-du-numerique-123944)
 - 📰 [Alternatives to paying for pricey textbooks](https://sanjosespotlight.com/rodriguez-alternatives-to-paying-for-pricey-textbooks/)
