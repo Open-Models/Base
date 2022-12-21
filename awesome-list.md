@@ -122,6 +122,7 @@
 - 🛠️ [FundOSS](https://fundoss.org/)
 - 🛠️ [Free Software Fund](https://www.fsf.org/working-together/fund) (FSF)
 - 🛠️ [Copie Publique](https://copiepublique.fr/), crowfunding d'entreprises pour support brique logicielle
+- 🛠️ [Open Source JobHub](https://opensourcejobhub.com/)
 
 ## Open Science
 
