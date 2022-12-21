@@ -257,6 +257,7 @@
 
 - 🕴️ [Higher Education Leadership Initiative for Open Scholarship](https://www.heliosopen.org/) (HELIOS)
 - 🕴️ [Alliance for Open Scolarship](https://www.all4os.org/) (All4OS)
+- 👩🏽‍🔬 [L'ouverture en question : quand des universités ouvertes se redéfinissent à l'ère de la globalisation numérique](https://theses.hal.science/tel-01687221) (Thèse)
 - 📚 [Ubiquity Press](https://www.ubiquitypress.com/), open access publisher of peer-reviewed academic journals, books and data
 
 ## Open Business
