@@ -178,6 +178,7 @@
 - 📰 [Liste Wikipédia de dépôts de pré-publication](https://en.wikipedia.org/wiki/List_of_preprint_repositories)
 - 📰 [« La science ouverte est une nouvelle façon de diffuser les savoirs, et les bibliothèques sont au cœur de cette évolution »](https://bbf.enssib.fr/bbffocus/la-science-ouverte-est-une-nouvelle-facon-de-diffuser-les-savoirs-et-les-bibliotheques-sont-au-coeur-de-cette-evolution_70750), interview responsables BU
 - 🕴️ [Peer Community In](https://peercommunityin.org/), organization of researchers offering peer review
+- 🕴️ [Coalition for Advancing Research Assessment](https://coara.eu/) (CoARA)
 - 🕴️🇫🇷 [Centre pour la Communication Scientifique Directe](https://www.ccsd.cnrs.fr/)
 - 🕴️🇫🇷 [Fond national pour la science ouverte](https://www.ouvrirlascience.fr/le-fonds-national-pour-la-science-ouverte/)
 - 🕴️[OpenAIRE](https://www.openaire.eu/), create and operate services for Open Science
