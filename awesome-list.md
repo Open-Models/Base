@@ -94,6 +94,7 @@
 - 👩🏽‍🔬 [The Role of Foundations in Open Source Projects](https://livablesoftware.com/study-open-source-foundations/)
 - 👩🏽‍🔬 [Why Do Developers Adopt Open Source Software? Past, Present and Future](https://hal.archives-ouvertes.fr/hal-02305701)
 - 👩‍🎓 [Site éducatif sur l'open source](https://opensource.dev/) de Google
+- 🏦 🇪🇺 [European Free and Open Source Software Auditing](https://commission.europa.eu/about-european-commission/departments-and-executive-agencies/informatics/eu-fossa-2-free-and-open-source-software-auditing_en) (EU-FOSSA-2)
 - 🕴️ [TODO](https://todogroup.org/), for organizations committed to Open Source and Open Source Program Offices
 - 🕴️ 🇫🇷 [Addulact](https://adullact.org/)
 - 🕴️ 🇫🇷 [The Open Source I Trust (TOSIT)](https://tosit.fr/)
