@@ -56,6 +56,7 @@
 - 📚 [Pixabay](https://pixabay.com/), banque d'images, sons et vidéos libres de droits
 - 📚 [Iconoir](https://iconoir.com/), librairie de logo
 - 📚 [Directory of Open Access Books](https://www.doabooks.org/) (DOAB)
+- 🏦 🇫🇷 Plan d'action logiciels libres et communs numériques : [communs.numerique.gouv.fr](https://communs.numerique.gouv.fr/)
 - 🕴️ [Fabrique des mobilités](https://lafabriquedesmobilites.fr/), construire la mobilité durable via les communs
 - 🕴️ [Open Future Foundation](https://openfuture.eu/)
 - 🕴️ 🇪🇺 [OpenForum Europe](https://openforumeurope.org/)
