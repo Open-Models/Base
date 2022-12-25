@@ -93,6 +93,7 @@
 - 👩🏽‍🔬 [Why Modern Open Source Projects Fail](https://arxiv.org/pdf/1707.02327.pdf)
 - 👩🏽‍🔬 [The Role of Foundations in Open Source Projects](https://livablesoftware.com/study-open-source-foundations/)
 - 👩🏽‍🔬 [Why Do Developers Adopt Open Source Software? Past, Present and Future](https://hal.archives-ouvertes.fr/hal-02305701)
+- 👩🏽‍🔬 [Sources d’influence : Enjeux économiques et géopolitiques des logiciels open source](https://www.ifri.org/sites/default/files/atoms/files/pannier_influence_logiciels_open_source_2022.pdf), étude IFRI
 - 👩‍🎓 [Site éducatif sur l'open source](https://opensource.dev/) de Google
 - 🏦 🇪🇺 [European Free and Open Source Software Auditing](https://commission.europa.eu/about-european-commission/departments-and-executive-agencies/informatics/eu-fossa-2-free-and-open-source-software-auditing_en) (EU-FOSSA-2)
 - 🏦 🇫🇷 Plan d'action logiciels libres et communs numériques : [communs.numerique.gouv.fr](https://communs.numerique.gouv.fr/)
