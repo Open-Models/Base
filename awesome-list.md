@@ -286,6 +286,9 @@
 
 - 🏦 🇪🇺[Interoperable Europe Act](https://ec.europa.eu/commission/presscorner/detail/fr/ip_22_6907)
 - 🛠️ [RISC-V](https://riscv.org/), Instruction Set Architecture (computer architecture)
+- 🛠️ [OAI-PMH](http://www.openarchives.org/OAI/openarchivesprotocol.html), protocole de récolte de métadonnées
+- 🛠️ [Dublin Core](https://dublincore.org/), schéma de métadonnées pour ressources numériques
+- 🛠️ [DOIs](https://www.doi.org/), identifiants uniques pour objets numériques
 
 ## Type indéterminé
 
