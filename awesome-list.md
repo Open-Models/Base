@@ -109,6 +109,7 @@
 - 🕴️ [Open Source Observatory](https://joinup.ec.europa.eu/collection/open-source-observatory-osor), commission européene
 - 🕴️ [Foundation for Public Code](https://publiccode.net/)
 - 🕴️ [OpenInfra Foundation](https://openinfra.dev/)
+- 🕴️ [Open Core Ventures](https://opencoreventures.com/)
 - [Public Code, Public Money](https://publiccode.eu/)
 - 📚 [Guide des logiciels open source](https://www.smile.eu/fr/livres-blancslivres-blancs/guide-lopen-source), Smile
 - 📚 [Awesome-Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted), liste de logiciels open source à auto-héberger
