@@ -131,6 +131,7 @@
 - 🛠️ [Free Software Fund](https://www.fsf.org/working-together/fund) (FSF)
 - 🛠️ [Copie Publique](https://copiepublique.fr/), crowfunding d'entreprises pour support brique logicielle
 - 🛠️ [NGI Search](https://www.ngisearch.eu/), Funding the Next Generation of (open source) Web Searching Tools
+- 🛠️ [Open Collective](https://opencollective.com/), legal and financial toolbox for grassroots groups
 - 🛠️ [Open Source JobHub](https://opensourcejobhub.com/)
 
 ## Open Science
