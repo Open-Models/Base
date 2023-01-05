@@ -125,6 +125,7 @@
 
 ## Open Science
 
+- 📡 [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org/), blog de la SSP sur l'édition savante
 - 📡 [Open Science Magazine](https://open-science-future.zbw.eu/en/)
 - 📖 [Opening Science](http://www.openingscience.org/get-the-book/), Sönke Bartling & Sascha Friesike
 - 👩‍🎓 🇫🇷 [MOOC La science ouverte](https://www.fun-mooc.fr/fr/cours/la-science-ouverte/), par France Université Numérique (FUN) MOOC
@@ -185,6 +186,7 @@
 - 🕴️ [Center For Open Science](https://www.cos.io/)
 - 🕴️ [SPARC](https://sparcopen.org/)
 - 🕴️ [Electronic Information for Libraries (EIFL)](https://www.eifl.net/)
+- 🕴️ [Society for Scholarly Publishing](https://www.sspnet.org/) (SSP)
 - 🕴️ [NumFOCUS](https://numfocus.org), support pour logiciels scientifique open source
 - 🕴️ [Facilitate Open Science Training for European Research (FOSTER)](https://www.fosteropenscience.eu/)
 - 🕴️ [Radical Open Access](https://radicaloa.disruptivemedia.org.uk/)
