@@ -105,6 +105,10 @@
 - 🕴️ 🇫🇷 [The Open Source I Trust (TOSIT)](https://tosit.fr/)
 - 🕴️ 🇫🇷 [Conseil National du Logiciel Libre](https://cnll.fr/)
 - 🕴️ 🇫🇷 [Clusters d'entreprises du logiciel open source](https://cnll.fr/cnll/membres/), adhérents du CNLL
+- 🕴️ 🇩🇪 [Open Source Business (OSB) Alliance](https://osb-alliance.de/)
+- 🕴️ 🇮🇹 [Rete Italiana Open Source](https://www.reteitalianaopensource.net/) (RIOS)
+- 🕴️ 🇪🇸 [Federación ASOLIF](https://twitter.com/asolif_empresas)
+- 🕴️ 🇵🇹 [Associação de Empresas de Software Open Source Portuguesas](https://www.esop.pt/) (ESOP)
 - 🕴️ 🇪🇺 [OW2](https://www.ow2.org/), European Open Source Software Community
 - 🕴️ [Open Source Security Foundation](https://openssf.org/)
 - 🕴️ [Free/Libre and Open Source Software (FLOSS) foundations](https://flossfoundations.org/foundation-directory/)
