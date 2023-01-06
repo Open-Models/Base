@@ -168,6 +168,7 @@
 - 📚 [HAL archive ouverte](https://hal.archives-ouvertes.fr/)
 - 📚 [Theses.fr](https://www.theses.fr/fr/)
 - 📚 [Open Edition](https://www.openedition.org/)
+- 📚 [Open Access Publishing in European Networks](https://www.oapen.org/) (OAPEN)
 - 📚 [Science Open](https://www.scienceopen.com/)
 - 📚 [Zenodo](https://zenodo.org/)
 - 📚 [In&Sight](https://inandsight.science/)
