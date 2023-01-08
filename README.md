@@ -30,7 +30,7 @@ Une ressource pour se construire des bases et devenir acteur de ces univers.
 - [Liste des modèles ouverts](contenu/modèles/README.md)
 - [Liste de projets](contenu/projets/README.md)
 
-Visite l'[awesome list](awesome-list.md) pour découvrir des ressources externes en lien avec les modèles ouverts.
+Une [liste de ressources](ressources.md) sur les modèles ouverts permet de rassembler une variété de liens utiles.
 
 ## Feuille de route 🗺️
 
