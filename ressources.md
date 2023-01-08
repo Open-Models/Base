@@ -1,4 +1,11 @@
-# Liste de ressources sur les modèles ouverts
+# Ressources sur les modèles ouverts
+
+Ensemble de ressources complémentaires pour pouvoir explorer plus largement les modèles ouverts.  
+Des liens vers une variété d'éléments pour en apprendre plus sur ces phénomènes, pour trouver des acteurs
+dans ces domaines, pour s'informer, trouver des outils, en connaitre plus sur les législations en cours...
+
+Dans une logique contributive, toute recommandation qui permettra d'enrichir cette liste de ressources
+et notre savoir collectif sera appréciée, idéalement en issue (ou directement en pull request) sur [Github](https://github.com/Open-Models/Brique/issues).
 
 ### Table des matières
 

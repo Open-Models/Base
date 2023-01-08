@@ -29,5 +29,3 @@ La contribution ne se limite pas à produire le contenu de la brique de connaiss
 Si tu te sens prêt, tu peux faire de l'éducation autour du sujet des modèles ouverts : des ateliers, formations, conférences... Tout comme produire du contenu pour les réseaux sociaux.
 
 Aide à répondre aux questions de la communauté, que ce soit sur Github ou partout ailleurs !
-
-Partage tes bonnes ressources en lien avec les modèles ouverts pour enrichir l'[awesome list](https://github.com/Open-Models/Brique/discussions/5).
