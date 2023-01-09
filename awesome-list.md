@@ -230,6 +230,7 @@
 - 🕴️ [Open Education Global](https://www.oeglobal.org/)
 - 🕴️ [Open EdTech](https://www.openedtech.global/), designing a global NextGen educational open source platform
 - 🕴️ 🇫🇷 [Fabrique des Communs Pédagogiques](https://fabpeda.org/)
+- 🕴️ [Open Schools for Open Societies](https://www.openschools.eu/)
 - 👩🏽‍🔬 🇫🇷 [Sondage annuel (depuis 2014) usage numérique chez les enseignants](https://www.ac-paris.fr/sondage-sur-les-usages-du-numerique-123944)
 - 📰 [Alternatives to paying for pricey textbooks](https://sanjosespotlight.com/rodriguez-alternatives-to-paying-for-pricey-textbooks/)
 - 📖 [Handook of Open, Distance and Digital Education](https://link.springer.com/referencework/10.1007/978-981-19-2080-6)
