@@ -66,6 +66,7 @@
 ## Open Source
 
 - 📡 [Blog open source de Google](https://opensource.googleblog.com/)
+- 📡 [OSPOlogy](https://www.youtube.com/@ospology), TODO group youtube channel
 - 📖 [The Cathedral and the Bazaar](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/index.html#catbmain) - Eric S. Raymond
 - 📖 [Producing Open Source Software](https://producingoss.com/) de Karl Fogel
 - 📖 [Open Source 2.0](https://en.wikipedia.org/wiki/Open_Sources_2.0) - O'Reilly Media
