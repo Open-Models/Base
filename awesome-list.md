@@ -303,6 +303,7 @@
 ## Open Standard
 
 - 🏦 🇪🇺[Interoperable Europe Act](https://ec.europa.eu/commission/presscorner/detail/fr/ip_22_6907)
+- 📚 🇫🇷 [schema.data.gouv.fr](https://schema.data.gouv.fr), référencement des schémas de données publiques pour la France
 - 📚 [Schema.org](https://schema.org/), create, maintain, and promote schemas for structured data on the Internet, on web pages, in email messages, and beyond
 - 🛠️ [RISC-V](https://riscv.org/), Instruction Set Architecture (computer architecture)
 - 🛠️ [OAI-PMH](http://www.openarchives.org/OAI/openarchivesprotocol.html), protocole de récolte de métadonnées
