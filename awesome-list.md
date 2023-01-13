@@ -187,6 +187,7 @@
 - 🏦 🇪🇺 [Open Science Monitor](https://ec.europa.eu/info/research-and-innovation/strategy/strategy-2020-2024/our-digital-future/open-science/open-science-monitor_en) de la Commission Européenne
 - 🏦 🇫🇷 [Open Science Monitor](https://frenchopensciencemonitor.esr.gouv.fr/) français
 - 🏦 🇺🇸 [Transform to Open Science (TOPS)](https://science.nasa.gov/open-science/transform-to-open-science), mission NASA
+- 🏦 🇺🇸 [open.science.gov](https://open.science.gov/), Open Science Announcements from U.S. Federal Agencies
 - [Budapest Open Access Initiative](https://www.budapestopenaccessinitiative.org/read/), 2002
 - [Berlin Declaration on Open Access to Knowledge in the Sciences and Humanities](https://openaccess.mpg.de/Berlin-Declaration), 2003
 - [Bethesda Statement on Open Access Publishing](http://legacy.earlham.edu/~peters/fos/bethesda.htm), 2003
