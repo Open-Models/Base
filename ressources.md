@@ -243,6 +243,7 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 🕴️ [Open EdTech](https://www.openedtech.global/), designing a global NextGen educational open source platform
 - 🕴️ 🇫🇷 [Fabrique des Communs Pédagogiques](https://fabpeda.org/)
 - 🕴️ [Open Schools for Open Societies](https://www.openschools.eu/)
+- 🕴️ [Center for Open Education Research](https://uol.de/coer) (COER), Oldenburg university (🇩🇪)
 - 👩🏽‍🔬 🇫🇷 [Sondage annuel (depuis 2014) usage numérique chez les enseignants](https://www.ac-paris.fr/sondage-sur-les-usages-du-numerique-123944)
 - 📰 [Alternatives to paying for pricey textbooks](https://sanjosespotlight.com/rodriguez-alternatives-to-paying-for-pricey-textbooks/)
 - 📰 [Students are told not to use Wikipedia for research. But it’s a trustworthy source](https://theconversation.com/students-are-told-not-to-use-wikipedia-for-research-but-its-a-trustworthy-source-168834)
