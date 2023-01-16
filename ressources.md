@@ -237,6 +237,7 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 📚 [Sites de l'innovation pédagogique dans l'enseignement supérieur francophone](https://www.innovation-pedagogique.fr/article39.html)
 - 📚 [Open Source Society University](https://github.com/ossu)
 - 🕴️ 🇫🇷 [Délégation Académique au Numérique Éducatif (DANE)](https://www.ac-paris.fr/delegation-academique-au-numerique-educatif-dane-122341), AC Paris
+- 🕴️ 🇫🇷 [L'éducation ouverte à Nantes Université](https://www.univ-nantes.fr/decouvrir-luniversite/vision-strategie-et-grands-projets/open-education-leducation-ouverte-a-nantes-universite)
 - 🕴️ 🇺🇸 [Community College Consortium for OER](https://www.cccoer.org/) (CCCOER)
 - 🕴️ [Open Education Global](https://www.oeglobal.org/)
 - 🕴️ [Open EdTech](https://www.openedtech.global/), designing a global NextGen educational open source platform
