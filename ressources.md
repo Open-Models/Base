@@ -209,12 +209,11 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 🕴️ [Peer Community In](https://peercommunityin.org/), organization of researchers offering peer review
 - 🕴️ [Coalition for Advancing Research Assessment](https://coara.eu/) (CoARA)
 - 🕴️🇫🇷 [Centre pour la Communication Scientifique Directe](https://www.ccsd.cnrs.fr/)
-- 🕴️🇫🇷 [Fond national pour la science ouverte](https://www.ouvrirlascience.fr/le-fonds-national-pour-la-science-ouverte/)
 - 🕴️[OpenAIRE](https://www.openaire.eu/), create and operate services for Open Science
 - 🕴️ [European Open Science Cloud](https://eosc-portal.eu/)
 - 🕴️ [Public Library of Science](https://plos.org/) (PLOS)
 - 🕴️ [Ouvrir la science](https://www.ouvrirlascience.fr/)
-- 🕴️ 🇫🇷 [Le Fonds National pour la Science Ouverte](https://www.ouvrirlascience.fr/category/fnso/projets-initiatives-fnso/?menu=2)
+- 🕴️ 🇫🇷 [Le Fonds National pour la Science Ouverte](https://www.ouvrirlascience.fr/le-fonds-national-pour-la-science-ouverte/)
 - 🕴️ [Center For Open Science](https://www.cos.io/)
 - 🕴️ [SPARC](https://sparcopen.org/)
 - 🕴️ [Electronic Information for Libraries (EIFL)](https://www.eifl.net/)
