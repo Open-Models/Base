@@ -128,6 +128,7 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 🕴️ [Foundation for Public Code](https://publiccode.net/)
 - 🕴️ [OpenInfra Foundation](https://openinfra.dev/)
 - 🕴️ [Open Source Software Capital](https://oss.capital/) (OSSC)
+- 🕴️ [Open Source Technology Improvement Fund](https://ostif.org/) (OSTIF)
 - 🕴️ [Open Core Ventures](https://opencoreventures.com/)
 - [Public Code, Public Money](https://publiccode.eu/)
 - [The Open Source Software Security Mobilization Plan](https://openssf.org/oss-security-mobilization-plan/) (OpenSSF, 2022)
