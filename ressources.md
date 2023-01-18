@@ -78,6 +78,11 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 📖 [Producing Open Source Software](https://producingoss.com/) de Karl Fogel
 - 📖 [Open Source 2.0](https://en.wikipedia.org/wiki/Open_Sources_2.0) - O'Reilly Media
 - 📖 [Open Sources: Voices from the Open Source Revolution](https://en.wikipedia.org/wiki/Open_Sources) - O'Reilly Media
+- 📖 [Open Sources 2.0 : The Continuing Evolution](https://ia600907.us.archive.org/1/items/opensources2.000diborich/opensources2.000diborich.pdf) - O'Reilly Media
+- 📖 Open Source Innovation The Phenomenon, Participant's Behaviour, Business Implications, C. Herstatt, D. Ehls
+- 📖 How Open Source Ate Software: Understand the Open Source Movement and So Much More, G. Haff
+- 📖 Rebel Code: Linux and the Open Source Revolution, G. Moody
+- 📖 Économie du logiciel libre, F. Elie
 - 📖 [Vers une communication numérique plus sociale et solidaire](https://blog.comem.ch/wp-content/uploads/2020/08/guide_v2_read.pdf), guide ESS
 - 📰 Github - [The readme project](https://github.com/readme/) : Interview d'acteurs de l'open source
 - 📰 [The Open Source contributor funnel](https://github.com/AbcSxyZ/Open-Source-Education/edit/main/awesome-open-source-resources.md) - Mike McQuaid
@@ -318,6 +323,7 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 🛠️ [OAI-PMH](http://www.openarchives.org/OAI/openarchivesprotocol.html), protocole de récolte de métadonnées
 - 🛠️ [Dublin Core](https://dublincore.org/), schéma de métadonnées pour ressources numériques
 - 🛠️ [DOIs](https://www.doi.org/), identifiants uniques pour objets numériques
+- 📖 Standards Battles in Open Source Software: The Case of Firefox, H. Vries, I. Oshri
 
 ## Type indéterminé
 
