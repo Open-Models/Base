@@ -238,6 +238,7 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 📚 [Open Source Society University](https://github.com/ossu)
 - 🕴️ 🇫🇷 [Délégation Académique au Numérique Éducatif (DANE)](https://www.ac-paris.fr/delegation-academique-au-numerique-educatif-dane-122341), AC Paris
 - 🕴️ 🇺🇸 [Community College Consortium for OER](https://www.cccoer.org/) (CCCOER)
+- 🕴️ [The International Council for Open and Distance Education](https://www.icde.org/) (ICDE)
 - 🕴️ [Open Education Global](https://www.oeglobal.org/)
 - 🕴️ [Open EdTech](https://www.openedtech.global/), designing a global NextGen educational open source platform
 - 🕴️ 🇫🇷 [Fabrique des Communs Pédagogiques](https://fabpeda.org/)
