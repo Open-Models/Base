@@ -221,6 +221,7 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 🕴️ [Society for Scholarly Publishing](https://www.sspnet.org/) (SSP)
 - 🕴️ [NumFOCUS](https://numfocus.org), support pour logiciels scientifique open source
 - 🕴️ [Facilitate Open Science Training for European Research (FOSTER)](https://www.fosteropenscience.eu/)
+- 🕴️ [International Network of Open Science & Scholarship Communities](http://osc-international.com/) (INOSC)
 - 🕴️ [Radical Open Access](https://radicaloa.disruptivemedia.org.uk/)
 - 🕴️ 🇪🇺 [Plan S](https://www.coalition-s.org/), coalition (cOAlition S) de financeurs public/privé de la recherche
 - 🕴️ [Portail Open Science Centre Européen pour la Recherche Nucléaire (CERN)](https://openscience.cern/)
