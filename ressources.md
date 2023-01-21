@@ -125,6 +125,7 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 🕴️ [CodeGouv](https://code.gouv.fr/), code source du secteur public français
 - 🕴️ [OpenMairie](http://www.openmairie.org/)
 - 🕴️ [Framasoft](https://framasoft.org/fr/)
+- 🕴️ [Open Mainframe Project](https://www.openmainframeproject.org/)
 - 🕴️ [Open Source Observatory](https://joinup.ec.europa.eu/collection/open-source-observatory-osor), commission européene
 - 🕴️ [Foundation for Public Code](https://publiccode.net/)
 - 🕴️ [OpenInfra Foundation](https://openinfra.dev/)
