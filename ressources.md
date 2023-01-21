@@ -88,6 +88,7 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 📰 [The five stages of the Open Source Program Office](https://blog.opensource.org/the-five-stages-of-the-open-source-program-office/)
 - 📰 [We're living in a post-open source world](https://www.infoworld.com/article/2608576/open-source-software-we-re-living-in-a-post-open-source-world.html)
 - 📰 [Open source has a funding problem](https://stackoverflow.blog/2021/01/07/open-source-has-a-funding-problem/), the Overflow
+- 📰 [What it feels like to be an open-source maintainer](https://nolanlawson.com/2017/03/05/what-it-feels-like-to-be-an-open-source-maintainer/)
 - 🎥 [The Rise Of Open-Source Software - reportage CNBC](https://www.youtube.com/watch?v=SpeDK1TPbew)
 - 🎥 [Max Stoiber - open source your projects](https://www.youtube.com/watch?v=hwdeUG_gySI)
 - 🎥 [Max Stoiber - How Open Source Changed My Life](https://www.youtube.com/watch?v=ifq3xhik8tE)
