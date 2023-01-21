@@ -248,6 +248,7 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 🕴️ [The International Council for Open and Distance Education](https://www.icde.org/) (ICDE)
 - 🕴️ [Open Education Global](https://www.oeglobal.org/)
 - 🕴️ [Open EdTech](https://www.openedtech.global/), designing a global NextGen educational open source platform
+- 🕴️ 🇺🇸 [MIT Open Learning](https://openlearning.mit.edu/)
 - 🕴️ 🇫🇷 [Fabrique des Communs Pédagogiques](https://fabpeda.org/)
 - 🕴️ [Open Schools for Open Societies](https://www.openschools.eu/)
 - 🕴️ [Center for Open Education Research](https://uol.de/coer) (COER), Oldenburg university (🇩🇪)
