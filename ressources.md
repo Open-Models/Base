@@ -140,6 +140,7 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 📚 [Open Source - répertoire des (50) sites de référence et de formation, Thot Cursus](https://cursus.edu/fr/17405/open-source-code-source-libre-repertoire-des-sites-de-reference-et-de-formation)
 - 📚 [Open Source Events](https://github.com/anubhavpulkit/Open-Source-Events)
 - 📚 [Software Heritage](https://www.softwareheritage.org/), archive ouverte universelle de logiciels
+- 📚 🇫🇷 [Entreprises COSS françaises](https://www.mxcrbn.com/posts/the-rise-of-oss-startups-in-france)
 - 🛠️ [GitHub Sponsor](https://github.com/sponsors)
 - 🛠️ [FundOSS](https://fundoss.org/)
 - 🛠️ [Free Software Fund](https://www.fsf.org/working-together/fund) (FSF)
