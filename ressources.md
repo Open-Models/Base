@@ -137,6 +137,7 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 📚 [(Ex-)Annuaire des principaux logiciels libres & open source](https://www.jdbonjour.ch/logiciel-libre/), EPFL
 - 📚 [Comptoir du libre](https://comptoir-du-libre.org/fr/), annuaire de l'ADULLACT
 - 📚 [Socle interministériel (🇫🇷) de logiciels libres](https://sill.etalab.gouv.fr/software)
+- 📚 [Open Sustainable Technology](https://report.opensustain.tech/chapters/overview.html), annuaire de logiciels sur la durabilité et le climat
 - 📚 [Open Source - répertoire des (50) sites de référence et de formation, Thot Cursus](https://cursus.edu/fr/17405/open-source-code-source-libre-repertoire-des-sites-de-reference-et-de-formation)
 - 📚 [Open Source Events](https://github.com/anubhavpulkit/Open-Source-Events)
 - 📚 [Software Heritage](https://www.softwareheritage.org/), archive ouverte universelle de logiciels
