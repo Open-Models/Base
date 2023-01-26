@@ -130,6 +130,7 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 🕴️ [Foundation for Public Code](https://publiccode.net/)
 - 🕴️ [OpenInfra Foundation](https://openinfra.dev/)
 - 🕴️ [Open Source Software Capital](https://oss.capital/) (OSSC)
+- 🕴️ [FairOSS](https://faiross.org/), to sustain the production and maintenance of freely shareable intellectual property
 - 🕴️ [Open Source Technology Improvement Fund](https://ostif.org/) (OSTIF)
 - 🕴️ [Open Core Ventures](https://opencoreventures.com/)
 - [Public Code, Public Money](https://publiccode.eu/)
