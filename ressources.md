@@ -184,6 +184,7 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 📚 [ResearchGate](https://www.researchgate.net/)
 - 📚 [SpringerOpen](https://www.springeropen.com/)
 - 📚 [recherche.data.gouv.fr](https://recherche.data.gouv.fr/fr)
+- 📚 [Explore OpenAIRE](https://explore.openaire.eu/), search engine for open research data
 - 📚 [Academics on Mastodon](https://github.com/nathanlesage/academics-on-mastodon)
 - 📚 [Open Science Success Stories Database](https://projectopen.io/)
 - 📚 [Open Access Publishing Tools](https://radicaloa.disruptivemedia.org.uk/resources/publishing-tools/), by Radical Open Access
