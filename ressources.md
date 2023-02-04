@@ -263,6 +263,7 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 📰 [Alternatives to paying for pricey textbooks](https://sanjosespotlight.com/rodriguez-alternatives-to-paying-for-pricey-textbooks/)
 - 📰 [Students are told not to use Wikipedia for research. But it’s a trustworthy source](https://theconversation.com/students-are-told-not-to-use-wikipedia-for-research-but-its-a-trustworthy-source-168834)
 - 📖 [Handook of Open, Distance and Digital Education](https://link.springer.com/referencework/10.1007/978-981-19-2080-6)
+- 🏦 🇫🇷 [Stratégie du numérique pour l'Éducation Nationale](https://www.education.gouv.fr/strategie-du-numerique-pour-l-education-2023-2027-344263) (2023-2027)
 
 ## Open Innovation
 
