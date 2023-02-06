@@ -206,6 +206,7 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 🕴️ [Directory of Open Access Journals](https://doaj.org/), find open access journals & articles
 - 📰 [Liste Wikipédia de dépôts de pré-publication](https://en.wikipedia.org/wiki/List_of_preprint_repositories)
 - 📰 [« La science ouverte est une nouvelle façon de diffuser les savoirs, et les bibliothèques sont au cœur de cette évolution »](https://bbf.enssib.fr/bbffocus/la-science-ouverte-est-une-nouvelle-facon-de-diffuser-les-savoirs-et-les-bibliotheques-sont-au-coeur-de-cette-evolution_70750), interview responsables BU
+- 📰 [The rise and fall of peer review](https://experimentalhistory.substack.com/p/the-rise-and-fall-of-peer-review)
 - 🕴️ [Peer Community In](https://peercommunityin.org/), organization of researchers offering peer review
 - 🕴️ [Coalition for Advancing Research Assessment](https://coara.eu/) (CoARA)
 - 🕴️🇫🇷 [Centre pour la Communication Scientifique Directe](https://www.ccsd.cnrs.fr/)
@@ -244,6 +245,7 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 🕴️ [Open Schools for Open Societies](https://www.openschools.eu/)
 - 👩🏽‍🔬 🇫🇷 [Sondage annuel (depuis 2014) usage numérique chez les enseignants](https://www.ac-paris.fr/sondage-sur-les-usages-du-numerique-123944)
 - 📰 [Alternatives to paying for pricey textbooks](https://sanjosespotlight.com/rodriguez-alternatives-to-paying-for-pricey-textbooks/)
+- 📰 [Students are told not to use Wikipedia for research. But it’s a trustworthy source](https://theconversation.com/students-are-told-not-to-use-wikipedia-for-research-but-its-a-trustworthy-source-168834)
 - 📖 [Handook of Open, Distance and Digital Education](https://link.springer.com/referencework/10.1007/978-981-19-2080-6)
 
 ## Open Innovation
