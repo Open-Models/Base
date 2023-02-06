@@ -212,6 +212,7 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 📰 [« La science ouverte est une nouvelle façon de diffuser les savoirs, et les bibliothèques sont au cœur de cette évolution »](https://bbf.enssib.fr/bbffocus/la-science-ouverte-est-une-nouvelle-facon-de-diffuser-les-savoirs-et-les-bibliotheques-sont-au-coeur-de-cette-evolution_70750), interview responsables BU
 - 📰 [The rise and fall of peer review](https://experimentalhistory.substack.com/p/the-rise-and-fall-of-peer-review)
 - 🕴️ [Peer Community In](https://peercommunityin.org/), organization of researchers offering peer review
+- 🛠️ [OpenReview](https://openreview.net/)
 - 🕴️ [Coalition for Advancing Research Assessment](https://coara.eu/) (CoARA)
 - 🕴️🇫🇷 [Centre pour la Communication Scientifique Directe](https://www.ccsd.cnrs.fr/)
 - 🕴️[OpenAIRE](https://www.openaire.eu/), create and operate services for Open Science
