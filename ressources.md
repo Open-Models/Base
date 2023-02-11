@@ -211,6 +211,7 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 🕴️🇫🇷 [Centre pour la Communication Scientifique Directe](https://www.ccsd.cnrs.fr/)
 - 🕴️🇫🇷 [Fond national pour la science ouverte](https://www.ouvrirlascience.fr/le-fonds-national-pour-la-science-ouverte/)
 - 🕴️[OpenAIRE](https://www.openaire.eu/), create and operate services for Open Science
+- 🕴️ [Confederation of Open Access Repositories](https://www.coar-repositories.org)
 - 🕴️ [European Open Science Cloud](https://eosc-portal.eu/)
 - 🕴️ [Public Library of Science](https://plos.org/) (PLOS)
 - 🕴️ [Ouvrir la science](https://www.ouvrirlascience.fr/)
