@@ -253,6 +253,7 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 📚 [MIT OpenCourseWare](https://ocw.mit.edu/)
 - 📚 [Databases of Open Educational Ressources](https://guides.library.unr.edu/oer/find), by University of Nevada
 - 📚 [Openstax](https://openstax.org/), manuels scolaire en libre accès
+- 📚 [LibreTexts](https://commons.libretexts.org/), réseau de librairies pour manuels
 - 📚 [Sites de l'innovation pédagogique dans l'enseignement supérieur francophone](https://www.innovation-pedagogique.fr/article39.html)
 - 📚 [Open Source Society University](https://github.com/ossu)
 - 🕴️ 🇫🇷 [Délégation Académique au Numérique Éducatif (DANE)](https://www.ac-paris.fr/delegation-academique-au-numerique-educatif-dane-122341), AC Paris
