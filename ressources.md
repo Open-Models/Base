@@ -89,6 +89,7 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 📰 [Awesome maintainers](https://github.com/nayafia/awesome-maintainers) - *"Talks, blog posts, and interviews about the experience of being an open source maintainer"*
 - 📰 [Time Till Open Source Alternative](https://staltz.com/time-till-open-source-alternative.html), André Staltz
 - 📰 [Projet GPL Violations](https://gpl-violations.org/) [inactif, archivage]
+- 📰 [Deconstructing Software copyright, 30 years of bad logic](http://www.patenting-art.com/copyprob/softcopy.htm)
 - 📰 [Dossier magazine Swissquote : Les milliards de l'open source](https://resources.swissquote.com/sites/default/files/2020-08/magazine_56_fr.pdf)
 - 📰 [The five stages of the Open Source Program Office](https://blog.opensource.org/the-five-stages-of-the-open-source-program-office/)
 - 📰 [We're living in a post-open source world](https://www.infoworld.com/article/2608576/open-source-software-we-re-living-in-a-post-open-source-world.html)
