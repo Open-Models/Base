@@ -264,11 +264,13 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 🕴️ 🇫🇷 [Fabrique des Communs Pédagogiques](https://fabpeda.org/)
 - 🕴️ [Open Schools for Open Societies](https://www.openschools.eu/)
 - 🕴️ [Center for Open Education Research](https://uol.de/coer) (COER), Oldenburg university (🇩🇪)
+- 🕴️ 🇬🇧 [Open Education Research Hub](http://oerhub.net/) (OER Hub)
 - 👩🏽‍🔬 🇫🇷 [Sondage annuel (depuis 2014) usage numérique chez les enseignants](https://www.ac-paris.fr/sondage-sur-les-usages-du-numerique-123944)
 - 📡 👩🏽‍🔬 Journal [Education Ouverte et Libre - Open Education](https://oap.unige.ch/journals/eol-oe)
 - 📰 [Alternatives to paying for pricey textbooks](https://sanjosespotlight.com/rodriguez-alternatives-to-paying-for-pricey-textbooks/)
 - 📰 [Students are told not to use Wikipedia for research. But it’s a trustworthy source](https://theconversation.com/students-are-told-not-to-use-wikipedia-for-research-but-its-a-trustworthy-source-168834)
 - 📖 [Handook of Open, Distance and Digital Education](https://link.springer.com/referencework/10.1007/978-981-19-2080-6)
+- 📖 [The Battle for Open, How openness won and why it doesn't feel like victory](https://www.ubiquitypress.com/site/books/m/10.5334/bam/)
 - 🏦 🇫🇷 [Stratégie du numérique pour l'Éducation Nationale](https://www.education.gouv.fr/strategie-du-numerique-pour-l-education-2023-2027-344263) (2023-2027)
 
 ## Open Innovation
@@ -315,9 +317,13 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 
 ## Open Scolarship
 
+- 🕴️ 🇬🇧 [The Open University](https://www.open.ac.uk/)
 - 🕴️ [Higher Education Leadership Initiative for Open Scholarship](https://www.heliosopen.org/) (HELIOS)
 - 🕴️ [Alliance for Open Scolarship](https://www.all4os.org/) (All4OS)
+- 🕴️ [European Association of Distance Teaching Universities](https://eadtu.eu/index.php) (EADTU)
+- 🎥 [What's an Open University Degree Like?](https://www.youtube.com/watch?v=Pj0rbafFBak)
 - 👩🏽‍🔬 [L'ouverture en question : quand des universités ouvertes se redéfinissent à l'ère de la globalisation numérique](https://theses.hal.science/tel-01687221) (Thèse)
+- 📚 [List of open universities](https://en.wikipedia.org/wiki/List_of_open_universities), Wikipedia
 - 📚 [Ubiquity Press](https://www.ubiquitypress.com/), open access publisher of peer-reviewed academic journals, books and data
 
 ## Open Business
