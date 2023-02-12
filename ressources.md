@@ -289,6 +289,7 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 ## Open Data
 
 - [Pappers](https://pappers.fr) pour les informations d'entreprises, [Justice Pappers](https://justice.pappers.fr/) pour les décisions de justice
+- 📚 🇪🇺 [data.europe.eu](https://data.europa.eu/en)
 - 📚 [data.gouv.fr](https://www.data.gouv.fr/fr/)
 - 📚 🇫🇷 [api.gouv.fr](https://api.gouv.fr/), liste API des services publics
 - 📚 [open.urssaf.fr](https://open.urssaf.fr)
@@ -297,6 +298,7 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 📰 [OpenStreetMap is having a Moment](https://joemorrison.medium.com/openstreetmap-is-having-a-moment-dcc7eef1bb01) (organisations investment)
 - 📰 [The world needs a better map: TomTom is making it with its new mapping platform and ecosystem](https://www.tomtom.com/newsroom/behind-the-map/the-future-of-mapmaking-tomtom-maps-platform/) (2022)
 - 🕴️ [Overture Maps Foundation](https://overturemaps.org/), coalition pour des cartes interopérables
+- 👩🏽‍🔬 [Reports for Open Data Maturity of European countries](https://data.europa.eu/en/publications/open-data-maturity/), European Commission
 
 ## Open Hardware
 
