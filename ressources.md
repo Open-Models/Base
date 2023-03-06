@@ -275,6 +275,7 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 📖 [Handook of Open, Distance and Digital Education](https://link.springer.com/referencework/10.1007/978-981-19-2080-6)
 - 📖 [The Battle for Open, How openness won and why it doesn't feel like victory](https://www.ubiquitypress.com/site/books/m/10.5334/bam/)
 - 🏦 🇫🇷 [Stratégie du numérique pour l'Éducation Nationale](https://www.education.gouv.fr/strategie-du-numerique-pour-l-education-2023-2027-344263) (2023-2027)
+- 🛠️ [PressBooks](https://pressbooks.com/), open book creation platform
 
 ## Open Innovation
 
