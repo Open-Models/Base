@@ -275,6 +275,7 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 🕴️ [Open Schools for Open Societies](https://www.openschools.eu/)
 - 🕴️ [Center for Open Education Research](https://uol.de/coer) (COER), Oldenburg university (🇩🇪)
 - 🕴️ 🇬🇧 [Open Education Research Hub](http://oerhub.net/) (OER Hub)
+- 🕴️ [Chaire UNESCO RELIA](https://chaireunescorelia.univ-nantes.fr/), Ressources Éducatives Libres et Intelligence Artificielle, Nantes Université
 - 👩🏽‍🔬 🇫🇷 [Sondage annuel (depuis 2014) usage numérique chez les enseignants](https://www.ac-paris.fr/sondage-sur-les-usages-du-numerique-123944)
 - 📡 👩🏽‍🔬 Journal [Education Ouverte et Libre - Open Education](https://oap.unige.ch/journals/eol-oe)
 - 📰 [Alternatives to paying for pricey textbooks](https://sanjosespotlight.com/rodriguez-alternatives-to-paying-for-pricey-textbooks/)
@@ -282,6 +283,7 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 📖 [Handook of Open, Distance and Digital Education](https://link.springer.com/referencework/10.1007/978-981-19-2080-6)
 - 📖 [The Battle for Open, How openness won and why it doesn't feel like victory](https://www.ubiquitypress.com/site/books/m/10.5334/bam/)
 - 🏦 🇫🇷 [Stratégie du numérique pour l'Éducation Nationale](https://www.education.gouv.fr/strategie-du-numerique-pour-l-education-2023-2027-344263) (2023-2027)
+- 🏦 [UNESCO Recommendation on Open Educational Resources](https://www.unesco.org/en/legal-affairs/recommendation-open-educational-resources-oer) (2019)
 - 🛠️ [PressBooks](https://pressbooks.com/), open book creation platform
 
 ## Open Innovation
