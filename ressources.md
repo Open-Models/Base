@@ -44,6 +44,7 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 📖 Kritika: Essays on Intellectual Property,  Peter Drahos, Gustavo Ghidini, Hanns Ullrich
 - 📖 Commun : Essai sur la révolution au XXIe siècle, Pierre Dardot, Christian Laval
 - 📖 [The Sharing Economy in Europe: Developments, Practices, and Contradictions](https://core.ac.uk/outputs/491239584)
+- 📖 [Free, Fair, and Alive : The Insurgent Power of the Commons](https://freefairandalive.org/)
 - 🎥 [Commun(s)](https://www.youtube.com/watch?v=8QpQUsMlpxQ), Politikon
 - 🎥 [Les communs de l'écologie politique #1](https://www.youtube.com/watch?v=RgMdYhYgB1c), Game Of Hearth
 - 🎥 [Les communs de l'écologie politique #2](https://www.youtube.com/watch?v=rakCobsY174), Game Of Hearth
