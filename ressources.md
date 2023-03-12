@@ -346,6 +346,7 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 
 - 🎥 [TedX Jim Whitehurst - ex-Red Hat CEO, What I learned from giving up everything I knew as a leader](https://www.youtube.com/watch?v=l0gyYcOAcFE)
 - 📖 [Jim Whitehurst - The Open Organization](https://www.redhat.com/fr/explore/the-open-organization-book)
+- 📖 [The Open Organization Workbook](https://github.com/open-organization/open-org-workbook)
 
 ## Open Health
 
