@@ -14,7 +14,7 @@ de ses contraintes financières/de temps/géographiques/etc. Plus d'explications
     <img src="https://raw.githubusercontent.com/Open-Models/Brique/main/images/roadmap.jpg">
 </p>
 
-## Éduquer aux modèles ouverts
+## Former aux modèles ouverts
 
 La mission première de la brique est d'être un outil d'éducation aux modèles ouverts pour favoriser
 la démocratisation de ces concepts émergents. Le numérique concerne toute la société, les modèles ouverts concernent tout
