@@ -261,6 +261,8 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 📚 [Openstax](https://openstax.org/), manuels scolaire en libre accès
 - 📚 [LibreTexts](https://commons.libretexts.org/), réseau de librairies pour manuels
 - 📚 [Open Textbook Library](https://open.umn.edu/opentextbooks), powered by Open Education Network
+- 📚 [Open Library](https://openlibrary.ecampusontario.ca/), powered by eCampusOntario
+- 📚 🇺🇸 [OERTX](https://oertx.highered.texas.gov/), OER used by higher education institutions in Texas
 - 📚 [Sites de l'innovation pédagogique dans l'enseignement supérieur francophone](https://www.innovation-pedagogique.fr/article39.html)
 - 📚 [Open Source Society University](https://github.com/ossu)
 - 🕴️ 🇫🇷 [Délégation Académique au Numérique Éducatif (DANE)](https://www.ac-paris.fr/delegation-academique-au-numerique-educatif-dane-122341), AC Paris
@@ -271,22 +273,36 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 🕴️ [The International Council for Open and Distance Education](https://www.icde.org/) (ICDE)
 - 🕴️ [Open Education Global](https://www.oeglobal.org/)
 - 🕴️ [Open Education Network](https://open.umn.edu/oen)
+- 🕴️ [Open Education Resource Foundation](https://oerfoundation.org/) (OER Foundation)
+- 🕴️ [European Distance and E-Learning Network (EDEN) Digital Learning Europe](https://eden-europe.eu/)
+- 🕴️ [CC Open Education Platform](https://network.creativecommons.org/cc-open-education-platform)
+- 🕴️ [Teaching and Learning on the Open Web](https://uwbopenweb.com/)
 - 🕴️ [Open EdTech](https://www.openedtech.global/), designing a global NextGen educational open source platform
 - 🕴️ 🇺🇸 [MIT Open Learning](https://openlearning.mit.edu/)
+- 🕴️ 🇨🇦 [eCampusOntario](https://www.ecampusontario.ca/)
 - 🕴️ 🇫🇷 [Fabrique des Communs Pédagogiques](https://fabpeda.org/)
+- 🕴️ [FabriqueREL](https://fabriquerel.org/)
+- 🕴️ [Open Digital Competences Training for School Educators](https://www.opendigcompedu.eu/) (OpenDigCompEdu)
+- 🕴️ [Moodle Academy](https://moodle.academy/)
+- 🕴️ 🇨🇭 [Swiss Digital Skills Academy](https://d-skills.ch/), swissuniversties initiative promoting open educational resources and platforms
 - 🕴️ [Open Schools for Open Societies](https://www.openschools.eu/)
 - 🕴️ [Center for Open Education Research](https://uol.de/coer) (COER), Oldenburg university (🇩🇪)
 - 🕴️ 🇬🇧 [Open Education Research Hub](http://oerhub.net/) (OER Hub)
 - 🕴️ [Chaire UNESCO RELIA](https://chaireunescorelia.univ-nantes.fr/), Ressources Éducatives Libres et Intelligence Artificielle, Nantes Université
+- 📰 [Chaires dans l'Open Education](https://educacaoaberta.org/en/chairs-in-open-education/) (jusqu'à 2020)
 - 👩🏽‍🔬 🇫🇷 [Sondage annuel (depuis 2014) usage numérique chez les enseignants](https://www.ac-paris.fr/sondage-sur-les-usages-du-numerique-123944)
+- 👩🏽‍🔬 [Report on Teaching and Learning with Open Educational Resources](https://achievingthedream.org/wp-content/uploads/2022/04/OER-Teaching-and-Learning-Report-04202022_Acc.pdf), SRI International (2022)
 - 📡 👩🏽‍🔬 Journal [Education Ouverte et Libre - Open Education](https://oap.unige.ch/journals/eol-oe)
 - 📰 [Alternatives to paying for pricey textbooks](https://sanjosespotlight.com/rodriguez-alternatives-to-paying-for-pricey-textbooks/)
 - 📰 [Students are told not to use Wikipedia for research. But it’s a trustworthy source](https://theconversation.com/students-are-told-not-to-use-wikipedia-for-research-but-its-a-trustworthy-source-168834)
+- 📰 [Poland Is Pioneering the World’s First National Open Textbook Program](https://www.opensocietyfoundations.org/voices/poland-pioneering-worlds-first-national-open-textbook-program) (2016)
 - 📖 [Handook of Open, Distance and Digital Education](https://link.springer.com/referencework/10.1007/978-981-19-2080-6)
 - 📖 [The Battle for Open, How openness won and why it doesn't feel like victory](https://www.ubiquitypress.com/site/books/m/10.5334/bam/)
 - 🏦 🇫🇷 [Stratégie du numérique pour l'Éducation Nationale](https://www.education.gouv.fr/strategie-du-numerique-pour-l-education-2023-2027-344263) (2023-2027)
 - 🏦 [UNESCO Recommendation on Open Educational Resources](https://www.unesco.org/en/legal-affairs/recommendation-open-educational-resources-oer) (2019)
 - 🛠️ [PressBooks](https://pressbooks.com/), open book creation platform
+- 🛠️ [Florilège](https://florilege.ls2n.fr/), indexation OER francophones par annotation manuelle
+- 🛠️ [convOERter](https://convoerter-eval.elearn.rwth-aachen.de/en/), convert presentation to OER
 
 ## Open Innovation
 
@@ -307,6 +323,12 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 📚 [open.urssaf.fr](https://open.urssaf.fr)
 - 📚 [Global Biodiversity Information Facility](https://www.gbif.org/) (GBIF)
 - 📚 [Radio Garden FM AM](https://radio.garden/), map monde des radios
+- 📚 🇨🇦 [Federated Research Data Repository](https://www.frdr-dfdr.ca/repo/?locale=en) (FRDR), find and share Canadian Resarch Data
+- 📚 🇨🇦 [Borealis](https://borealisdata.ca/),  Canadian Dataverse Repository for research data
+- 📚 [Registry of Research Data Repositories](https://www.re3data.org/) (re3data), overview of existing international repositories for research data
+- 📚 [Dryad](https://datadryad.org), generalist open data publishing platform and community
+- 📚 [open Inter-university Consortium for Political and Social Research](https://www.openicpsr.org/) (openICPSR), self-publishing repository for social, behavioral, and health sciences research data
+- 📚 [Inter-university Consortium for Political and Social Research](https://www.icpsr.umich.edu/web/pages/ICPSR/index.html) (ICPSR), curated repository for social, behavioral, and health sciences research data
 - 📰 [OpenStreetMap is having a Moment](https://joemorrison.medium.com/openstreetmap-is-having-a-moment-dcc7eef1bb01) (organisations investment)
 - 📰 [The world needs a better map: TomTom is making it with its new mapping platform and ecosystem](https://www.tomtom.com/newsroom/behind-the-map/the-future-of-mapmaking-tomtom-maps-platform/) (2022)
 - 🕴️ [Overture Maps Foundation](https://overturemaps.org/), coalition pour des cartes interopérables
@@ -335,6 +357,8 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 ## Open Scolarship
 
 - 🕴️ 🇬🇧 [The Open University](https://www.open.ac.uk/)
+- 🕴️ 🇫🇷 [L'Université Numérique](https://luniversitenumerique.fr/)
+- 🕴️ 🇸🇳 [Université Numérique Cheikh Hamidou Kane](https://www.uvs.sn/)
 - 🕴️ [Higher Education Leadership Initiative for Open Scholarship](https://www.heliosopen.org/) (HELIOS)
 - 🕴️ [Alliance for Open Scolarship](https://www.all4os.org/) (All4OS)
 - 🕴️ [European Association of Distance Teaching Universities](https://eadtu.eu/index.php) (EADTU)
@@ -367,8 +391,10 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 🛠️ [OAI-PMH](http://www.openarchives.org/OAI/openarchivesprotocol.html), protocole de récolte de métadonnées
 - 🛠️ [Dublin Core](https://dublincore.org/), schéma de métadonnées pour ressources numériques
 - 🛠️ [DOIs](https://www.doi.org/), identifiants uniques pour objets numériques
+- 🛠️ [ccREL](https://www.w3.org/Submission/ccREL/) : The Creative Commons Rights Expression Language
 - 📖 Standards Battles in Open Source Software: The Case of Firefox, H. Vries, I. Oshri
 
 ## Type indéterminé
 
 - 📖 [Swarmwise](https://falkvinge.net/files/2013/04/Swarmwise-2013-by-Rick-Falkvinge-v1-Final-2013Jul18.pdf) - Rick Falkvinge
+- 📖 [Howdy or Hello? Technical and Professional Communication](https://pressbooks.library.tamu.edu/howdyorhello/), by a Texas OER Committee
