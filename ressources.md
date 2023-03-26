@@ -256,6 +256,7 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 
 ## Open Education
 
+- 👩‍🎓 [Open Education Handbook](https://en.wikibooks.org/wiki/Open_Education_Handbook), Wikibooks, hosted by Wikimedia Foundation
 - 📚 [OER Commons](https://www.oercommons.org/)
 - 📚 [MIT OpenCourseWare](https://ocw.mit.edu/)
 - 📚 [Databases of Open Educational Ressources](https://guides.library.unr.edu/oer/find), by University of Nevada
