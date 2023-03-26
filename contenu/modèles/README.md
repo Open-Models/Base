@@ -2,6 +2,7 @@
 
 **[Page en construction, voir [#2](https://github.com/Open-Models/Brique/issues/2)]**
 
+- [Open Education](open-education.md)
 - [Open Science](open-science.md)
 - [Open Collaboration](open-collaboration.md)
 - [Open Hardware](open-hardware.md)
