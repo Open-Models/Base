@@ -385,6 +385,7 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 
 ## Open Standard
 
+- 🕴️ [OASIS Open](https://www.oasis-open.org), organisme de standardisation
 - 🏦 🇪🇺[Interoperable Europe Act](https://ec.europa.eu/commission/presscorner/detail/fr/ip_22_6907)
 - 📚 🇫🇷 [schema.data.gouv.fr](https://schema.data.gouv.fr), référencement des schémas de données publiques pour la France
 - 📚 [Schema.org](https://schema.org/), create, maintain, and promote schemas for structured data on the Internet, on web pages, in email messages, and beyond
