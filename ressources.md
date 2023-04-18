@@ -78,6 +78,7 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 📡 [OSPOlogy](https://www.youtube.com/@ospology), TODO group youtube channel
 - 📖 [The Cathedral and the Bazaar](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/index.html#catbmain) - Eric S. Raymond
 - 📖 [Producing Open Source Software](https://producingoss.com/) de Karl Fogel
+- 📖 [The Open Source Way 2.0](https://www.theopensourceway.org/the_open_source_way-guidebook-2.0.html)
 - 📖 [Open Source 2.0](https://en.wikipedia.org/wiki/Open_Sources_2.0) - O'Reilly Media
 - 📖 [Open Sources: Voices from the Open Source Revolution](https://en.wikipedia.org/wiki/Open_Sources) - O'Reilly Media
 - 📖 [Open Sources 2.0 : The Continuing Evolution](https://ia600907.us.archive.org/1/items/opensources2.000diborich/opensources2.000diborich.pdf) - O'Reilly Media
