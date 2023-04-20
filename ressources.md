@@ -301,6 +301,7 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 📖 [The Battle for Open, How openness won and why it doesn't feel like victory](https://www.ubiquitypress.com/site/books/m/10.5334/bam/)
 - 🏦 🇫🇷 [Stratégie du numérique pour l'Éducation Nationale](https://www.education.gouv.fr/strategie-du-numerique-pour-l-education-2023-2027-344263) (2023-2027)
 - 🏦 [UNESCO Recommendation on Open Educational Resources](https://www.unesco.org/en/legal-affairs/recommendation-open-educational-resources-oer) (2019)
+- 🏦 🇺🇸 [Open Education at Office of Educational Technology](https://tech.ed.gov/open/), U.S. Department of Education Office of Educational Technology
 - 🛠️ [PressBooks](https://pressbooks.com/), open book creation platform
 - 🛠️ [Florilège](https://florilege.ls2n.fr/), indexation OER francophones par annotation manuelle
 - 🛠️ [convOERter](https://convoerter-eval.elearn.rwth-aachen.de/en/), convert presentation to OER
