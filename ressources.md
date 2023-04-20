@@ -52,6 +52,7 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 🎥 "[Je propose de dépasser la propriété privée par la propriété sociale et temporaire](https://www.youtube.com/watch?v=3VUSPKko8Do)", Interview Thomas Piketty France Inter
 - 🎥 [Biens ou bien : une histoire de la propriété](https://www.youtube.com/watch?v=sOhekXybHL4), Interview Arnaud-Dominique Houte
 - 🎥 [The Internet's Own Boy: The Story of Aaron Swartz](https://www.youtube.com/watch?v=9vz06QO3UkQ)
+- 👩‍🎓 [Creative Commons Wiki](https://wiki.creativecommons.org/), by Creative Commons
 - 👩‍🎓 [Boite à Outils des Communs Numériques](https://doc.incubateur.net/outils-communs/)
 - 👩‍🎓 [Tutoriel des Communs Numériques](https://labo.societenumerique.gouv.fr/2019/10/16/tutoriel-aux-communs-numeriques-guide-pratique-pour-sengager-dans-une-demarche-de-commun-numerique/)
 - 👩‍🎓 [Économie de la contribution et entrepreneuriat - Base de connaissances](https://contribution.ch/EC1/EC1_Economie-de-la-Contribution_Base-de-connaissances_v0-9.pdf)
