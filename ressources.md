@@ -260,6 +260,7 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 ## Open Education
 
 - 👩‍🎓 [Open Education Handbook](https://en.wikibooks.org/wiki/Open_Education_Handbook), Wikibooks, hosted by Wikimedia Foundation
+- 📚 🇫🇷 [La Forge des Communs Numériques Éducatifs](https://forge.aeif.fr/framaka/que-la-forge-soit-avec-toi), Association des Enseignant(e)s d'Informatique de France (AEIF) soutenue par l'Éducation Nationale
 - 📚 [OER Commons](https://www.oercommons.org/)
 - 📚 [MIT OpenCourseWare](https://ocw.mit.edu/)
 - 📚 [Databases of Open Educational Ressources](https://guides.library.unr.edu/oer/find), by University of Nevada
