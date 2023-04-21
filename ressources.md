@@ -307,6 +307,8 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 🏦 🇫🇷 [Stratégie du numérique pour l'Éducation Nationale](https://www.education.gouv.fr/strategie-du-numerique-pour-l-education-2023-2027-344263) (2023-2027)
 - 🏦 [UNESCO Recommendation on Open Educational Resources](https://www.unesco.org/en/legal-affairs/recommendation-open-educational-resources-oer) (2019)
 - 🏦 🇺🇸 [Open Education at Office of Educational Technology](https://tech.ed.gov/open/), U.S. Department of Education Office of Educational Technology
+- 🛠️ [Openly Available Sources Integrated Search](https://oasis.geneseo.edu/index.php) (OASIS), moteur de recherche pour OER
+- 🛠️ [The Mason OER Metafinder](https://mom.gmu.edu) (MOM), moteur de recherche pour OER
 - 🛠️ [PressBooks](https://pressbooks.com/), open book creation platform
 - 🛠️ [Florilège](https://florilege.ls2n.fr/), indexation OER francophones par annotation manuelle
 - 🛠️ [convOERter](https://convoerter-eval.elearn.rwth-aachen.de/en/), convert presentation to OER
