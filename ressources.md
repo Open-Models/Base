@@ -353,6 +353,7 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 🕴️ [PinePhone](https://www.pine64.org/)
 - 🕴️ [Open Compute Project](https://www.opencompute.org/)
 - 📰 [Liste de projets open hardware](https://en.wikipedia.org/wiki/List_of_open-source_hardware_projects)
+- 📰 ["Open Design" or "Open Source Hardware"? Lets talk about what?](https://larszimmermann.de/open-design-or-open-source-hardware-lets-talk-about-what/)
 - 📚 [Thingiverse](https://www.thingiverse.com/)
 - 👩🏽‍🔬 [Business models for open source hardware](https://tel.archives-ouvertes.fr/tel-02504769/document)
 
