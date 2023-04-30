@@ -73,6 +73,7 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 🕴️ 🇪🇺 [OpenForum Europe](https://openforumeurope.org/)
 - 🕴️ 🇬🇧 [OpenUk](https://openuk.uk/)
 - 🕴️ [Open Climate](https://open-climate.org/), exploring the intersection between the open movement and the climate crisis
+- 🕴️ [Digital Public Goods Alliance](https://digitalpublicgoods.net/)
 
 ## Open Source
 
