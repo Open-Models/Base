@@ -195,6 +195,7 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 🛠️ 🇪🇺 [Open Mining INfrastructure for TExt and Data](http://openminted.eu/) (OpenMinTeD)
 - 🛠️ [Open Researcher and Contributor ID](https://orcid.org/) (ORCID)
 - 🛠️ [Invenio](https://inveniosoftware.org/), open software pour plateforme open science (base de Zenodo)
+- 🛠️ [Prereview](https://prereview.org/), plateforme d'open peer review
 - 📚 [Open Science Framework](https://osf.io/)
 - 📚 [HAL archive ouverte](https://hal.archives-ouvertes.fr/)
 - 📚 [Theses.fr](https://www.theses.fr/fr/)
