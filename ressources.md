@@ -202,6 +202,7 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 🛠️ [Prereview](https://prereview.org/), plateforme d'open peer review
 - 📚 [Open Science Framework](https://osf.io/)
 - 📚 [HAL archive ouverte](https://hal.archives-ouvertes.fr/)
+- 📚 [Open Research Europe](https://open-research-europe.ec.europa.eu/), plateforme publication hébergé par la Commission Européenne
 - 📚 [Theses.fr](https://www.theses.fr/fr/)
 - 📚 [Open Edition](https://www.openedition.org/)
 - 📚 [Open Access Publishing in European Networks](https://www.oapen.org/) (OAPEN)
