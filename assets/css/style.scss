@@ -4,5 +4,6 @@
 @import "{{ site.theme }}";
 
 blockquote {
+    // remove markdown citation (>) default right space
     margin-right: 0px;
 }
