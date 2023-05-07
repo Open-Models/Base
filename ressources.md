@@ -56,6 +56,7 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 👩‍🎓 [Creative Commons Wiki](https://wiki.creativecommons.org/), by Creative Commons
 - 👩‍🎓 [Boite à Outils des Communs Numériques](https://doc.incubateur.net/outils-communs/)
 - 👩‍🎓 [Tutoriel des Communs Numériques](https://labo.societenumerique.gouv.fr/2019/10/16/tutoriel-aux-communs-numeriques-guide-pratique-pour-sengager-dans-une-demarche-de-commun-numerique/)
+- 👩‍🎓 [Guide méthodologique des Communs Numériques de la Mobilité](https://wiki.lafabriquedesmobilites.fr/wiki/Guide_m%C3%A9thodologique_des_Communs_Num%C3%A9riques_de_la_Mobilit%C3%A9), Fabrique de la Mobilité
 - 👩‍🎓 [Économie de la contribution et entrepreneuriat - Base de connaissances](https://contribution.ch/EC1/EC1_Economie-de-la-Contribution_Base-de-connaissances_v0-9.pdf)
 - 👩🏽‍🔬 [Les net-up… une nouvelle forme du projet entrepreneurial ?](https://www.erudit.org/fr/revues/ipme/2017-v30-n2-ipme03119/1040456ar/)
 - [Appel pour une société des communs](https://societedescommuns.com/appel/)
