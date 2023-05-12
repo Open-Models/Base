@@ -193,6 +193,7 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 👩‍🎓 [The Open Science Training Handbook](https://open-science-training-handbook.github.io/Open-Science-Training-Handbook_EN//) by Foster open science
 - 👩‍🎓 🇫🇷 [Guide sur les journaux prédateurs](https://www.unige.ch/biblio/files/8316/4362/2029/2022_midi_predatory_journals_memo_fr_v1.pdf), Université de Genève
 - 👩‍🎓 [Opensciency](https://zenodo.org/record/7662732), open science curriculum by and for the research community
+- 👩‍🎓 [Open Science: A Practical Guide for Early-Career Researchers](https://doi.org/10.5281/zenodo.7716152)
 - 👩‍🎓 [Mapping Open Science [practices] resources from around the world by discipline and principles](https://doi.org/10.21428/51e64700.893d7337)
 - 🎥 [Open Science : À qui les données de la science appartiennent-elles ?](https://www.youtube.com/watch?v=vsP8S63qOhY), La Tronche en biais ft. TenL95
 - 🎥 [Open science avec Célya Gruson-Daniel (HackYourPhD & DRISS) \| Probablement?](https://www.youtube.com/watch?v=5rWpNmm0dfA), Science4All
