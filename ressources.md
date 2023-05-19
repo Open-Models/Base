@@ -108,6 +108,7 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 🎥 [Bryan Ostergaard - Gestion de projet open source](https://www.youtube.com/watch?v=8mukIfWEC7g)
 - 🎥 [History of GNU, Linux, Free and Open Source Software](https://www.youtube.com/watch?v=vjMZssWMweA)
 - 🎥 [The Linux Story](https://www.youtube.com/watch?v=cLnlaNESCcg)
+- [Grace Hopper, "premier" développement open source avec COBOL](https://www.bbc.co.uk/sounds/play/p04n04cm)
 - Label [Territoire Numérique Libre](https://territoire-numerique-libre.org)
 - 👩🏽‍🔬 Étude FOSSEPS pour la commission Européenne - [Free and Open Source Software Solutions for European Public Services](https://joinup.ec.europa.eu/collection/fosseps/news/fosseps-critical-open-source-software-study-report)
 - 👩🏽‍🔬 Enquête [Open Source Program Office 2022](https://todogroup.org/blog/ospo-survey-2022-results/) par TODO group
