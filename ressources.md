@@ -376,6 +376,7 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 🛠️ [Prusa](https://www.prusa3d.com/), imprimantes 3D
 - [Open Source Ecology](https://www.opensourceecology.org/)
 - 🕴️ [L'Atelier Paysan](https://www.latelierpaysan.org/)
+- 🕴️ [Vhélio](https://vhelio.org/), vélo solaire
 - 🕴️ [PinePhone](https://www.pine64.org/)
 - 🕴️ [Open Compute Project](https://www.opencompute.org/)
 - 📰 [Liste de projets open hardware](https://en.wikipedia.org/wiki/List_of_open-source_hardware_projects)
