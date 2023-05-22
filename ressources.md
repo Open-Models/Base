@@ -131,6 +131,7 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 🏦 🇫🇷 Plan d'action logiciels libres et communs numériques : [communs.numerique.gouv.fr](https://communs.numerique.gouv.fr/)
 - 🕴️ [TODO](https://todogroup.org/), for organizations committed to Open Source and Open Source Program Offices
 - 🕴️ [OSPO Alliance](https://ospo.zone/)
+- 🕴️ [OSPO++](https://ospoplusplus.org/), network for OSPO in universities, governments and civic institutions
 - 🕴️ 🇫🇷 [Addulact](https://adullact.org/)
 - 🕴️ 🇫🇷 [The Open Source I Trust (TOSIT)](https://tosit.fr/)
 - 🕴️ 🇫🇷 [Conseil National du Logiciel Libre](https://cnll.fr/)
@@ -143,6 +144,8 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 🕴️ [Open Source Security Foundation](https://openssf.org/)
 - 🕴️ [Free/Libre and Open Source Software (FLOSS) foundations](https://flossfoundations.org/foundation-directory/)
 - 🕴️ [OpenMairie](http://www.openmairie.org/)
+- 🕴️ [Apereo Foundation](https://www.apereo.org/), Open Source Software Serving the Academic Mission, institutions network
+- 🕴️ 🇫🇷 [ESUP-PORTAIL](https://www.esup-portail.org/), communauté pour le développement de solutions universitaires open source
 - 🕴️ [Framasoft](https://framasoft.org/fr/)
 - 🕴️ [Open Mainframe Project](https://www.openmainframeproject.org/)
 - 🕴️ [Open Source Observatory](https://joinup.ec.europa.eu/collection/open-source-observatory-osor) (OSOR), commission européene
