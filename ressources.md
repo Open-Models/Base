@@ -130,6 +130,7 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 🏦 🇪🇺 [European Free and Open Source Software Auditing](https://commission.europa.eu/about-european-commission/departments-and-executive-agencies/informatics/eu-fossa-2-free-and-open-source-software-auditing_en) (EU-FOSSA-2)
 - 🏦 🇫🇷 Plan d'action logiciels libres et communs numériques : [communs.numerique.gouv.fr](https://communs.numerique.gouv.fr/)
 - 🕴️ [TODO](https://todogroup.org/), for organizations committed to Open Source and Open Source Program Offices
+- 🕴️ [OSPO Alliance](https://ospo.zone/)
 - 🕴️ 🇫🇷 [Addulact](https://adullact.org/)
 - 🕴️ 🇫🇷 [The Open Source I Trust (TOSIT)](https://tosit.fr/)
 - 🕴️ 🇫🇷 [Conseil National du Logiciel Libre](https://cnll.fr/)
