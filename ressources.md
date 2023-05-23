@@ -174,6 +174,7 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 🛠️ [NGI Search](https://www.ngisearch.eu/), Funding the Next Generation of (open source) Web Searching Tools
 - 🛠️ [Open Collective](https://opencollective.com/), legal and financial toolbox for grassroots groups
 - 🛠️ [Open Source JobHub](https://opensourcejobhub.com/)
+- 🛠️ [ossjobs.dev](https://www.ossjobs.dev/)
 - 🛠️ [ForgeFed](https://forgefed.org/), federation protocol for software forges
 
 ## Open Science
