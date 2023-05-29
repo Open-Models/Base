@@ -344,6 +344,7 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 📰 [The world needs a better map: TomTom is making it with its new mapping platform and ecosystem](https://www.tomtom.com/newsroom/behind-the-map/the-future-of-mapmaking-tomtom-maps-platform/) (2022)
 - 🕴️ [Overture Maps Foundation](https://overturemaps.org/), coalition pour des cartes interopérables
 - 👩🏽‍🔬 [Reports for Open Data Maturity of European countries](https://data.europa.eu/en/publications/open-data-maturity/), European Commission
+- 📰 👩🏽‍🔬 [Carto-vandalisme dans OpenStreetMap : mythe ou réalité ?](https://static.geotribu.fr/articles/2023/2023-05-24_carto-vandalisme_dans_OSM/#introduction) (Mémoire)
 
 ## Open Hardware
 
