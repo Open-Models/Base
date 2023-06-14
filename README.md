@@ -32,6 +32,13 @@ Une ressource pour se construire des bases et devenir acteur de ces univers.
 
 Une [liste de ressources](ressources.md) sur les modèles ouverts permet de rassembler une variété de liens utiles.
 
+## Matériel d'atelier 📚
+
+L'éducation aux modèles ouverts prend des formes et touche des publics variés, une multitude de matériaux
+pédagogiques peuvent être crées et réutilisés. Pour aider à la mise en place d'activités, tout un ensemble
+de ressources librement disponibles se trouve sur une page dédiée au [matériel pour des ateliers
+d'éducation aux modèles ouverts](materiel-atelier.md).
+
 ## Feuille de route 🗺️
 
 Pour fixer et comprendre l'orientation de la communauté autour de la brique, une [feuille de route](organisation/feuille-de-route.md) permet de voir
