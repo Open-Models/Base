@@ -36,8 +36,8 @@ Une [liste de ressources](ressources.md) sur les modèles ouverts permet de rass
 
 L'éducation aux modèles ouverts prend des formes et touche des publics variés, une multitude de matériaux
 pédagogiques peuvent être crées et réutilisés. Pour aider à la mise en place d'activités, tout un ensemble
-de ressources librement disponibles se trouve sur une page dédiée au [matériel pour des ateliers
-d'éducation aux modèles ouverts](materiel-atelier.md).
+de ressources librement disponibles se trouve sur une page dédiée au
+[matériel pour des ateliers d'éducation aux modèles ouverts](materiel-atelier.md).
 
 ## Feuille de route 🗺️
 
