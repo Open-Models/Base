@@ -342,6 +342,7 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 📚 [Inter-university Consortium for Political and Social Research](https://www.icpsr.umich.edu/web/pages/ICPSR/index.html) (ICPSR), curated repository for social, behavioral, and health sciences research data
 - 📰 [OpenStreetMap is having a Moment](https://joemorrison.medium.com/openstreetmap-is-having-a-moment-dcc7eef1bb01) (organisations investment)
 - 📰 [The world needs a better map: TomTom is making it with its new mapping platform and ecosystem](https://www.tomtom.com/newsroom/behind-the-map/the-future-of-mapmaking-tomtom-maps-platform/) (2022)
+- 🕴️ 🇫🇷 [La fédération des professionnels d’OpenStreetMap](https://fposm.fr/)
 - 🕴️ [Overture Maps Foundation](https://overturemaps.org/), coalition pour des cartes interopérables
 - 👩🏽‍🔬 [Reports for Open Data Maturity of European countries](https://data.europa.eu/en/publications/open-data-maturity/), European Commission
 
