@@ -224,6 +224,7 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 🏦 🇪🇺 [Open Science Monitor](https://ec.europa.eu/info/research-and-innovation/strategy/strategy-2020-2024/our-digital-future/open-science/open-science-monitor_en) de la Commission Européenne
 - 🏦 🇫🇷 [Open Science Monitor](https://frenchopensciencemonitor.esr.gouv.fr/) français
 - 🏦 🇺🇸 [Year of Open Science announcement](https://www.whitehouse.gov/ostp/news-updates/2023/01/11/fact-sheet-biden-harris-administration-announces-new-actions-to-advance-open-and-equitable-research/) (2023), Office of Science and Technology Policy (OSTP), White House
+- 🏦 🇺🇸 [Scientific Integrity Policy](https://www.whitehouse.gov/ostp/news-updates/2023/06/22/white-house-office-of-science-and-technology-policy-ostp-scientific-integrity-policy/) (2023), Office of Science and Technology Policy (OSTP), White House
 - 🏦 🇺🇸 [Transform to Open Science (TOPS)](https://science.nasa.gov/open-science/transform-to-open-science), mission NASA
 - 🏦 🇺🇸 [open.science.gov](https://open.science.gov/), Open Science Announcements from U.S. Federal Agencies
 - [Budapest Open Access Initiative](https://www.budapestopenaccessinitiative.org/read/), 2002
