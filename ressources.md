@@ -192,6 +192,7 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 👩🏽‍🔬 [Open access publishing – noble intention, flawed reality](https://www.sciencedirect.com/science/article/pii/S027795362200898X)
 - 🛠️ [Core](https://core.ac.uk/)
 - 🛠️ [oa.mg](https://oa.mg/), open access search engine
+- 🛠️ [LA Referencia](https://www.lareferencia.info/en/), open access search engine for latin america
 - 🛠️ [Sci-Hub](https://fr.wikipedia.org/wiki/Sci-Hub)
 - 🛠️ [Libgen](https://fr.wikipedia.org/wiki/Library_Genesis), moteur de recherche d'articles et de livres
 - 🛠️ [Sherpa Romeo](https://v2.sherpa.ac.uk/romeo/), analyses des politiques open access des éditeurs
