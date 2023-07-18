@@ -369,6 +369,7 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 ## Open Scolarship
 
 - 🕴️ 🇬🇧 [The Open University](https://www.open.ac.uk/)
+- 🕴️ [Open Educational Resources University](https://oeru.org/) (OERu)
 - 🕴️ 🇫🇷 [L'Université Numérique](https://luniversitenumerique.fr/)
 - 🕴️ 🇸🇳 [Université Numérique Cheikh Hamidou Kane](https://www.uvs.sn/)
 - 🕴️ [Higher Education Leadership Initiative for Open Scholarship](https://www.heliosopen.org/) (HELIOS)
