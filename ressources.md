@@ -332,6 +332,7 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 📚 [data.gouv.fr](https://www.data.gouv.fr/fr/)
 - 📚 🇫🇷 [api.gouv.fr](https://api.gouv.fr/), liste API des services publics
 - 📚 [open.urssaf.fr](https://open.urssaf.fr)
+- 📚 [DataBank](https://databank.worldbank.org/), The World Bank
 - 📚 [Global Biodiversity Information Facility](https://www.gbif.org/) (GBIF)
 - 📚 [Radio Garden FM AM](https://radio.garden/), map monde des radios
 - 📚 🇨🇦 [Federated Research Data Repository](https://www.frdr-dfdr.ca/repo/?locale=en) (FRDR), find and share Canadian Resarch Data
