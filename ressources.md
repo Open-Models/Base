@@ -67,6 +67,10 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 📚 [Unsplash](https://unsplash.com/), banque d'image
 - 📚 [Pixabay](https://pixabay.com/), banque d'images, sons et vidéos libres de droits
 - 📚 [Iconoir](https://iconoir.com/), librairie de logo
+- 📚 [Fontawesome](https://fontawesome.com/), icons library
+- 📚 [The Noun Project](https://thenounproject.com/), icons and photos library
+- 📚 [Fontello](https://fontello.com/), icons library
+- 📚 [Iconmonstr](https://iconmonstr.com), icons library
 - 📚 [Directory of Open Access Books](https://www.doabooks.org/) (DOAB)
 - 🕴️ [Fabrique des mobilités](https://lafabriquedesmobilites.fr/), construire la mobilité durable via les communs
 - 🕴️ [Open Future Foundation](https://openfuture.eu/)
