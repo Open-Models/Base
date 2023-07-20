@@ -20,6 +20,7 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 1. [Open Scolarship](#open-scolarship)
 1. [Open Business](#open-business)
 1. [Open Health](#open-health)
+1. [Open Music](#open-music)
 1. [Open Collaboration](#open-collaboration)
 1. [Open Standard](#open-standard)
 1. [Type indéterminé](#type-indéterminé)
@@ -388,6 +389,12 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 ## Open Health
 
 - 🎥 [MakAir - Respirateur open source](https://www.youtube.com/watch?v=14ntkNCMIOA)
+
+## Open Music
+
+- 🎥 [L'homme le plus écouté du monde !](https://www.youtube.com/watch?v=najZ2cXy-Aw) [Kevin MacLeod], SEB
+- 📚 [Incompetech](https://incompetech.com/music/royalty-free/), Kevin MacLeod website
+- 🕴️🎤 [Josh Woodward](https://www.joshwoodward.com), Songs for people who like things
 
 ## Open Collaboration
 
