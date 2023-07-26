@@ -327,6 +327,7 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 
 ## Open Data
 
+- 🛠️ [RedPajama-Data repository](https://github.com/togethercomputer/RedPajama-Data), Open Source Recipe to Reproduce LLaMA training dataset
 - [Pappers](https://pappers.fr) pour les informations d'entreprises, [Justice Pappers](https://justice.pappers.fr/) pour les décisions de justice
 - 📚 🇪🇺 [data.europe.eu](https://data.europa.eu/en)
 - 📚 [data.gouv.fr](https://www.data.gouv.fr/fr/)
