@@ -114,6 +114,7 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 👩🏽‍🔬 Enquête GitHub [State of the Octoverse](https://octoverse.github.com/)
 - 👩🏽‍🔬 [Why We Engage in FLOSS: Answers from Core Developers](https://arxiv.org/pdf/1803.05741.pdf)
 - 👩🏽‍🔬 [Report on the 2020 FOSS Contributor Survey](https://www.linuxfoundation.org/resources/publications/foss-contributor-survey-2020), Linux Foundation
+- 👩🏽‍🔬 [Open Source Maintainers report](https://www.linuxfoundation.org/research/open-source-maintainers), Linux Foundation
 - 👩🏽‍🔬 [Why Modern Open Source Projects Fail](https://arxiv.org/pdf/1707.02327.pdf)
 - 👩🏽‍🔬 [The Role of Foundations in Open Source Projects](https://livablesoftware.com/study-open-source-foundations/)
 - 👩🏽‍🔬 [Why Do Developers Adopt Open Source Software? Past, Present and Future](https://hal.archives-ouvertes.fr/hal-02305701)
