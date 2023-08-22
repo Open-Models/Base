@@ -106,7 +106,7 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 🎥 [Max Stoiber - How Open Source Changed My Life](https://www.youtube.com/watch?v=ifq3xhik8tE)
 - 🎥 [TedX Richard Stallman - Free software, free society](https://www.youtube.com/watch?v=Ag1AKIl_2GM)
 - 🎥 [Bryan Ostergaard - Gestion de projet open source](https://www.youtube.com/watch?v=8mukIfWEC7g)
-- 🎥 [History of GNU, Linux, Free and Open Source Software](https://www.youtube.com/watch?v=vjMZssWMweA)
+- 🎥 [Revolution OS (History of GNU, Linux, Free and Open Source Software)](https://www.youtube.com/watch?v=vjMZssWMweA)
 - 🎥 [The Linux Story](https://www.youtube.com/watch?v=cLnlaNESCcg)
 - Label [Territoire Numérique Libre](https://territoire-numerique-libre.org)
 - 👩🏽‍🔬 Étude FOSSEPS pour la commission Européenne - [Free and Open Source Software Solutions for European Public Services](https://joinup.ec.europa.eu/collection/fosseps/news/fosseps-critical-open-source-software-study-report)
