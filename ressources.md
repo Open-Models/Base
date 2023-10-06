@@ -403,7 +403,6 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 🛠️ [RISC-V](https://riscv.org/), Instruction Set Architecture (computer architecture)
 - 🛠️ [OAI-PMH](http://www.openarchives.org/OAI/openarchivesprotocol.html), protocole de récolte de métadonnées
 - 🛠️ [Dublin Core](https://dublincore.org/), schéma de métadonnées pour ressources numériques
-- 🛠️ [DOIs](https://www.doi.org/), identifiants uniques pour objets numériques
 - 🛠️ [ccREL](https://www.w3.org/Submission/ccREL/) : The Creative Commons Rights Expression Language
 - 📖 Standards Battles in Open Source Software: The Case of Firefox, H. Vries, I. Oshri
 
