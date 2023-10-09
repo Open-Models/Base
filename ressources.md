@@ -206,6 +206,7 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 👩🏽‍🔬 [Towards an Open Science definition as a political and legal framework](https://hal.archives-ouvertes.fr/hal-02962399/document)
 - 👩🏽‍🔬 [The Economic Impacts of Open Science: A Rapid Evidence Assessment](https://www.mdpi.com/2304-6775/7/3/46/htm)
 - 👩🏽‍🔬 [Le marché de l'édition scientifique, entre accès « propriétaire » et accès « libre »](https://www.cairn.info/revue-hermes-la-revue-2010-2-page-137.htm)
+- 👩🏽‍🔬 [Contracter à l’heure de la publication en accès ouvert. Une analyse systématique des accords transformants](https://hal.science/halshs-03203560/)
 - 👩🏽‍🔬 [Point of View: How open science helps researchers succeed](https://elifesciences.org/articles/16800)
 - 👩🏽‍🔬 [L’archive ouverte HAL-SHS : Comment ça marche, pourquoi s’en servir ?](https://archivesic.ccsd.cnrs.fr/sic_00407275/file/Emigrinter2009_HALSHS.pdf), [2009]
 - 👩🏽‍🔬 [Amplifying the impact of open access: Wikipedia and the diffusion of science](https://asistdl.onlinelibrary.wiley.com/doi/full/10.1002/asi.23687)
