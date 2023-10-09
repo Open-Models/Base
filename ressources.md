@@ -327,6 +327,7 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 📰 [Alternatives to paying for pricey textbooks](https://sanjosespotlight.com/rodriguez-alternatives-to-paying-for-pricey-textbooks/)
 - 📰 [Students are told not to use Wikipedia for research. But it’s a trustworthy source](https://theconversation.com/students-are-told-not-to-use-wikipedia-for-research-but-its-a-trustworthy-source-168834)
 - 📰 [Poland Is Pioneering the World’s First National Open Textbook Program](https://www.opensocietyfoundations.org/voices/poland-pioneering-worlds-first-national-open-textbook-program) (2016)
+- 📰 [A Powerful Model (SAMR) for Understanding Good Tech Integration](https://www.edutopia.org/article/powerful-model-understanding-good-tech-integration/)
 - 📖 [Handook of Open, Distance and Digital Education](https://link.springer.com/referencework/10.1007/978-981-19-2080-6)
 - 📖 [L’enseignement à l’ère numérique](https://pressbooks.bccampus.ca/tiada3french/)
 - 📖 [The Battle for Open, How openness won and why it doesn't feel like victory](https://www.ubiquitypress.com/site/books/m/10.5334/bam/)
