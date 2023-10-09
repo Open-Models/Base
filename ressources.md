@@ -99,7 +99,7 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 📖 Économie du logiciel libre, F. Elie
 - 📖 [Vers une communication numérique plus sociale et solidaire](https://blog.comem.ch/wp-content/uploads/2020/08/guide_v2_read.pdf), guide ESS
 - 📰 Github - [The readme project](https://github.com/readme/) : Interview d'acteurs de l'open source
-- 📰 [The Open Source contributor funnel](https://github.com/AbcSxyZ/Open-Source-Education/edit/main/awesome-open-source-resources.md) - Mike McQuaid
+- 📰 [The Open Source contributor funnel](https://mikemcquaid.com/the-open-source-contributor-funnel-why-people-dont-contribute-to-your-open-source-project/) - Mike McQuaid
 - 📰 [Awesome maintainers](https://github.com/nayafia/awesome-maintainers) - *"Talks, blog posts, and interviews about the experience of being an open source maintainer"*
 - 📰 [Time Till Open Source Alternative](https://staltz.com/time-till-open-source-alternative.html), André Staltz
 - 📰 [Projet GPL Violations](https://gpl-violations.org/) [inactif, archivage]
