@@ -420,6 +420,7 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 🕴️ [European Association of Distance Teaching Universities](https://eadtu.eu/index.php) (EADTU)
 - 🎥 [What's an Open University Degree Like?](https://www.youtube.com/watch?v=Pj0rbafFBak)
 - 👩🏽‍🔬 [L'ouverture en question : quand des universités ouvertes se redéfinissent à l'ère de la globalisation numérique](https://theses.hal.science/tel-01687221) (Thèse)
+- 👩🏽‍🔬 [The open academic: Why and how business academics should use social media to be more ‘open’ and impactful](https://doi.org/10.1016/j.bushor.2022.05.001)
 - 📚 [List of open universities](https://en.wikipedia.org/wiki/List_of_open_universities), Wikipedia
 - 📚 [Ubiquity Press](https://www.ubiquitypress.com/), open access publisher of peer-reviewed academic journals, books and data
 
