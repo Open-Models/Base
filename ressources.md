@@ -131,6 +131,7 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 👩🏽‍🔬 [Study about the impact of open source software and hardware on technological independence, competitiveness and innovation in the EU economy](https://digital-strategy.ec.europa.eu/en/library/study-about-impact-open-source-software-and-hardware-technological-independence-competitiveness-and)
 - 👩🏽‍🔬 [Sources d’influence : Enjeux économiques et géopolitiques des logiciels open source](https://www.ifri.org/sites/default/files/atoms/files/pannier_influence_logiciels_open_source_2022.pdf), étude IFRI
 - 👩‍🎓 [Site éducatif sur l'open source](https://opensource.dev/) de Google
+- 👩‍🎓 [The Linux Foundation’s training program](https://training.linuxfoundation.org/)
 - 👩‍🎓 [Best [Security] Practices for OSS Developers](https://github.com/ossf/wg-best-practices-os-developers), OSSF working group
 - 🏦 🇪🇺 [European Free and Open Source Software Auditing](https://commission.europa.eu/about-european-commission/departments-and-executive-agencies/informatics/eu-fossa-2-free-and-open-source-software-auditing_en) (EU-FOSSA-2)
 - 🏦 🇫🇷 Plan d'action logiciels libres et communs numériques : [communs.numerique.gouv.fr](https://communs.numerique.gouv.fr/)
