@@ -321,6 +321,7 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 🕴️ 🇬🇧 [Open Education Research Hub](http://oerhub.net/) (OER Hub)
 - 🕴️ [Chaire UNESCO RELIA](https://chaireunescorelia.univ-nantes.fr/), Ressources Éducatives Libres et Intelligence Artificielle, Nantes Université
 - 📰 [Chaires dans l'Open Education](https://educacaoaberta.org/en/chairs-in-open-education/) (jusqu'à 2020)
+- 📰 [Symmathesy: A Word in Progress](https://norabateson.wordpress.com/2015/11/03/symmathesy-a-word-in-progress/)
 - 👩🏽‍🔬 🇫🇷 [Sondage annuel (depuis 2014) usage numérique chez les enseignants](https://www.ac-paris.fr/sondage-sur-les-usages-du-numerique-123944)
 - 👩🏽‍🔬 [Report on Teaching and Learning with Open Educational Resources](https://achievingthedream.org/wp-content/uploads/2022/04/OER-Teaching-and-Learning-Report-04202022_Acc.pdf), SRI International (2022)
 - 📡 👩🏽‍🔬 Journal [Education Ouverte et Libre - Open Education](https://oap.unige.ch/journals/eol-oe)
