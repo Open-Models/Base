@@ -196,6 +196,7 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 👩‍🎓 [Opensciency](https://zenodo.org/record/7662732), open science curriculum by and for the research community
 - 👩‍🎓 [Open Science: A Practical Guide for Early-Career Researchers](https://doi.org/10.5281/zenodo.7716152)
 - 👩‍🎓 [Mapping Open Science [practices] resources from around the world by discipline and principles](https://doi.org/10.21428/51e64700.893d7337)
+- 👩‍🎓 CCSD [trainings on HAL platform](https://www.ccsd.cnrs.fr/en/trainings/)
 - 🎥 [Open Science : À qui les données de la science appartiennent-elles ?](https://www.youtube.com/watch?v=vsP8S63qOhY), La Tronche en biais ft. TenL95
 - 🎥 [Open science avec Célya Gruson-Daniel (HackYourPhD & DRISS) \| Probablement?](https://www.youtube.com/watch?v=5rWpNmm0dfA), Science4All
 - 👩🏽‍🔬 [Étude sur les journaux en Open Access Diamonds](https://scienceeurope.org/media/yejfasey/20210309_coalitions_diamond_study_final.pdf)
