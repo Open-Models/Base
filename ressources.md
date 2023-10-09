@@ -193,6 +193,7 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 📡 [Open Science Magazine](https://open-science-future.zbw.eu/en/)
 - 📖 [Opening Science](http://www.openingscience.org/get-the-book/), Sönke Bartling & Sascha Friesike
 - 📖 [The Turing Way](https://the-turing-way.netlify.app/index.html), handbook to reproducible, ethical and collaborative data science
+- 📖 [Plan S for Shock](https://www.ubiquitypress.com/site/books/m/10.5334/bcq/)
 - 👩‍🎓 🇫🇷 [MOOC La science ouverte](https://www.fun-mooc.fr/fr/cours/la-science-ouverte/), par France Université Numérique (FUN) MOOC
 - 👩‍🎓 🇫🇷 [Passeport pour la science ouverte : guide pratique à l'usage des doctorant(e)s](https://www.ouvrirlascience.fr/wp-content/uploads/2021/10/SO_21-10-14-WEB-FR.pdf)
 - 👩‍🎓 [The Open Science Training Handbook](https://open-science-training-handbook.github.io/Open-Science-Training-Handbook_EN//) by Foster open science
