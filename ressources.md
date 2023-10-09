@@ -89,6 +89,7 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 
 - 📡 [Blog open source de Google](https://opensource.googleblog.com/)
 - 📡 [OSPOlogy](https://www.youtube.com/@ospology), TODO group youtube channel
+- 📡 Podcast [Projets Libres !](https://smartlink.ausha.co/projets-libres)
 - 📖 [The Cathedral and the Bazaar](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/index.html#catbmain) - Eric S. Raymond
 - 📖 [Producing Open Source Software](https://producingoss.com/) de Karl Fogel
 - 📖 [The Open Source Way 2.0](https://www.theopensourceway.org/the_open_source_way-guidebook-2.0.html)
