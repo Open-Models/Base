@@ -16,6 +16,7 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 1. [Open Innovation](#open-innovation)
 1. [Open Data](#open-data)
 1. [Open Hardware](#open-hardware)
+1. [Open License](#open-license)
 1. [Open Content](#open-content)
 1. [Open Scolarship](#open-scolarship)
 1. [Open Business](#open-business)
@@ -407,6 +408,15 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 📰 [Abandoned, The human cost of neurotechnology failure](https://www.nature.com/immersive/d41586-022-03810-5/index.html)
 - 📚 [Thingiverse](https://www.thingiverse.com/)
 - 👩🏽‍🔬 [Business models for open source hardware](https://tel.archives-ouvertes.fr/tel-02504769/document)
+
+## Open License
+
+- 🕴️ [Ethical Source](https://ethicalsource.dev/)
+- 🛠️ [License UsageRight](https://pbil.univ-lyon1.fr/members/tannier/usageright/accueil_en.html)
+- 🛠️ [The Anti-Capitalist Software License](https://anticapitalist.software/)
+- 🛠️ [SIL Open Font License](https://en.wikipedia.org/wiki/SIL_Open_Font_License) (SIL OFL)
+- 🛠️ [The Lens](https://www.lens.org/), search engine for free and open patent
+- 🛠️ [Open Data Commons](https://opendatacommons.org/), legal tools for open data by Open Knowledge Association
 
 ## Open Content
 
