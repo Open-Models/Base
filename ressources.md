@@ -105,6 +105,7 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 📰 [Deconstructing Software copyright, 30 years of bad logic](http://www.patenting-art.com/copyprob/softcopy.htm)
 - 📰 [Dossier magazine Swissquote : Les milliards de l'open source](https://resources.swissquote.com/sites/default/files/2020-08/magazine_56_fr.pdf)
 - 📰 [The five stages of the Open Source Program Office](https://blog.opensource.org/the-five-stages-of-the-open-source-program-office/)
+- 📰 [IBM, Red Hat and Free Software: An old maddog’s view](https://www.lpi.org/blog/2023/07/30/ibm-red-hat-and-free-software-an-old-maddogs-view/)
 - 📰 [We're living in a post-open source world](https://www.infoworld.com/article/2608576/open-source-software-we-re-living-in-a-post-open-source-world.html)
 - 📰 [Open source has a funding problem](https://stackoverflow.blog/2021/01/07/open-source-has-a-funding-problem/), the Overflow
 - 📰 [What it feels like to be an open-source maintainer](https://nolanlawson.com/2017/03/05/what-it-feels-like-to-be-an-open-source-maintainer/)
