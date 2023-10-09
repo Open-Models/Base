@@ -83,6 +83,7 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 🕴️ [International Association for the Study of the Commons](https://iasc-commons.org/) (IASC)
 - 🕴️ 🇫🇷 [Accélérateur d'Initiatives Citoyennes](https://citoyens.transformation.gouv.fr/) (DINUM), commons related citizen initiatives accelerator
 - 🛠️ [inventaire.io](https://inventaire.io/welcome), books inventory
+- 🏦 🇺🇳 [Global Digital Compact](https://www.un.org/techenvoy/global-digital-compact), UN project
 
 ## Open Source
 
