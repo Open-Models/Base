@@ -279,6 +279,7 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 🕴️ [Center For Open Science](https://www.cos.io/)
 - 🕴️ [SPARC](https://sparcopen.org/)
 - 🕴️ [Electronic Information for Libraries (EIFL)](https://www.eifl.net/)
+- 🕴️ [Science Europe](https://www.scienceeurope.org/)
 - 🕴️ [Society for Scholarly Publishing](https://www.sspnet.org/) (SSP)
 - 🕴️ [NumFOCUS](https://numfocus.org), support pour logiciels scientifique open source
 - 🕴️ [Facilitate Open Science Training for European Research (FOSTER)](https://www.fosteropenscience.eu/)
