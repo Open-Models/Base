@@ -126,6 +126,7 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 👩🏽‍🔬 [Why Modern Open Source Projects Fail](https://arxiv.org/pdf/1707.02327.pdf)
 - 👩🏽‍🔬 [The Role of Foundations in Open Source Projects](https://livablesoftware.com/study-open-source-foundations/)
 - 👩🏽‍🔬 [Why Do Developers Adopt Open Source Software? Past, Present and Future](https://hal.archives-ouvertes.fr/hal-02305701)
+- 👩🏽‍🔬 [Study about the impact of open source software and hardware on technological independence, competitiveness and innovation in the EU economy](https://digital-strategy.ec.europa.eu/en/library/study-about-impact-open-source-software-and-hardware-technological-independence-competitiveness-and)
 - 👩🏽‍🔬 [Sources d’influence : Enjeux économiques et géopolitiques des logiciels open source](https://www.ifri.org/sites/default/files/atoms/files/pannier_influence_logiciels_open_source_2022.pdf), étude IFRI
 - 👩‍🎓 [Site éducatif sur l'open source](https://opensource.dev/) de Google
 - 👩‍🎓 [Best [Security] Practices for OSS Developers](https://github.com/ossf/wg-best-practices-os-developers), OSSF working group
