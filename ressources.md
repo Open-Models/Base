@@ -133,6 +133,7 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 👩‍🎓 [Best [Security] Practices for OSS Developers](https://github.com/ossf/wg-best-practices-os-developers), OSSF working group
 - 🏦 🇪🇺 [European Free and Open Source Software Auditing](https://commission.europa.eu/about-european-commission/departments-and-executive-agencies/informatics/eu-fossa-2-free-and-open-source-software-auditing_en) (EU-FOSSA-2)
 - 🏦 🇫🇷 Plan d'action logiciels libres et communs numériques : [communs.numerique.gouv.fr](https://communs.numerique.gouv.fr/)
+- 🏦 [Government Open Source Policies](https://www.csis.org/analysis/government-open-source-policies) (prior 2010), Center for Strategic & International Studies
 - 🕴️ [TODO](https://todogroup.org/), for organizations committed to Open Source and Open Source Program Offices
 - 🕴️ [OSPO Alliance](https://ospo.zone/)
 - 🕴️ [OSPO++](https://ospoplusplus.org/), network for OSPO in universities, governments and civic institutions
@@ -242,6 +243,7 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 🏦 🇫🇷 [Plan national pour la science ouverte](https://www.enseignementsup-recherche.gouv.fr/fr/le-plan-national-pour-la-science-ouverte-les-resultats-de-la-recherche-scientifique-ouverts-tous-49241)
 - 🏦🇫🇷 [Deuxième plan pour la science ouverte, généraliser la science ouverte en France 2021-2024](https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2021-09/2e-plan-national-pour-la-science-ouverte-12968.pdf)
 - 🏦 🇪🇺 [Politique Open Science de la Commission Européenne](https://research-and-innovation.ec.europa.eu/strategy/strategy-2020-2024/our-digital-future/open-science_en)
+- 🏦 🇺🇳 [UNESCO Recommendation on Open Science](https://www.unesco.org/en/open-science/about)
 - 🏦 🇪🇺 [Analyses des politiques d'open science en Europe (V7)](https://zenodo.org/record/4725817)
 - 🏦 🇪🇺 [Open Science Monitor](https://ec.europa.eu/info/research-and-innovation/strategy/strategy-2020-2024/our-digital-future/open-science/open-science-monitor_en) de la Commission Européenne
 - 🏦 🇫🇷 [Open Science Monitor](https://frenchopensciencemonitor.esr.gouv.fr/) français
@@ -254,6 +256,7 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - [Bethesda Statement on Open Access Publishing](http://legacy.earlham.edu/~peters/fos/bethesda.htm), 2003
 - [Guerilla Open Access Manifesto](https://archive.org/details/GuerillaOpenAccessManifesto/mode/2up)
 - [Open Climate Campaign](https://openclimatecampaign.org/)
+- [Paris Call on Research Assessment](https://osec2022.eu/paris-call/) (OSEC 2022)
 - 🕴️ [Directory of Open Access Journals](https://doaj.org/), find open access journals & articles
 - 📰 [Liste Wikipédia de dépôts de pré-publication](https://en.wikipedia.org/wiki/List_of_preprint_repositories)
 - 📰 [« La science ouverte est une nouvelle façon de diffuser les savoirs, et les bibliothèques sont au cœur de cette évolution »](https://bbf.enssib.fr/bbffocus/la-science-ouverte-est-une-nouvelle-facon-de-diffuser-les-savoirs-et-les-bibliotheques-sont-au-coeur-de-cette-evolution_70750), interview responsables BU
