@@ -385,6 +385,7 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 🕴️ [Vhélio](https://vhelio.org/), vélo solaire
 - 🕴️ [PinePhone](https://www.pine64.org/)
 - 🕴️ [Open Compute Project](https://www.opencompute.org/)
+- 🕴️ Hugh Piggott [wind turbine](https://scoraigwind.co.uk/about/)
 - 📰 [Liste de projets open hardware](https://en.wikipedia.org/wiki/List_of_open-source_hardware_projects)
 - 📰 ["Open Design" or "Open Source Hardware"? Lets talk about what?](https://larszimmermann.de/open-design-or-open-source-hardware-lets-talk-about-what/)
 - 📰 [Abandoned, The human cost of neurotechnology failure](https://www.nature.com/immersive/d41586-022-03810-5/index.html)
