@@ -209,6 +209,8 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 👩🏽‍🔬 [Open access publishing – noble intention, flawed reality](https://www.sciencedirect.com/science/article/pii/S027795362200898X)
 - 🛠️ [Core](https://core.ac.uk/)
 - 🛠️ [oa.mg](https://oa.mg/), open access search engine
+- 🛠️ [BASE](https://www.base-search.net/), Bielefeld Academic Search
+- 🛠️ [Explore OpenAIRE](https://explore.openaire.eu/), search engine for open research data
 - 🛠️ [LA Referencia](https://www.lareferencia.info/en/), open access search engine for latin america
 - 🛠️ [Sci-Hub](https://fr.wikipedia.org/wiki/Sci-Hub)
 - 🛠️ [Libgen](https://fr.wikipedia.org/wiki/Library_Genesis), moteur de recherche d'articles et de livres
@@ -230,7 +232,6 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 📚 [ResearchGate](https://www.researchgate.net/)
 - 📚 [SpringerOpen](https://www.springeropen.com/)
 - 📚 [recherche.data.gouv.fr](https://recherche.data.gouv.fr/fr)
-- 📚 [Explore OpenAIRE](https://explore.openaire.eu/), search engine for open research data
 - 📚 [Academics on Mastodon](https://github.com/nathanlesage/academics-on-mastodon)
 - 📚 [Open Science Success Stories Database](https://projectopen.io/)
 - 📚 [Open Access Publishing Tools](https://radicaloa.disruptivemedia.org.uk/resources/publishing-tools/), by Radical Open Access
