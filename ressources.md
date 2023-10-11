@@ -135,6 +135,7 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 👩🏽‍🔬 [The Role of Foundations in Open Source Projects](https://livablesoftware.com/study-open-source-foundations/)
 - 👩🏽‍🔬 [Why Do Developers Adopt Open Source Software? Past, Present and Future](https://hal.archives-ouvertes.fr/hal-02305701)
 - 👩🏽‍🔬 [Study about the impact of open source software and hardware on technological independence, competitiveness and innovation in the EU economy](https://digital-strategy.ec.europa.eu/en/library/study-about-impact-open-source-software-and-hardware-technological-independence-competitiveness-and)
+- 👩🏽‍🔬 [Open source software and global entrepreneurship](https://doi.org/10.1016/j.respol.2023.104846)
 - 👩🏽‍🔬 [Sources d’influence : Enjeux économiques et géopolitiques des logiciels open source](https://www.ifri.org/sites/default/files/atoms/files/pannier_influence_logiciels_open_source_2022.pdf), étude IFRI
 - 👩‍🎓 [Site éducatif sur l'open source](https://opensource.dev/) de Google
 - 👩‍🎓 [The Linux Foundation’s training program](https://training.linuxfoundation.org/)
@@ -217,6 +218,7 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 👩🏽‍🔬 [Le marché de l'édition scientifique, entre accès « propriétaire » et accès « libre »](https://www.cairn.info/revue-hermes-la-revue-2010-2-page-137.htm)
 - 👩🏽‍🔬 [Contracter à l’heure de la publication en accès ouvert. Une analyse systématique des accords transformants](https://hal.science/halshs-03203560/)
 - 👩🏽‍🔬 [Point of View: How open science helps researchers succeed](https://elifesciences.org/articles/16800)
+- 👩🏽‍🔬 [Correction of scientific literature: Too little, too late!](https://doi.org/10.1371/journal.pbio.3001572)
 - 👩🏽‍🔬 [L’archive ouverte HAL-SHS : Comment ça marche, pourquoi s’en servir ?](https://archivesic.ccsd.cnrs.fr/sic_00407275/file/Emigrinter2009_HALSHS.pdf), [2009]
 - 👩🏽‍🔬 [Amplifying the impact of open access: Wikipedia and the diffusion of science](https://asistdl.onlinelibrary.wiley.com/doi/full/10.1002/asi.23687)
 - 👩🏽‍🔬 [Open Science for private Interests? How the Logic of Open Science Contributes to the Commercialization of Research](https://www.frontiersin.org/articles/10.3389/frma.2020.588331/full)
@@ -341,6 +343,7 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 📰 [Chaires dans l'Open Education](https://educacaoaberta.org/en/chairs-in-open-education/) (jusqu'à 2020)
 - 📰 [Symmathesy: A Word in Progress](https://norabateson.wordpress.com/2015/11/03/symmathesy-a-word-in-progress/)
 - 👩🏽‍🔬 🇫🇷 [Sondage annuel (depuis 2014) usage numérique chez les enseignants](https://www.ac-paris.fr/sondage-sur-les-usages-du-numerique-123944)
+- 👩🏽‍🔬 [Creating an Online Social Learning Platform: A Model Approach for Open Development, Open Access and Open Education](https://doi.org/10.5445/IR/1000155833)
 - 👩🏽‍🔬 [Report on Teaching and Learning with Open Educational Resources](https://achievingthedream.org/wp-content/uploads/2022/04/OER-Teaching-and-Learning-Report-04202022_Acc.pdf), SRI International (2022)
 - 📡 👩🏽‍🔬 Journal [Education Ouverte et Libre - Open Education](https://oap.unige.ch/journals/eol-oe)
 - 📰 [Alternatives to paying for pricey textbooks](https://sanjosespotlight.com/rodriguez-alternatives-to-paying-for-pricey-textbooks/)
