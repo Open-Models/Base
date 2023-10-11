@@ -40,6 +40,8 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 
 ## Modèles ouverts et communs
 
+- [Open Work Definition](https://openworkdefinition.com/)
+- [Open Design Definition](https://github.com/OpenDesign-WorkingGroup/Open-Design-Definition/blob/master/open.design_definition/open.design.definition.md)
 - 📡 [Les communs d'abord](https://www.les-communs-dabord.org/)
 - 📖 [Open Models : les business models de l'économie ouverte](https://drive.google.com/file/d/0B3FF0PcRH-F7YTduczNYdmNzT2s/view?resourcekey=0-JLwfPn6eT6eavH5lU1D9Aw) - coordonné par Louis-David Benyayer
 - 📖 [The Public Domain: Enclosing the Commons of the Mind](https://thepublicdomain.org/thepublicdomain1.pdf), James Boyle
