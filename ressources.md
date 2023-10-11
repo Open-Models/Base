@@ -395,6 +395,7 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 🕴️ [Overture Maps Foundation](https://overturemaps.org/), coalition pour des cartes interopérables
 - 👩🏽‍🔬 [Reports for Open Data Maturity of European countries](https://data.europa.eu/en/publications/open-data-maturity/), European Commission
 - 📰 👩🏽‍🔬 [Carto-vandalisme dans OpenStreetMap : mythe ou réalité ?](https://static.geotribu.fr/articles/2023/2023-05-24_carto-vandalisme_dans_OSM/#introduction) (Mémoire)
+- 🏦 🇪🇺 [European Data Governance Act](https://digital-strategy.ec.europa.eu/en/policies/data-governance-act)
 
 ## Open Hardware
 
