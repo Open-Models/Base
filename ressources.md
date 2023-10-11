@@ -102,6 +102,7 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 📖 Rebel Code: Linux and the Open Source Revolution, G. Moody
 - 📖 Économie du logiciel libre, F. Elie
 - 📖 [Vers une communication numérique plus sociale et solidaire](https://blog.comem.ch/wp-content/uploads/2020/08/guide_v2_read.pdf), guide ESS
+- 📰 [Defining Open Source](https://the.webm.ink/defining-open-source)
 - 📰 Github - [The readme project](https://github.com/readme/) : Interview d'acteurs de l'open source
 - 📰 [The Open Source contributor funnel](https://mikemcquaid.com/the-open-source-contributor-funnel-why-people-dont-contribute-to-your-open-source-project/) - Mike McQuaid
 - 📰 [Awesome maintainers](https://github.com/nayafia/awesome-maintainers) - *"Talks, blog posts, and interviews about the experience of being an open source maintainer"*
