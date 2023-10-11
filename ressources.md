@@ -453,6 +453,7 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 ## Open Music
 
 - 🎥 [L'homme le plus écouté du monde !](https://www.youtube.com/watch?v=najZ2cXy-Aw) [Kevin MacLeod], SEB
+- 🎥 [Royalty Free: The Music of Kevin MacLeod](https://royaltyfreedoc.com/)
 - 📚 [Incompetech](https://incompetech.com/music/royalty-free/), Kevin MacLeod website
 - 🕴️🎤 [Josh Woodward](https://www.joshwoodward.com), Songs for people who like things
 
