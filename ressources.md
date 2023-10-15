@@ -348,6 +348,7 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 👩🏽‍🔬 [Creating an Online Social Learning Platform: A Model Approach for Open Development, Open Access and Open Education](https://doi.org/10.5445/IR/1000155833)
 - 👩🏽‍🔬 [Report on Teaching and Learning with Open Educational Resources](https://achievingthedream.org/wp-content/uploads/2022/04/OER-Teaching-and-Learning-Report-04202022_Acc.pdf), SRI International (2022)
 - 📡 👩🏽‍🔬 Journal [Education Ouverte et Libre - Open Education](https://oap.unige.ch/journals/eol-oe)
+- 📡 👩🏽‍🔬 [Open Praxis](https://openpraxis.org/), journal on open, distance and flexible education.
 - 📰 [Alternatives to paying for pricey textbooks](https://sanjosespotlight.com/rodriguez-alternatives-to-paying-for-pricey-textbooks/)
 - 📰 [Students are told not to use Wikipedia for research. But it’s a trustworthy source](https://theconversation.com/students-are-told-not-to-use-wikipedia-for-research-but-its-a-trustworthy-source-168834)
 - 📰 [Poland Is Pioneering the World’s First National Open Textbook Program](https://www.opensocietyfoundations.org/voices/poland-pioneering-worlds-first-national-open-textbook-program) (2016)
