@@ -4,7 +4,7 @@ Open models are subjects that evolve over a long period of time, from decades to
 
 The objectives around the brick of knowledge on open models are going to be to disseminate these models through educational work to acculturate the citizen of the XXIᵉ century, continue to build this digital common and federate an ecosystem of stakeholders around these dynamics to prepare for the future.
 
-In an open logic, everyone is free to contribute according to their skills, desires and financial/time/geographical/etc. constraints. More details in the [contribution guide](guide-contribution.md).
+In an open logic, everyone is free to contribute according to their skills, desires and financial/time/geographical/etc. constraints. More details in the [contribution guidelines](contribution-guidelines.md).
 
 <p align="center" width="100%">
     <img src="https://raw.githubusercontent.com/Open-Models/Brique/main/images/roadmap.jpg">

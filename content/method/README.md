@@ -10,9 +10,9 @@ Open models are often (but not exclusively) based on the establishment of a digi
 
 There is a whole range of strategies for structuring a digital commons, we are now searching for a certain methodology.
 
-* **Rule n°1**: [Make a project that makes sense and is based on a common purpose](regle-1.md)
-* **Rule n°2**: [Work and communicate publicly](regle-2.md)
-* **Rule n°3**: [Competition doesn't exist, turn everyone into a partner](regle-3.md)
-* **Rule n°4**: [Being able to integrate external contributors](regle-4.md)
-* **Rule n°5**: [Improving a resource through peer review](regle-5.md)
-* **Rule n°6**: [Architect a digital work environment](regle-6.md)
+* **Rule n°1**: [Make a project that makes sense and is based on a common purpose](rule-1.md)
+* **Rule n°2**: [Work and communicate publicly](rule-2.md)
+* **Rule n°3**: [Competition doesn't exist, turn everyone into a partner](rule-3.md)
+* **Rule n°4**: [Being able to integrate external contributors](rule-4.md)
+* **Rule n°5**: [Improving a resource through peer review](rule-5.md)
+* **Rule n°6**: [Architect a digital work environment](rule-6.md)
