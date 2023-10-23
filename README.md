@@ -1,69 +1,63 @@
-# Modèles Ouverts - Brique de connaissances
+# Open Models - Brick of Knowledge
 
-**[BRIQUE EN CONSTRUCTION, voir la [feuille de route](organisation/feuille-de-route.md)]**
+**\[Brick under construction, see [roadmap](organisation/feuille-de-route.md)\]**
 
-Le numérique est un nouveau monde que nous ne faisons que commencer à explorer.
+Digital is a new world that we have only just begun to explore.
 
-Par sa capacité de libre circulation de la connaissance et de collaboration à grande échelle, des phénomènes uniques
-se dessinent : des modèles ouverts qui fondent l'épicentre de cette révolution numérique.
+Due to its capacity for the free circulation of knowledge and large-scale collaboration, unique phenomena are taking shape: open models that form the epicentre of this digital revolution.
 
-Omniprésents, nous n'en connaissons presque rien. Les modèles ouverts ont déjà façonné le numérique
-et pourraient demain participer à transformer la société face aux crises de l'Anthropocène
-en modifiant notre rapport au savoir.
+Omnipresent, we know almost nothing about them. Open models have already shaped the digital world and could tomorrow help transform society in the face of the crises of the Anthropocene by changing our relationship to knowledge.
 
-La brique de connaissances sur les modèles ouverts se veut un commun numérique pour maîtriser ces nouveaux concepts : Open (Source) Software, Open Science, Open Education, Open Hardware, Open Data, Open Innovation, Open Standard, Open Organization...
+The brick of knowledge on open models is intended as a digital commons for mastering these new concepts: Open (Source) Software, Open Science, Open Education, Open Hardware, Open Data, Open Innovation, Open Standard, Open Organization...
 
-Du savoir en libre accès pour plonger dans ce numérique de la connaissance.
+An openly accessible resource to dive into the digital of knowledge.
 
-## Connaissances de la brique 📖
+## Knowledge of the brick 📖
 
-Le centre névralgique de la brique consiste en un corpus de connaissances sur les modèles ouverts.
+The core of the brick consists of a body of knowledge on open models.
 
-Des connaissances pour découvrir ces phénomènes, leurs histoires, développer une méthodologie pour construire un commun numérique, s'initier au fonctionnement de ces dynamiques collaboratives pour chercher à se les approprier !
+Knowledge to discover these phenomena, their histories, develop a methodology for building digital commons, learn how these collaborative dynamics work to seek to make them your own!
 
-Une ressource pour se construire des bases et devenir acteur de ces univers.
+A resource to acquire basic skills in open models and being an active player in these universes.
 
-**Connaissances sur les modèles ouverts :**
-- [Introduction aux modèles ouverts](contenu/introduction.md)
-- [Histoire des modèles ouverts](contenu/histoire.md)
-- [Méthode de construction d'un commun numérique](contenu/methode/README.md)
-- [Liste des modèles ouverts](contenu/modèles/README.md)
-- [Liste de projets](contenu/projets/README.md)
+**Open models knowledge :**
 
-Une [liste de ressources](ressources.md) sur les modèles ouverts permet de rassembler une variété de liens utiles.
+* [Introduction to open models](contenu/introduction.md)
+* [History of open models](contenu/histoire.md)
+* [Method for building a digital commons](contenu/methode/README.md)
+* [List of open models](contenu/mod%C3%A8les/README.md)
+* [List of projects](contenu/projets/README.md)
 
-## Matériel d'atelier 📚
+A [list of resources](ressources.md) on open models brings together a variety of useful links.
 
-L'éducation aux modèles ouverts prend des formes et touche des publics variés, une multitude de matériaux
-pédagogiques peuvent être crées et réutilisés. Pour aider à la mise en place d'activités, tout un ensemble
-de ressources librement disponibles se trouve sur une page dédiée au
-[matériel pour des ateliers d'éducation aux modèles ouverts](materiel-atelier.md).
+## Workshop materials 📚
 
-## Feuille de route 🗺️
+Open model education takes many forms and reaches many audiences, a multitude of teaching materials can be created and reused. To help you set up activities, a whole range of open resources can be found on a page dedicated to [materials for open models education workshops](materiel-atelier.md).
 
-Pour fixer et comprendre l'orientation de la communauté autour de la brique, une [feuille de route](organisation/feuille-de-route.md) permet de voir
-les grands axes de travail définis.
+## Roadmap 🗺️
 
-Un projet collectif, un commun numérique construit collaborativement, ouvert à la contribution et hébergé (temporairement 🤞) sur la plateforme non open-source [GitHub](https://github.com/Open-Models/Brique).
+To set and understand the orientation of the community around the brick, a [roadmap](organisation/feuille-de-route.md) shows the main axes of work defined.
 
-## Contribuer 🐜
+A collective project, a collaboratively built digital commons, open to contribution and hosted (temporarily 🤞) on the non-open-source [GitHub](https://github.com/Open-Models/Brique) platform.
 
-Les communs numériques reposent sur toute une culture de la contribution. Les apports de chacun viennent faire
-prospérer l'ensemble, à condition que l'écosystème autour d'un projet soit dans la capacité d'inclure des acteurs externes.
+## Contribute 🐜
 
-Un [guide de contribution](organisation/guide-contribution.md) explique différentes manières d'aider sur ce projet de brique de connaissances, pour participer à cette démocratisation des modèles ouverts.
+The digital commons are based on an entire culture of contribution. The contributions of each individual contribute to the prosperity of the whole, provided that the ecosystem around a project is able to include external players.
 
-## Échanger avec la communauté 🤳🏼
+A [contribution guide](organisation/guide-contribution.md) explains different ways to help on this brick of knowledge project.
 
-L'[espace de discussion](https://github.com/Open-Models/Brique/discussions) existe pour permettre de venir poser des questions, approfondir certains points ou simplement discuter avec d'autres membres de la communauté ❤️
+Many ways to participate in this democratization of open models!
 
-N'hésite pas à partager là-bas d'éventuels projets en lien avec les modèles ouverts, cela pourrait intéresser d'autres personnes !
+## Exchange with the community 🤳🏼
 
-## Licences ⚖️
+The [discussion space](https://github.com/Open-Models/Brique/discussions) allows you to ask questions, go into more detail on certain points or simply chat with other members of the ❤️ community.
 
-Toutes les ressources de cette brique de connaissances peuvent être librement utilisés, modifiés et partagés pour vos
-propres usages, commercial ou non. Licence virale, les modifications/forks doivent être redistribuées sous licence CC BY-SA.
+Don't hesitate to share any open models-related projects you may have over there, they could be of interest to others people!
 
-Les citations pour rediriger vers la brique sont appréciables !
+## Licenses ⚖️
+
+All resources in this brick of knowledge can be freely used, modified and shared for your own uses, commercial or non-commercial. Viral license, modifications/forks must be redistributed under CC BY-SA license.
+
+Quotes to redirect to the brick are appreciated!
 
 [GNU AGPL](LICENCE) & [CC BY-SA 4.0](LICENCE_CC_BY_SA_4).

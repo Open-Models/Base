@@ -1,26 +1,31 @@
 # Open Peer Review
 
-## Définition
+## Definition
 
-L'open peer review est un terme générique désignant un certain nombre de méthodes qui se chevauchent et qui permettent d'adapter les modèles d'évaluation par les pairs aux objectifs de la science ouverte, notamment en rendant ouverte l'identité des examinateurs et des auteurs, en publiant les rapports d'examen et en permettant une plus grande participation au processus d'examen par les pairs. La liste complète des traits est la suivante :
+Open peer review is an umbrella term for a number of overlapping ways that peer review models can be adapted in line with the aims of Open Science, including making reviewer and author identities open, publishing review reports and enabling greater participation in the peer review process. The full list of traits is:
 
+- **Open identities**: Authors and reviewers are aware of each other’s identity
 
-- **Identités ouvertes** : Les auteurs et les évaluateurs connaissent l'identité de chacun d'entre eux.
-- **Rapports ouverts** : Les rapports de révision sont publiés en même temps que l'article concerné.
-- **Participation ouverte** : La communauté au sens large peut contribuer au processus de révision.
-- **Interaction ouverte** : Une discussion réciproque directe entre les auteurs et les évaluateurs, et/ou entre les évaluateurs, est autorisée et encouragée.
-- **Manuscrits ouverts de pré-révision** : Les manuscrits sont rendus immédiatement disponibles (par exemple, via des serveurs de préimpression comme arXiv) avant toute procédure formelle d'évaluation par les pairs.
-- **Commentaires ouverts sur la version finale** : Examen ou commentaire des publications finales "version officielle".
-- **Plateformes ouvertes ("évaluation découplée")** : L'examen est facilité par une entité organisationnelle différente du lieu de publication.
+- **Open reports**: Review reports are published alongside the relevant article.
+
+- **Open participation**: The wider community to able to contribute to the review process.
+
+- **Open interaction**: Direct reciprocal discussion between author(s) and reviewers, and/or between reviewers, is allowed and encouraged.
+
+- **Open pre-review manuscripts**: Manuscripts are made immediately available (e.g., via pre-print servers like arXiv) in advance of any formal peer review procedures.
+
+- **Open final-version commenting**: Review or commenting on final “version of record” publications.
+
+- **Open platforms (“decoupled review”)**: Review is facilitated by a different organizational entity than the venue of publication.
 
 *Source : [Tony Ross-Hellauer - What is open peer review ? A systematic review](https://f1000research.com/articles/6-588/v2)*
 
-## Présentation
+## Presentation
 
-Les connaissances scientifiques se construisent depuis plusieurs siècles grâce à l'*[évaluation par les pairs](https://fr.wikipedia.org/wiki/%C3%89valuation_par_les_pairs)*, les scientifiques valident entre eux leurs travaux de recherche pour édifier la science.
+Scientific knowledge has been built for centuries through _[peer review](https://fr.wikipedia.org/wiki/%C3%89valuation_par_les_pairs)_, scientists validating each other's research work to advance science.
 
-Traditionnellement, les résultats d'une recherche étaient envoyés à une revue scientifique qui la faisait évaluer par d'autres scientifiques.
+Traditionally, the results of research were sent to a scientific journal for evaluation by other scientists.
 
-Avec l'arrivée du numérique, des plateformes de pré-publication se mettent en place où les chercheurs viennent publier leurs travaux avec cette évaluation qui se réalise de façon ouverte, les pairs venant revoir les recherches sans être nécessairement sélectionnés suivant un processus davantage public. Par exemple, l'article qui fournit la définition sur [F1000Research](https://f1000research.com/articles/6-588/v2) montre la validation par 4 examinateurs et leurs commentaires.
+With the advent of the digital, pre-publication platforms are being set up where researchers can publish their work with this evaluation being carried out in an open manner, with peers reviewing the research without necessarily being selected according to a more public process. For example, the article providing the definition on [F1000Research](https://f1000research.com/articles/6-588/v2) shows validation by 4 reviewers and their comments.
 
-Les avantages peuvent être multiples : plus grand nombre d'évaluateurs, amélioration de la transparence de l'évaluation, interactions entre les scientifiques... Dans l'objectif d'avoir des travaux de recherche de meilleure qualité.
+The benefits can be manifold: a greater number of reviewers, improved transparency of evaluation, interaction between scientists, etc. The aim is to achieve higher-quality research.

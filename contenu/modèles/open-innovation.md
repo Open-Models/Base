@@ -1,29 +1,28 @@
 # Open Innovation
 
-## Définition
+## Definition
 
-> *L'innovation ouverte est l'utilisation des flux entrants et sortants intentionnels de connaissances pour accélérer
-> l'innovation interne, et élargir les marchés pour l'utilisation externe de l'innovation, respectivement. [Ce paradigme]
-> suppose que les entreprises peuvent et doivent utiliser des idées externes ainsi que des idées internes, et des voies
-> internes et externes vers le marché, lorsqu'elles cherchent à faire progresser leur technologie.*  
+> _Open innovation is the use of purposive inflows and outflows of knowledge to accelerate internal innovation, and expand the markets for external use of innovation, respectively. Open innovation is a paradigm that assumes that firms can and should use external ideas as well as internal ideas, and internal and external paths to market, as they look to advance their technology._  
 > Henry Chesbrough, Open Innovation: Researching a New Paradigm (2006)
 
-## Présentation
+## Presentation
 
 ![open innovation](https://raw.githubusercontent.com/Open-Models/Brique/main/images/open-innovation.jpg)
 
-L'open innovation consiste en tant qu'acteur d'un écosystème à s'enrichir des connaissances extérieures tout comme redistribuer les siennes au reste de l'écosystème pour la création de solutions. Dans le monde de l'entreprise, cela passe par la mise en commun de la propriété intellectuelle, de la R&D.
+Open innovation involves, as an actor within an ecosystem, enriching oneself with external knowledge while redistributing one's own to the rest of the ecosystem to create new solutions. In the business world, this is achieved through the sharing of intellectual property and R&D resources.
 
-Chesbrough divise l'open innovation en deux aspects, l'*outside-in* et l'*inside-out*.
+Chesbrough divides open innovation into two aspects,*outside-in* and *inside-out*.
 
-L'**outside-in** consiste pour une organisation à utiliser des connaissances extérieures pour ses activités internes. Être capable d'aller puiser des informations et d'inclure différentes contributions de partenaires, d'utilisateurs.
+For an organization,**outside-in** means using external knowledge for internal activities. Being able to draw on information and include different contributions from partners and users.
 
-L'**inside-out** consiste alors de permettre à sa propriété intellectuelle d'être réutilisée par d'autres pour la mise en place de leurs solutions. Des connaissances issues de la recherche, souvent sous-exploités, seraient utilisable ailleurs. Pour les ressources centrales à l'acteur, cela permet à d'autres de réutiliser, modifier et d'améliorer ses solutions pour bénéficier soi-même de potentiels apports.
+**Outside-in** refers to an organization using external knowledge for its internal activities. Being able to retrieve information and include different contributions from partners and users.
 
-À l'intersection de l'outside-in et l'inside-out peuvent se trouver des environnements numériques collaboratifs où les améliorations seront mises en communs entre différents acteurs complémentaires, chacun utilisant la solution pour ses propres activités, avec une mise en interaction des compétences lors de la co-construction de la ressource.
+The **inside-out** approach is to allow one's intellectual property to be reused by others to implement their own solutions. Research knowledge, often under-exploited, can be used elsewhere. For resources central to the player, it enables others to reuse, modify and improve its solutions to benefit from potential contributions.
 
-## Histoire
+At the intersection of outside-in and inside-out, we can find collaborative digital environments where improvements are pooled between different complementary players, each using the solution for their own activities, with skills interacting as the resource is co-constructed.
 
-Le terme date de 2003, Henry Chesbrough le popularise dans son livre "Open Innovation: The New Imperative for Creating and Profiting from Technology". Il oppose deux modèles d'innovation, celui traditionnellement fermé ou les entreprises protège leur propriété intellectuelle, contre un modèle ouvert où la connaissance circule.
+## History
 
-Ces modèles fermés étant plus habitués à ne pas utiliser les connaissances de l'extérieur et tentent de maintenir une protection sur leur propriété intellectuelle, pour essayer de garder un avantage compétitif.
+The term dates back to 2003, Henry Chesbrough popularized it in his book "Open Innovation: The New Imperative for Creating and Profiting from Technology". He contrasts two models of innovation, the traditionally closed one where companies protect their intellectual property, against an open model where knowledge circulates.
+
+These closed models are more accustomed to not using outside knowledge and try to maintain protection over their intellectual property, to try to keep a competitive edge.

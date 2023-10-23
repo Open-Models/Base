@@ -1,19 +1,18 @@
-## Méthode de construction d'un commun numérique
+## Method for building a digital commons
 
-**[EN CONSTRUCTION, voir [#4](https://github.com/Open-Models/Brique/issues/4)]**
+**[IN CONSTRUCTION]**
 
-Malgré le contenu ici, la construction de la méthode n'a pas commencée et n'est pas structurée.
+Despite the content here, the construction of the method has not begun and is not structured.
 
-Temporairement, reprise d'un ensemble de post linkedIn tel quel pour esquisser quelques principes et permettre une certaine assimilation du sujet.
+Temporarily, a set of publication is reproduced as is to outline a few principles and enable a certain assimilation of the subject.
 
-Les modèles ouverts s'appuient bien souvent (mais pas uniquement) sur la mise en place de commun numérique,
-une ressource informationnelle co-produite par une communauté qui bénéficie d'une liberté d'usage et dont la gouvernance est partagée.
+Open models are often (but not exclusively) based on the establishment of a digital commons, an information resource co-produced by a community that benefits from freedom of use and with a shared governance.
 
-Tout un ensemble de stratégies permet de structurer un commun numérique, nous cherchons aujourd'hui une certaine méthodologie.
+There is a whole range of strategies for structuring a digital commons, we are now searching for a certain methodology.
 
-- **Règle n°1** : [Faire un projet qui a du sens et se base sur une utilité commune](regle-1.md)
-- **Règle n°2** : [Travailler et communiquer publiquement](regle-2.md)
-- **Règle n°3** : [La concurrence n'existe pas, transforme tout le monde en partenaire](regle-3.md)
-- **Règle n°4** : [Être capable d'intégrer des contributeurs externes](regle-4.md)
-- **Règle n°5** : [Éprouver une ressource à travers l'évaluation par les pairs](regle-5.md)
-- **Règle n°6** : [Architecturer un environnement numérique de travail](regle-6.md)
+* **Rule n°1**: [Make a project that makes sense and is based on a common purpose](regle-1.md)
+* **Rule n°2**: [Work and communicate publicly](regle-2.md)
+* **Rule n°3**: [Competition doesn't exist, turn everyone into a partner](regle-3.md)
+* **Rule n°4**: [Being able to integrate external contributors](regle-4.md)
+* **Rule n°5**: [Improving a resource through peer review](regle-5.md)
+* **Rule n°6**: [Architect a digital work environment](regle-6.md)

@@ -1,139 +1,82 @@
 # Open Education
 
-## Définition
+## Definition
 
-> *L'open education est un terme collectif utilisé pour faire référence à de nombreuses pratiques et activités qui
-> ont à la fois l'ouverture et l'éducation à leur cœur. Avant tout, l'éducation ouverte vise à supprimer les obstacles à
-> l'éducation. Cela peut se faire en supprimant des conditions d'entrée, comme l'a fait The Open University (Royaume-Uni),
-> ou en rendant le contenu et les données librement et légalement disponibles pour la réutilisation. Cependant elle
-> reflète également d'autres changements culturels, tels que l'ouverture des méthodes et des pratiques d'apprentissage,
-> qui brouille ou supprime les rôles traditionnels tels que celui de l'enseignant et de l'étudiant, au profit de rôles
-> tels que celui du mentor et de l'apprenant.*  
+> *Open Education is a collective term used to refer to many practices and activities that have both openness and education at their core. First and foremost, open education is about removing barriers to education. This may be through removing entry requirements, as The Open University (UK) has done, or by making content and data freely and legally available for reuse. However it also reflects other cultural changes, such as the move to open up learning methods and practices, which sees the blurring or removal of traditional roles such as teacher and student, moving towards roles such as mentor and learner.*  
 > [Open Education Handbook](https://en.wikibooks.org/wiki/Open_Education_Handbook), Wikibooks
 
 <p align="center">
     <img width="80%" src="https://raw.githubusercontent.com/Open-Models/Brique/main/images/open-education-schema.jpg">
        <br>
-       <i>Illustration rapport « <a href="https://publications.jrc.ec.europa.eu/repository/handle/JRC101436">Opening up Education</a> », Centre commun de recherche de l'Union européenne </i>
+       <i>Illustration of the « <a href="https://publications.jrc.ec.europa.eu/repository/handle/JRC101436">Opening up Education</a> », Joint Research Centre of the European Union </i>
 </p>
-## Présentation
 
-L'open education repose sur des contenus pédagogiques nommés ressources éducatives ouvertes (ou libres), de l'anglais open educational resources (OER),
-qui peuvent être librement utilisable, modifiable et partageable.
-Ces OER se combinent ensuite à toutes les pratiques pédagogiques pouvant prendre forme autour, des pratiques éducatives ouvertes [open educational practices],
-liées aux pratiques pédagogiques que l'on trouve dans l'éducation en général pour chercher à favoriser l'apprentissage.
+## Presentation
 
-L'ouverture pour l'éducation désigne à la fois ces ressources et pratiques, mais s'utilise aussi pour parler de
-l'accessibilité d'un enseignement à distance au travers différentes technologies (numérique, radio, télévision...) pour réduire autant les barrières géographiques que financières.
+Open education is based on educational content known as open educational resources (OER), which can be freely used, modified and shared. These OER are then combined with all the pedagogical practices that can take shape around them, open educational practices, linked to the pedagogical practices found in education in general to seek to foster learning.
 
-Les ressources éducatives ouvertes vont être protéiformes : un manuel scolaire, un texte, une vidéo, une image, les slides d'une présentation...
+Openness in education refers to both these resources and practices, but is also used to discuss the accessibility of distance learning through various technologies (digital, radio, television, etc.) to reduce both geographical and financial barriers
 
-**Quelques exemples d'initiatives d'open education et d'OER :**
+Open educational resources are going to be protean: a textbook, a text, a video, an image, the slides of a presentation...
 
-- 🇫🇷 [La Forge des Communs Numériques Éducatifs](https://forge.aeif.fr/framaka/que-la-forge-soit-avec-toi), par le
-  Ministère de l'Éducation Nationale et l'Association des enseignantes et enseignants d'informatique de France (AEIF)
-- 🇺🇸 [LibreTexts](https://commons.libretexts.org/), bibliothèque décentralisée de manuels scolaire
-- [Mason OER Metafinder](https://mom.gmu.edu) (MOM), moteur de recherche pour OER
-- 🇨🇭 [Swiss Digital Skills Academy](https://d-skills.ch/), initiative de swissuniversities pour former à l'open education
-- [Handbook [manuel] of Open, Distance and Digital Education](https://link.springer.com/referencework/10.1007/978-981-19-2080-6)
-- La [brique de connaissances sur les modèles ouverts](https://open-models.org)
-- [Wikipédia](https://fr.wikipedia.org/wiki/Wikip%C3%A9dia)
+**Some examples of open education and OER initiatives:**
 
-La manière de construire et d'utiliser ces ressources va dépendre de tout un ensemble de stratégies
-en fonction du contexte pédagogique, en présentiel ou en distanciel, en synchrone ou asynchrone,
-avec une pédagogie plus ou moins active, s'appuyant ou non sur une communauté de pratique... La pédagogie dans toute sa
-complexité permet d'enrichir l'open education.
+* 🇫🇷 [The Forge of Digital Educational Commons](https://forge.aeif.fr/framaka/que-la-forge-soit-avec-toi), by the French Ministry of Education and the Association des enseignantes et enseignants d'informatique de France (AEIF)
+* 🇺🇸 [LibreTexts](https://commons.libretexts.org/), decentralized textbook library
+* [Mason OER Metafinder](https://mom.gmu.edu) (MOM), search engine for OER
+* 🇨🇭 [Swiss Digital Skills Academy](https://d-skills.ch/), swissuniversities initiative for open education training
+* [Handbook of Open, Distance and Digital Education](https://link.springer.com/referencework/10.1007/978-981-19-2080-6)
+* The [Brick of Knowledge on Open Models](https://open-models.org)
+* [Wikipedia](https://fr.wikipedia.org/wiki/Wikip%C3%A9dia)
 
-Définir précisément ce qui relève de l'éducation ouverte reste délicat, une interprétation large pourrait
-amener à inclure tout contenu avec une utilité pédagogique publiquement accessible la transformant en une dynamique
-omniprésente avec le numérique.
+The way in which these resources are built and used will depend on a whole range of strategies depending on the pedagogical context: face-to-face or distance learning, synchronous or asynchronous, with a more or less active pedagogy, based or not on a community of practice... Pedagogy in all its complexity enriches open education.
+
+Defining precisely what falls within the scope of open education remains tricky, a broad interpretation could encompass any content with pedagogical utility publicly accessible, transforming it into a ubiquitous dynamic with the digital.
 
 ## Usage
 
-L'open education peut permettre de se former dans différents domaines ou permet en tant qu'acteur de l'éducation de produire une
-formation en créant ou en réutilisant des ressources éducatives ouvertes.
+Open education can be used for training in a variety of fields or as an educational actor to produce training by creating or reusing open educational resources.
 
-Bien que limité et très variable d'un domaine à l'autre, il est déjà possible de suivre tout un cursus pédagogique, voir d'obtenir un diplôme universitaire grâce
-aux universités ouvertes. Par exemple, les personnes dans l'informatique bénéficient fortement de cette formation complémentaire que
-permet l'open education grâce à un océan de contenu sur Internet.
+Although limited and highly variable from one field to another, it is already possible to follow an entire educational curriculum, or even obtain a university degree with open universities. For example, IT professionals benefit greatly from the additional training that open education offers thanks to an ocean of content on the Internet.
 
-Sur certains sujets nouveaux ou que l'éducation traditionnelle enseigne insuffisamment, il semble même nécessaire de reposer sur l'open
-education pour se former, à commencer par les modèles ouverts ou l'écologie.
+On certain new subjects or those that are insufficiently taught in traditional education, it even seems necessary to rely on open education for training, starting with open models or ecology.
 
-Impossible de répondre à tous les besoins et de citer toutes les ressources éducatives ouvertes existantes, il va être
-important de mener une phase d'exploration sur Internet ou dans les bases de données d'OER, [la liste de ressources de la
-brique](/ressources.html) est une première piste.
+Impossible to meet all needs and cite all existing open educational resources, it will be important to conduct an exploration phase on the Internet or in OER databases, [the list of resources in the brick](/ressources.html) is a first track.
 
-Pour produire une formation dans une logique d'open education, il n'existe pas de réponse unique. C'est tout un ensemble
-d'approches possibles en partant de la publication sous licence ouverte d'une présentation type PowerPoint, jusqu'à la structuration d'un environnement
-complexe pour produire collaborativement l'OER et rendre possible l'interaction entre les apprenants.
+There is no single answer to the problem of how to produce open education training. There is a whole range of possible approaches, from publishing a PowerPoint-type presentation under an open license, to structuring a complex environment for collaboratively producing OER and enabling interaction between learners.
 
-Tout en sachant qu’il reste beaucoup à inventer, les outils pour produire des ressources éducatives ouvertes vont varier d'un projet à l'autre, ils dépendront des moyens financiers ou humains, des compétences techniques, etc.
+While we know that much remains to be invented, the tools needed to produce open educational resources will vary from one project to another, depending on financial and human resources, technical skills, and so on.
 
-> **La brique de connaissances sur les modèles ouverts** est un exemple complexe d'open education, une expérimentation de ressource éducative ouverte
-> pour faire de l'éducation aux modèles ouverts, dans une logique de commun numérique développé grâce à des outils provenant de
-> l'open software comme le [Markdown](https://www.markdowntutorial.com/), [git](https://about.gitlab.com/topics/version-control/what-is-git-version-control/)
-> et [GitHub](https://fr.wikipedia.org/wiki/GitHub).
+> **The Open Models Knowledge Brick** is a complex example of open education, an experiment of open educational resource for education in open models, in a digital commons logic developed using open software tools such as [Markdown](https://www.markdowntutorial.com/), [git](https://about.gitlab.com/topics/version-control/what-is-git-version-control/) and [GitHub](https://fr.wikipedia.org/wiki/GitHub).
 >
-> Le projet se veut une ressource accessible par toutes les personnes qui ont la volonté de (se) former à ces modèles ouverts. Bien que
-> cela demande quelques connaissances techniques avec lesquelles il faut se familiariser, tout le contenu est récupérable,
-> modifiable, partageable. Un contenu pédagogique librement accessible, qui peut être co-produit, reposant sur des [espaces
-> d'échanges avec la communauté autour du projet](/README.html#contribuer-), les apprenants, les acteurs qui gravitent autour des modèles ouverts.
+> The project is intended to be a resource accessible to anyone wishing to learn about open models. Although it requires some technical knowledge with which to familiarize oneself, all content is retrievable, modifiable and shareable. Pedagogical content that is freely accessible, that can be co-produced, based on [spaces for exchange with the community around the project](/README.html#contribuer-), learners and stakeholders who gravitate around open models
 >
-> Nombreux formateurs aux modèles ouverts et au numérique plus largement pourraient trouver un intérêt pour ce type de
-> contenu pédagogique au sein de tout un ensemble d'organisations : des établissements scolaires, des universités, mais aussi dans
-> l'informatique, des institutions publiques, etc. L'usage commercial de la brique étant autorisé,
-> une activité de service comme proposé de la formation aux modèles ouverts en indépendant devient possible.
+> Many trainers in open models and in digital technology more broadly could find interest in this type of pedagogical content within a whole range of organizations: schools, universities, but also in IT, public institutions, etc. The commercial use of the brick being permitted, a service activity such as offering training in open models on a freelance basis becomes possible.
 
-## Paysage
+## Landscape
 
-Aujourd'hui, le monde anglophone est plus développé sur l'open education, mais partout la dynamique se construit.
+Today, the English-speaking world is more developed in open education, but everywhere the dynamic is being built
 
-Sous des formes et à des degrés variés, des centaines d'établissements scolaires à travers le monde
-s'orientent aujourd'hui vers l'open education avec des politiques publiques qui viennent amplifier la dynamique.
+In various forms and to varying degrees, hundreds of educational establishments around the world are today moving towards open education with public policies amplifying the dynamic.
 
-Des coalitions d'organisations se mettent en place comme le réseau [Open Education Global](https://www.oeglobal.org/)
-qui rassemble plus de 250 membres. La problématique de l'accès aux manuels scolaires (open textbooks) fédère une multitude d'acteurs,
-avec des initiatives comme [LibreTexts](https://libretexts.org/) qui sert de bibliothèque numérique à des dizaines d'institutions
-(américaines), touchant des millions d'étudiants.
+Coalitions of organizations are being set up such as the [Open Education Global](https://www.oeglobal.org/) network with over 250 members. The issue of access to school textbooks (open textbooks) unites a multitude of organization, with initiatives such as [LibreTexts](https://libretexts.org/) which serves as a digital library for dozens of (American) institutions, reaching millions of students.
 
-Les structures d'enseignement à distance tel que les universités ouvertes ou des universités plus traditionnelles qui
-se transforment avec les évolutions technologiques comme le MIT explorent ces nouvelles approches pour favoriser l'accès
-à l'éducation.
+Distance learning structures such as open universities or more traditional universities such as MIT which are transforming with technological developments are exploring these new approaches to promoting access to education.
 
-Au niveau politique, l'UNESCO a émis des [recommandations sur les ressources éducatives
-ouvertes](https://www.unesco.org/en/legal-affairs/recommendation-open-educational-resources-oer) en 2019. Le département
-de l'éducation américain par son office of Educational Technology [incite à l'usage de licences
-ouvertes](https://tech.ed.gov/open/) et les conditionnent pour certains prêts. Sans parler explicitement d'open education,
-le Ministère de l'Éducation Nationale en France promeut la collaboration et l'utilisation de communs numériques pour le
-contenu pédagogique dans sa [stratégie du numérique pour l'éducation](https://www.education.gouv.fr/strategie-du-numerique-pour-l-education-2023-2027-344263) (2023-2027).
+At the political level, UNESCO has issued [recommendations on open educational resources](https://www.unesco.org/en/legal-affairs/recommendation-open-educational-resources-oer) in 2019. The U.S. Department of Education, through its Office of Educational Technology, [encourages the use of open licenses](https://tech.ed.gov/open/) and makes them a condition for certain loans. Without explicitly talking about open education, France's Ministry of Education promotes collaboration and the use of digital commons for educational content in its [Digital Strategy for Education](https://www.education.gouv.fr/strategie-du-numerique-pour-l-education-2023-2027-344263) (2023-2027).
 
-Au sein des universités où les sujets de recherche scientifique et d'éducation se mêlent, les politiques d'open science,
-plus matures, se mettent à inclure un axe sur l'open education dans les réflexions pour venir former le concept d'open scolarship.
+Within universities where scientific research and education intertwine, more mature open science policies are starting to include a focus on open education in considerations, shaping the concept of open scholarship.
 
-Comme pour la recherche, il semble se dégager progressivement une volonté d'investir l'argent public pour former un patrimoine
-numérique commun.
+As with research, there seems to be a growing willingness to invest public money in the creation of a common digital heritage.
 
-## Histoire
+## History
 
-L'histoire de l'open education peut s'inscrire dans la continuité de l'histoire de l'éducation à distance dont les prémices remontent
-à 1840 et qui évolue au gré des mutations technologiques. Ces premiers enseignements à distance sont attribués à Isaac
-Pitman qui utilisa la voie postale rendue plus accessible grâce à l'arrivée du train à vapeur.
+The history of open education can be seen as a continuation of the history of distance education, whose beginnings date back to 1840 and which has evolved in step with technological change. The first distance learning courses are attributed to Isaac Pitman who used the postal service made more accessible by the arrival of the steam train.
 
-La télévision et la radio vont donner naissance aux [universités ouvertes](https://en.wikipedia.org/wiki/List_of_open_universities)
-dont la première sera [The Open University](https://en.wikipedia.org/wiki/Open_University),
-créée en 1969 en Angleterre dans cette période de massification de l'enseignement de l'après-guerre et son modèle va inspirer le reste du
-monde, ce qui va introduire cette notion d'ouverture par la réduction des barrières géographiques dans l'accès à l'éducation.
+Television and radio gave birth to [open universities](https://en.wikipedia.org/wiki/List_of_open_universities), the first of which was [The Open University](https://en.wikipedia.org/wiki/Open_University), created in 1969 in England during the post-war period of mass education. Its model will inspire the rest of the world, thus introducing the notion of openness through the reduction of geographical barriers in access to education.
 
-L'invention de l'informatique (1945), d'Internet (1969) et plus particulièrement du World Wide Web (1991) seront les évolutions qui
-donneront véritablement naissance à l'open education moderne.
+The invention of computers (1945), the Internet (1969) and, in particular, the World Wide Web (1991) were the developments that really gave birth to modern open education.
 
-En observant le développement du mouvement open source dans le monde du logiciel, [David Wiley](https://en.wikipedia.org/wiki/David_A._Wiley)
-a formalisé la notion d'« open content » en 1998 accompagnée de l'Open Publication License (arrêtée avec l'arrivée de Creative Commons),
-initialement à destination du contenu pédagogique. En 2001, le MIT va annoncer le programme [MIT
-OpenCourseWare](https://fnl.mit.edu/may-june-2021/on-the-20th-anniversary-of-opencourseware-how-it-began/)
-qui vise à publier l'ensemble des supports de cours de l'établissement.
+Observing the development of the open source movement in the software world, [David Wiley](https://en.wikipedia.org/wiki/David_A._Wiley) formalized the notion of "open content" in 1998 along with the Open Publication License (discontinued with the arrival of Creative Commons), initially aimed at educational content. In 2001, MIT announced the [MIT OpenCourseWare](https://fnl.mit.edu/may-june-2021/on-the-20th-anniversary-of-opencourseware-how-it-began/) program aimed at publishing all the institution's course materials.
 
-Le terme d'« open educational resources » est adopté en 2002 suite au [forum de l'UNESCO](https://unesdoc.unesco.org/ark:/48223/pf0000128515)
-« Impact of Open Courseware for Higher Education in Developing Countries ». L'UNESCO a proposé en 2019 une
-recommandation sur les [ressources éducatives ouvertes](https://www.unesco.org/fr/legal-affairs/recommendation-open-educational-resources-oer).
+The term "open educational resources" was adopted in 2002 following the [UNESCO forum](https://unesdoc.unesco.org/ark:/48223/pf0000128515) « Impact of Open Courseware for Higher Education in Developing Countries ». In 2019, UNESCO proposed a recommendation on [open educational resources](https://www.unesco.org/fr/legal-affairs/recommendation-open-educational-resources-oer).

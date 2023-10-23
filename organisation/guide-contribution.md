@@ -1,31 +1,29 @@
-# Guide de contribution
+# Contribution guide
 
-Tout ce qui permet d'élever les consciences sur les modèles ouverts est bénéfique, toute aide est précieuse !
+Anything that raises awareness of open models is beneficial, any help is precious!
 
-Chacun peut apporter sa pierre à l'édifice en fonction de ses compétences et de ses moyens, sens-toi libre si d'autres façons de
-contribuer te viennent à l'esprit.
+Everyone can contribute according to their skills and means, so feel free if other ways of contributing come to mind.
 
-Les contributions peuvent être autant sur le contenu de la brique de connaissances que de manière plus annexe.  
+Contributions can be made both to the content of the knowledge brick and in a more ancillary way.
 
-Mais avant tout, plus tu comprendras le phénomène des modèles ouverts, plus tu seras à l'aise dans ta capacité à contribuer. Prends le temps d'assimiler le sujet ❤️
+But above all, the more you understand about open models, the more comfortable you'll be in your ability to contribute. Take the time to assimilate the subject ❤️
 
-## Contribuer au contenu
+## Contribute to content
 
-Le contenu de la brique et toute modification repose sur le code d'un [dépôt Github](https://github.com/Open-Models/Brique).
+The content of the brick and any modifications are based on a [Github repository](https://github.com/Open-Models/Brique).
 
-De réels freins techniques à la contribution existent pour le moment, une certaine maîtrise de Git/Github et du Markdown vont être requis pour produire le contenu (guide à venir ?).
+At the moment, there are real technical obstacles to contribution, and a certain mastery of Git/Github and Markdown will be required to produce the content (guide coming soon?).
 
-Regardes la roadmap de la [version 0](https://github.com/Open-Models/Brique/projects/1) pour voir les développements en cours et participer où tu te sens à l'aise.
+Take a look at the [version 0](https://github.com/Open-Models/Brique/projects/1) roadmap to see what's currently being developed and participate where you feel comfortable.
 
-Tout est en évolution constante et repose sur la revue entre pairs, apportes ton regard critique si tu vois un moyen d'améliorer la qualité du contenu.
+Everything is constantly evolving and relies on peer review, so bring your critical eye if you see a way to improve the quality of the content.
 
-Viens donner ton avis dans les [issues](https://github.com/Open-Models/Brique/issues), les revues de [pull
-request](https://github.com/Open-Models/Brique/pulls) (propositions de modification) sont fortement utiles.
+Come and give your opinion in the [issues](https://github.com/Open-Models/Brique/issues), [pull request](https://github.com/Open-Models/Brique/pulls) (modification proposals) reviews are highly useful.
 
-## Contribuer grâce au contenu
+## Contribute using content
 
-La contribution ne se limite pas à produire le contenu de la brique de connaissances.
+The contribution is not limited to producing the content of the brick of knowledge.
 
-Si tu te sens prêt, tu peux faire de l'éducation autour du sujet des modèles ouverts : des ateliers, formations, conférences... Tout comme produire du contenu pour les réseaux sociaux.
+If you feel you're ready, you can educate people on the subject of open models: workshops, training courses, conferences... As well as producing content for social networks.
 
-Aide à répondre aux questions de la communauté, que ce soit sur Github ou partout ailleurs !
+Help answer questions from the community, whether on Github or anywhere else!
