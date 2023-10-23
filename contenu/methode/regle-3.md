@@ -1,15 +1,15 @@
-## Règle n°3 : La concurrence n'existe pas, transforme tout le monde en partenaire.
+## Rule n°3: Competition doesn't exist, turn everyone into a partner.
 
-L'objectif est de co-construire une ressource intellectuelle qui bénéficiera à une grande variété de personnes partageant des besoins similaires où chacun peut enrichir cette solution.
+The aim is to co-construct an intellectual resource that will benefit a wide variety of people sharing similar needs where everyone can enrich this solution.
 
-Tout un écosystème va se mettre en place à partir de cette ressource, avec une multitude d'acteurs qui va en dépendre et construire diverses activités autour.
+A whole ecosystem will develop around this resource, with a multitude of stakeholders depending on it and building various activities around it.
 
-On voit avec l'innovation ouverte que les meilleures compétences viendront de l'extérieur, une structure seul est bien limitée.
+We can see with open innovation that the best skills will come from outside, a structure alone is limited.
 
-Plus cet ensemble d'acteur sera solide, plus ils seront nombreux, plus la ressource sera riche et maintenue.
+The more solid this set of stakeholders is, the more numerous they will be, the richer and more sustainable the resource will be.
 
-Les ressources en open source sont pervasives, elles se diffusent aisément jusqu'à devenir des biens communs utilisés massivement.
+Open source resources are pervasive, spreading easily to the point of becoming massively used commons.
 
-Chérie les copies et ceux qui explorent des chemins différents, elles font avancer l'ensemble et créent une richesse supplémentaire. Si quelqu'un réussit à faire mieux ailleurs, cela t'aidera demain.
+Cherish copies and those who explore different paths, they move the whole forward and create additional wealth. If someone succeeds in doing better elsewhere, it will help you tomorrow.
 
-Avec les modèles ouverts, la collaboration ouverte prime, personne n'est en compétition.
+With open models, open collaboration takes precedence, no one is in competition.

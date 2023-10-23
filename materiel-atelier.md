@@ -1,9 +1,7 @@
-## Matériel d'Atelier d'Éducation aux Modèles Ouverts
+## Open Model Education Workshop Materials
 
-Retrouvez ici un ensemble de ressources éducatives ouvertes pour la mise en place d'ateliers pédagogiques
-sur les modèles ouverts. Des ressources qui peuvent être réutilisées telles quelles ou servir de base,
-de source d'inspiration dans la construction de vos propres projets.
+Here you'll find a collection of open educational resources for setting up workshops on open models. These resources can be reused as they are, or used as a basis and source of inspiration for your own projects.
 
-### Liste de matériaux pédagogiques sur les modèles ouverts
+### List of teaching materials on open models
 
-- [Environnement Pédagogique sur les Modèles Ouverts](https://doi.org/10.5281/zenodo.8002670)
+* [Open Model Learning Environment](https://doi.org/10.5281/zenodo.8002670)

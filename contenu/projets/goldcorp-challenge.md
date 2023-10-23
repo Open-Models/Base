@@ -1,20 +1,20 @@
 ## Goldcorp Challenge
 
-Début des années 2000, l'entreprise d'exploitation minière Goldcorp (Canada) se retrouvait dans une situation financière difficile car elle ne trouvait pas suffisamment d'or à exploiter sur ses terrains. L'entreprise avait une équipe de géologue ainsi que de nombreuses données géologiques sur ses sols, mais cette équipe n'était pas capable de localiser le précieux métal à l'aide de ses données.
+In the early 2000s, mining company Goldcorp (Canada) found itself in a difficult financial situation because it couldn't find enough gold to mine on its land. The company had a team of geologists and a wealth of geological data on its soils, but this team was unable to locate the precious metal using its data.
 
-En 1999, Rob McEwen s'en rendu à une conférence sur Linux et ses dynamiques collaboratives, et s'est dit que si son équipe ne pouvait pas analyser les données, peut-être que d'autres pourraient le faire.
+In 1999, Rob McEwen went to a conference on Linux and its collaborative dynamics, and thought that if his team couldn't analyze the data, maybe others could.
 
-L'idée est apparue d'organiser le Goldcorp Challenge. L'entreprise a décidé de mettre en ligne l'intégralité de ses données géologiques qu'elle a standardisé, d'ouvrir sa propriété intellectuelle, et d'offrir un prix de 575 000$ à ceux qui pourraient les traiter et en extraire des informations lui permettant de trouver de l'or.
+The idea arose to organize the Goldcorp Challenge. The company decided to put all its standardized geological data online, to open up its intellectual property, and to offer a prize of $575,000 to those who could process it and extract information that would enable it to find gold.
 
-Des centaines de propositions du monde entier leur sont parvenus, de métiers sans lien direct avec le secteur minier : des scientifiques, des militaires, des étudiants, des informaticiens... Cela a permis d'explorer des approches nouvelles pour Goldcorp, des compétences jusque-là inconnues et inaccessibles pour l'entreprise ont pu être utilisées pour le traitement d'information minière.
+Hundreds of proposals were received from all over the world, from professions with no direct link to the mining sector: scientists, military personnel, students, computer scientists... As a result, Goldcorp was able to explore new approaches, using skills previously unknown and inaccessible to the company to process mining information.
 
-Les gagnants du concours ont été des consultants d'Australie, une collaboration des entreprises Fractal Graphics et Taylor Wall and Associates qui ont créé une modélisation informatique, une technique encore peu voir pas utilisé à l'époque dans ce secteur. Le concours aura permis à l'exploitant de découvrir une quantité importante d'or et lui permettra de passer la crise qu'il traversait.
+The winners of the competition were consultants from Australia, a collaboration between the companies Fractal Graphics and Taylor Wall and Associates who created a computer model, a technique then little-if-used in this sector. The competition led to the discovery of a significant quantity of gold and enabled the operator to get through the crisis it was going through.
 
-L'entreprise à explorer un chemin atypique, mais a pu montrer l'intérêt d'entrer en interactions avec des acteurs extérieurs pour la recherche de solution.
+The company explored an atypical path, but was able to demonstrate the value of interacting with external players in the search for solutions.
 
-La difficulté va être de trouver un intérêt suffisant pour fédérer des acteurs externes sur une problématique, ici cette motivation était pécuniaire.
+The difficulty lies in finding sufficient interest to unite external players around an issue, and in this case the motivation was pecuniary.
 
-Les meilleures compétences d'une organisation se trouvent en dehors de l'organisation.
+An organization's best skills lie outside the organization.
 
 <div style="text-align: center;">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/BbifoFEswQ0" title="YouTube video player"

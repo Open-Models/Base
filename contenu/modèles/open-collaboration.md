@@ -1,19 +1,22 @@
 # Open Collaboration
 
-## Définition
+## Definition
 
-> *Le système de collaboration ouverte prototypique est un environnement en ligne qui (1) soutient la production collective d'un artefact (2) par le biais d'une plateforme de collaboration à médiation technologique (3) qui présente une faible barrière à l'entrée et à la sortie, et (4) soutient l'émergence de structures sociales persistantes mais malléables.*  
-[Andrea Forte](http://andreaforte.net/) (Drexel University), [Cliff Lampe](http://clifflampe.org/biography/) (University of Michigan)
+> *The prototypical open collaboration system is an online environment that (1)
+supports the collective production of an artifact (2) through a technologically mediated collaboration
+platform (3) that presents a low barrier to entry and exit, and (4) supports the emergence of persistent but
+malleable social structures.*  
+> [Andrea Forte](http://andreaforte.net/) (Drexel University), [Cliff Lampe](http://clifflampe.org/biography/) (University of Michigan)
 
-> *Système d'innovation ou de production qui repose sur des participants orientés vers un objectif mais peu coordonnés qui interagissent pour créer un produit (ou un service) de valeur économique, qui est mis à la disposition des contributeurs et des non-contributeurs.*  
-Sheen S. Levine; Michael J. Prietula (2014). [Open Collaboration for Innovation: Principles and Performance](https://www.researchgate.net/publication/263545221_Open_Collaboration_for_Innovation_Principles_and_Performance)
+> *A system of innovation or production that relies on goal-oriented yet loosely coordinated participants who interact to create a product (or service) of economic value, which is made available to contributors and noncontributors alike.*  
+> Sheen S. Levine; Michael J. Prietula (2014). [Open Collaboration for Innovation: Principles and Performance](https://www.researchgate.net/publication/263545221_Open_Collaboration_for_Innovation_Principles_and_Performance)
 
-## Présentation
+## Presentation
 
-L'open collaboration, ou collaboration ouverte, rassemble l'ensemble des dynamique de collaboration autour de communs informationnels ou d'objectifs partagés qui émergent à travers la mise en relation et le partage d'information que permet le numérique. Une des propriété du numérique est de permettre la mise en place d'environnements socio-technique permettant à des individus de se rassembler autour de sujets communs de façon décentralisée tout en permettant la contribution d'une multitude d'acteurs.
+Open collaboration encompasses all the dynamics of collaboration around informational commons or shared objectives that emerge through the linking and sharing of information made possible by digital technology. One of the properties of the digital is that it enables the creation of socio-technical environments in which individuals can gather around common issues in a decentralized way while at the same time allowing a multitude of players to contribute.
 
-Un projet reposant sur la collaboration ouverte cherchera à être capable d'intégrer ces acteurs externes, notamment par la mise en place d'un processus d'intégration pour faire bénéficier au commun informationnel une forme d'intelligence collective à l'échelle d'Internet.
+A project based on open collaboration will seek to integrate these external players, in particular by setting up an integration process to make the informational commons benefit from a form of collective intelligence on the scale of the Internet.
 
-La collaboration ouverte apparaît partout sous diverses formes et se structure autour d'une multitude de phénomènes. La collaboration se produit autant pour la production de cet artefact, que dans son administration et sa curation.
+Open collaboration appears everywhere in a variety of forms and is structured around a multitude of phenomena. Collaboration occurs as much in the production of this artifact as in its administration and curation.
 
-La contribution se fait sous une forme de volontariat et d'auto-sélection en fonction des motivations individuelles.
+Contribution could occurs in a voluntary and self-selecting manner based on individual motivations.

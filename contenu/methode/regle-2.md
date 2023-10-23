@@ -1,17 +1,17 @@
-## Règle n°2 : Travailler et communiquer publiquement
+## Rule 2: Work and communicate publicly
 
-La transparence devient la règle et non l'exception. Dit autrement par Karl Fogel dans 'Producing Open Source Software' : "If there's no reason for it to be private, it should be public."
+Transparency becomes the rule, not the exception. Put another way by Karl Fogel in 'Producing Open Source Software': "If there's no reason for it to be private, it should be public."
 
-Les intérêts sont multiples. Le plus évident est que vous chercher à inclure des contributeurs externes pour collaborer sur votre projet, cela permet d'encapaciter et de faire participer au processus de développement.
+There are many interests involved. The most obvious is that you're looking to include external contributors to collaborate on your project, it helps to encapacitate and involve them in the development process.
 
-Plus les personnes auront les bonnes informations sur une situation, plus ils seront capables d'agir en circonstance et d'aider.
+The more people have the right information about a situation, the more they'll be able to act on it and help.
 
-Un projet ouvert se base sur un besoin commun et devient en quelque sorte la propriété de tous, être inclusif permet de favoriser le sentiment d'appartenance et l'appropriation de la ressource ce qui devient un moteur pour la construction du projet.
+An open project is based on a common need and becomes the property of all, so being inclusive fosters a sense of belonging and ownership of the resource which becomes a driving force for the construction of the project.
 
-Prenez une structure qui cherche à mettre de la collaboration ouverte en place mais qui ne communique que les décisions finales, la mise à l'écart de la communauté dans le processus de décision va créer certains ressentiments.
+Take a structure that seeks to put open collaboration in place but only communicates final decisions, the community's exclusion from the decision-making process will create some resentment.
 
-Agir publiquement va permettre tout un échange d'idées, de critiques (constructives 🤞) venant de l'extérieur qui vont permettre d'enrichir la décision finale. On peut trouver des bénéfices dans le conflit d'idées si l'on est capable reconnaître les bonnes idées des autres.
+Acting publicly will enable a whole exchange of ideas and (constructive 🤞) criticism from the outside which will enrich the final decision. Conflict of ideas can be beneficial if we are able to recognize the good ideas of others.
 
-Les discussions privées doivent être limités au maximum et ne servir qu'en cas d'extrême nécessité.
+Private discussions should be kept to a minimum, and used only when absolutely necessary.
 
-Les modèles ouverts, c'est apprendre à travailler sur la place publique.
+Open models is about learning to work in the public space.

@@ -1,11 +1,11 @@
-## Règle n°1 : Faire un projet qui a du sens et se base sur une utilité commune
+## Rule no. 1: Make a project that makes sense and is based on a common purpose
 
-Voici le début d'une "brique de connaissance" sur les modèles ouverts pour permettre à chacun de comprendre ce que sont ces modèles qui se basent sur l'open source et la collaboration ouverte : https://github.com/Open-Models/Brique
+This is the beginning of a "brick of knowledge" on open models to enable everyone to understand what are these models based on open source and open collaboration: https://github.com/Open-Models/Brique
 
-Cette ressource se veut comme une base de connaissance à libre disposition de tous pour appréhender ce concept de modèles ouverts.
+This resource is intended as a knowledge base freely available to all to help you grasp the concept of open models.
 
-Les objectifs sont multiples : comprendre & diffuser le concept de modèles ouverts, élargir sa culture numérique, découvrir comment construire un projet ouvert, apprécier le potentiel de la diffusion du savoir et de la collaboration sur Internet...
+The objectives are multiple: to understand & disseminate the concept of open models, to broaden one's digital culture, to discover how to build an open project, to appreciate the potential of knowledge dissemination and collaboration on Internet...
 
-Les usages émergeront en fonction de la personne qui l'utilisera et des idées qui viennent.
+Uses will emerge depending on who uses it and what ideas come to mind.
 
-Pour le moment, la construction de cette brique ne fait que commencer, un début de plan pour son contenu est posé (https://github.com/Open-Models/Brique/issues/1). Il se résume à définir le concept de "modèles ouverts", à expliquer l'histoire du phénomène et montrer comment les projets ouverts se structurent.
+For the time being, the construction of this brick has only just begun, with the beginnings of a plan for its content (https://github.com/Open-Models/Brique/issues/1). It consists of defining the concept of "open models", explaining the history of the phenomenon and showing how open projects are structured.

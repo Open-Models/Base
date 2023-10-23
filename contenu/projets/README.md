@@ -1,5 +1,5 @@
-## Liste de projets liés aux modèles ouverts
+## List of projects related to open models
 
-**[EN CONSTRUCTION, voir [#3](https://github.com/Open-Models/Brique/issues/3)]**
+**\[IN CONSTRUCTION, see [#3](https://github.com/Open-Models/Brique/issues/3)\]**
 
-- [Goldcorp](goldcorp-challenge.md)
+* [Goldcorp](goldcorp-challenge.md)

@@ -1,84 +1,65 @@
-# Feuille de route
+# Roadmap
 
-Les modèles ouverts sont des sujets qui évoluent sur un temps long, des décennies voire des siècles,
-c'est tout un nouveau monde à explorer.
+Open models are subjects that evolve over a long period of time, from decades to centuries, it's a whole new world to explore.
 
-Les objectifs autour de la brique de connaissances sur les modèles ouverts vont être de diffuser ces modèles 
-par un travail d'éducation pour acculturer le citoyen du XXIᵉ siècle, continuer à construire ce commun
-numérique et fédérer un écosystème d'acteurs autour de ces dynamiques pour préparer l'avenir.
+The objectives around the brick of knowledge on open models are going to be to disseminate these models through educational work to acculturate the citizen of the XXIᵉ century, continue to build this digital common and federate an ecosystem of stakeholders around these dynamics to prepare for the future.
 
-Dans une logique ouverte, chacun est libre de contribuer en fonction de ses compétences, ses envies et
-de ses contraintes financières/de temps/géographiques/etc. Plus d'explications dans le [guide de contribution](guide-contribution.md).
+In an open logic, everyone is free to contribute according to their skills, desires and financial/time/geographical/etc. constraints. More details in the [contribution guide](guide-contribution.md).
 
 <p align="center" width="100%">
     <img src="https://raw.githubusercontent.com/Open-Models/Brique/main/images/roadmap.jpg">
 </p>
 
-## Former aux modèles ouverts
+## Training in open models
 
-La mission première de la brique est d'être un outil d'éducation aux modèles ouverts pour favoriser
-la démocratisation de ces concepts émergents. Le numérique concerne toute la société, les modèles ouverts concernent tout
-le monde numérique. Demain, ils pourraient faire parti d'une forme de culture générale sur le numérique.
+The brick's primary mission is to be a tool for education in open models to encourage the democratization of these emerging concepts. The digital concerns the whole of society, open models concern the whole digital world. Tomorrow, they could become part of general digital culture.
 
-Le besoin en éducation est abyssal, le sujet des modèles ouverts existe partout et nulle part.
+The need for education is abysmal, the subject of open models exists everywhere and nowhere.
 
-L'intérêt va être de permettre une réappropriation de la brique par les organisations en liens avec les modèles ouverts : aux acteurs de l'informatique, aux chercheurs et aux universités, aux enseignants et aux établissements scolaires, aux centres de formations, à diverses organisations, aux industriels, aux politiciens...
+The aim is to enable organizations involved in open models to reappropriate the brick: IT players, researchers and universities, teachers and schools, training centers, various organizations, industrialists, politicians...
 
-Ce travail d'éducation va être protéiforme, que ce soit par la simple diffusion de la brique pour permettre
-à des individus une auto-formation, par la mise en place de formations utilisant la brique comme support,
-par une (visio)conférence, des temps d'échanges et de débats, par une publication pédagogique sur les réseaux
-sociaux, etc.
+This educational work will take many forms, from simply distributing the brick to enable individuals to self-train, to setting up training courses using the brick as a support, through a (video)conference, times of exchange and debate, through an educational publication on social networks, etc.
 
-Faire de l'éducation aux modèles ouverts pour permettre aux citoyens d'horizons divers de maîtriser au mieux ce numérique de la connaissance.
+Providing education on open models to enable citizens from diverse backgrounds to best master this digital of knowledge.
 
-## Construire la brique de connaissances
+## Building the knowledge brick
 
-La brique de connaissances n'a pas vocation à être terminée un jour, mais aujourd'hui le projet n'est même pas une version
-alpha ou 0, le contenu reste un début de prototype.
+The knowledge brick isn't intended to be finished one day, but today the project isn't even an alpha or 0 version, the content remains an early prototype.
 
-Une base qui permet de commencer une relative acculturation, mais qui reste insuffisante pour appréhender pleinement les modèles ouverts.
+It's a basis on which to begin a relative acculturation, but it's still insufficient to fully grasp open models.
 
-Dans un premier temps, au moins 3 dimensions doivent se construire davantage : 
-- La méthode de construction d'un commun numérique
-- Les pages individuelles des différents modèles ouverts
-- Les pages sur les exemples de projets ouverts
+As a first step, at least 3 dimensions need to be built up further:
 
-Un jour il sera question de construire une véritable plateforme collaborative, l'environnement
-technique de la brique est très immature.
+* The method for building a digital commons
+* Individual pages on the various open models
+* Pages on examples of open projects
 
-Un kanban permet de voir les développements en cours pour la [version 0](https://github.com/Open-Models/Brique/projects/1), qui sera construit en fonction des besoins et problèmes qui émergent avec le système d'[issues](https://github.com/Open-Models/Brique/issues) et de [pull requests](https://github.com/Open-Models/Brique/pulls) de [GitHub](https://github.com/Open-Models/Brique)
+One day there will be the question of building a truly collaborative platform, the technical environment of the brick is very immature.
 
-## Fédérer un écosystème d'acteurs
+A kanban allows you to see the developments in progress for [version 0](https://github.com/Open-Models/Brique/projects/1), which will be built according to the needs and problems that emerge with [GitHub](https://github.com/Open-Models/Brique)'s system of[issues](https://github.com/Open-Models/Brique/issues) and [pull requests](https://github.com/Open-Models/Brique/pulls).
 
-Pour mener ce travail d'éducation aux modèles ouverts et construire cette brique de connaissances, ainsi que pour
-récursivement fédérer des acteurs, il va être important d'œuvrer à la mise en place d'un écosystème autour
-de ce commun numérique.
+## Federating an ecosystem of stakeholders
 
-Tout un ensemble d'organisations peut trouver un intérêt à comprendre les modèles ouverts puis soutenir ces initiatives.
+To carry out this education work on open models and build up this brick of knowledge, as well as recursively federating players, it will be important to work on setting up an ecosystem around this digital commons.
 
-Pour viabiliser le projet, une des missions va être de structurer un écosystème d'acteurs de l'éducation aux modèles
-ouverts par leur montée en compétence, des acteurs qui peuvent alors dispenser des formations au sein d'organisations ou de façon indépendante. Une fois le 
-sujet suffisamment maitrisé, il devient imaginable de gagner sa vie en contribuant à cette mission d'éducation.
+A whole range of organizations can benefit from understanding open models and then support these initiatives.
 
-Pour réaliser le travail autour la brique et des modèles ouverts, comme ce sont des faits structurants et sociétaux majeurs, aussi vagues
-que complexes, c'est des personnes provenant d'une multiplicité de disciplines qui peuvent venir façonner cette
-dynamique, et dont l'aide sera critique dans cette exploration.
+To make the project viable, one of the tasks will be to support the skills development of an ecosystem of players in the field of open models education, a trainer network who can then provide training within organizations or independently. Once the subject has been sufficiently mastered, it becomes conceivable to earn a living by contributing to this educational mission.
 
-Les modèles ouverts ne sont finalement qu'une idée qui circule, ne faudrait-il pas la partager ?
+To carry out the work around the brick and open models, as these are major structuring and societal facts, as vague as they are complex, it's people from a multiplicity of disciplines who can come and shape this dynamic, and whose help will be critical in this exploration.
 
-## Le Futur
+Open models are just an idea that's out there - shouldn't it be shared?
 
-Aucune personne qui lit ces lignes ne verra tout le potentiel que les modèles ouverts peuvent offrir.
+## The future
 
-Soit, et cela semble un scénario bien trop probable, notre monde va disparaître, nous avec, les modèles ouverts resteront un rêve que l'on aura fait que caresser. Soit l'Humanité survit cette bien trouble période en préservant cet outil du savoir qu'est le numérique et ce sont des bouleversements du rapport à la connaissance qui influenceront la société humaine sur des siècles, une vie sera bien insuffisante pour observer leur influence.
+No one reading this will see the full potential that open models can offer.
 
-De fait, la brique de connaissances a vocation à ne plus exister, pour imaginer muter.
+Either - and this seems an all-too-probable scenario - our world will disappear, along with us, and open models will remain a dream we've only caressed. Or Humanity survive these troubled times by preserving the knowledge tool that is the digital and these are upheavals in our relationship with knowledge that will influence human society for centuries to come. A lifetime won't be long enough to observe their influence.
 
-Lorsque les modèles ouverts se démocratiseront, s'ils commencent à appartenir à une forme de culture générale du
-numérique, ces sujets devraient être portés par une université ouverte du numérique, fondée sur l'open science et l'open education.
+In fact, this brick of knowledge is destined to cease to exist, and to imagine mutating.
 
-Quelques idées pour l'avenir : aider à la production des logiciels de base pour les modèles ouverts, avoir un écosystème
-d'acteurs stratèges pour mettre en place des communs numériques, faire progresser certains modèles dans des domaines plus critiques 
-comme l'agriculture ou l'énergie...
+When open models will be democratized, if they begin to form part of a general digital culture, these subjects should be covered by an open digital university, based on open science and open education.
 
-Les modèles ouverts sont un chantier collectif sans fin.
+Here are a few ideas for the future: help produce the basic software for open models, create an ecosystem of strategic players to set up digital commons, advance certain models in more critical fields such as agriculture or energy...
+
+Open models are a never-ending collective work.
