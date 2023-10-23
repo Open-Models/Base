@@ -1,7 +1,5 @@
 ## List of open templates
 
-**\[Page under construction, see [#2](https://github.com/Open-Models/Brique/issues/2)\]**
-
 * [Open Education](open-education.md)
 * [Open Science](open-science.md)
 * [Open Collaboration](open-collaboration.md)

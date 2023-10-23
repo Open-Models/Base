@@ -1,6 +1,6 @@
 # Open Models - Brick of Knowledge
 
-**\[Brick under construction, see [roadmap](organisation/feuille-de-route.md)\]**
+**\[Brick under construction, see [roadmap](organisation/roadmap.md)\]**
 
 Digital is a new world that we have only just begun to explore.
 
@@ -22,21 +22,21 @@ A resource to acquire basic skills in open models and being an active player in 
 
 **Open models knowledge :**
 
-* [Introduction to open models](contenu/introduction.md)
-* [History of open models](contenu/histoire.md)
-* [Method for building a digital commons](contenu/methode/README.md)
-* [List of open models](contenu/mod%C3%A8les/README.md)
-* [List of projects](contenu/projets/README.md)
+* [Introduction to open models](content/introduction.md)
+* [History of open models](content/history.md)
+* [Method for building a digital commons](content/method/README.md)
+* [List of open models](content/models/README.md)
+* [List of projects](content/projects/README.md)
 
-A [list of resources](ressources.md) on open models brings together a variety of useful links.
+A [list of resources](resources.md) on open models brings together a variety of useful links.
 
 ## Workshop materials 📚
 
-Open model education takes many forms and reaches many audiences, a multitude of teaching materials can be created and reused. To help you set up activities, a whole range of open resources can be found on a page dedicated to [materials for open models education workshops](materiel-atelier.md).
+Open model education takes many forms and reaches many audiences, a multitude of teaching materials can be created and reused. To help you set up activities, a whole range of open resources can be found on a page dedicated to [materials for open models education workshops](workshop-material.md).
 
 ## Roadmap 🗺️
 
-To set and understand the orientation of the community around the brick, a [roadmap](organisation/feuille-de-route.md) shows the main axes of work defined.
+To set and understand the orientation of the community around the brick, a [roadmap](organisation/roadmap.md) shows the main axes of work defined.
 
 A collective project, a collaboratively built digital commons, open to contribution and hosted (temporarily 🤞) on the non-open-source [GitHub](https://github.com/Open-Models/Brique) platform.
 
@@ -44,7 +44,7 @@ A collective project, a collaboratively built digital commons, open to contribut
 
 The digital commons are based on an entire culture of contribution. The contributions of each individual contribute to the prosperity of the whole, provided that the ecosystem around a project is able to include external players.
 
-A [contribution guide](organisation/guide-contribution.md) explains different ways to help on this brick of knowledge project.
+A [contribution guide](organisation/contribution-guidelines.md) explains different ways to help on this brick of knowledge project.
 
 Many ways to participate in this democratization of open models!
 
