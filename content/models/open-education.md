@@ -27,7 +27,7 @@ Open educational resources are going to be protean: a textbook, a text, a video,
 * 🇨🇭 [Swiss Digital Skills Academy](https://d-skills.ch/), swissuniversities initiative for open education training
 * [Handbook of Open, Distance and Digital Education](https://link.springer.com/referencework/10.1007/978-981-19-2080-6)
 * The [Brick of Knowledge on Open Models](https://open-models.org)
-* [Wikipedia](https://fr.wikipedia.org/wiki/Wikip%C3%A9dia)
+* [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia)
 
 The way in which these resources are built and used will depend on a whole range of strategies depending on the pedagogical context: face-to-face or distance learning, synchronous or asynchronous, with a more or less active pedagogy, based or not on a community of practice... Pedagogy in all its complexity enriches open education.
 
@@ -47,7 +47,7 @@ There is no single answer to the problem of how to produce open education traini
 
 While we know that much remains to be invented, the tools needed to produce open educational resources will vary from one project to another, depending on financial and human resources, technical skills, and so on.
 
-> **The Open Models Knowledge Brick** is a complex example of open education, an experiment of open educational resource for education in open models, in a digital commons logic developed using open software tools such as [Markdown](https://www.markdowntutorial.com/), [git](https://about.gitlab.com/topics/version-control/what-is-git-version-control/) and [GitHub](https://fr.wikipedia.org/wiki/GitHub).
+> **The Open Models Knowledge Brick** is a complex example of open education, an experiment of open educational resource for education in open models, in a digital commons logic developed using open software tools such as [Markdown](https://www.markdowntutorial.com/), [git](https://about.gitlab.com/topics/version-control/what-is-git-version-control/) and [GitHub](https://en.wikipedia.org/wiki/GitHub).
 >
 > The project is intended to be a resource accessible to anyone wishing to learn about open models. Although it requires some technical knowledge with which to familiarize oneself, all content is retrievable, modifiable and shareable. Pedagogical content that is freely accessible, that can be co-produced, based on [spaces for exchange with the community around the project](/README.html#contribute-), learners and stakeholders who gravitate around open models
 >
@@ -79,4 +79,4 @@ The invention of computers (1945), the Internet (1969) and, in particular, the W
 
 Observing the development of the open source movement in the software world, [David Wiley](https://en.wikipedia.org/wiki/David_A._Wiley) formalized the notion of "open content" in 1998 along with the Open Publication License (discontinued with the arrival of Creative Commons), initially aimed at educational content. In 2001, MIT announced the [MIT OpenCourseWare](https://fnl.mit.edu/may-june-2021/on-the-20th-anniversary-of-opencourseware-how-it-began/) program aimed at publishing all the institution's course materials.
 
-The term "open educational resources" was adopted in 2002 following the [UNESCO forum](https://unesdoc.unesco.org/ark:/48223/pf0000128515) « Impact of Open Courseware for Higher Education in Developing Countries ». In 2019, UNESCO proposed a recommendation on [open educational resources](https://www.unesco.org/fr/legal-affairs/recommendation-open-educational-resources-oer).
+The term "open educational resources" was adopted in 2002 following the [UNESCO forum](https://unesdoc.unesco.org/ark:/48223/pf0000128515) « Impact of Open Courseware for Higher Education in Developing Countries ». In 2019, UNESCO proposed a recommendation on [open educational resources](https://www.unesco.org/en/legal-affairs/recommendation-open-educational-resources-oer).

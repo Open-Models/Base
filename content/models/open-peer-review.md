@@ -22,7 +22,7 @@ Open peer review is an umbrella term for a number of overlapping ways that peer 
 
 ## Presentation
 
-Scientific knowledge has been built for centuries through _[peer review](https://fr.wikipedia.org/wiki/%C3%89valuation_par_les_pairs)_, scientists validating each other's research work to advance science.
+Scientific knowledge has been built for centuries through _[peer review](https://en.wikipedia.org/wiki/Peer_review)_, scientists validating each other's research work to advance science.
 
 Traditionally, the results of research were sent to a scientific journal for evaluation by other scientists.
 
