@@ -107,6 +107,7 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 📖 [Vers une communication numérique plus sociale et solidaire](https://blog.comem.ch/wp-content/uploads/2020/08/guide_v2_read.pdf), guide ESS
 - 📰 [Defining Open Source](https://the.webm.ink/defining-open-source)
 - 📰 [I hate the term “open source”](https://medium.com/@nayafia/i-hate-the-term-open-source-a65fd481a95)
+- 📰 [Open source, not just software anymore](https://ben.balter.com/2014/01/27/open-collaboration/)
 - 📰 Github - [The readme project](https://github.com/readme/) : Interview d'acteurs de l'open source
 - 📰 [The Open Source contributor funnel](https://mikemcquaid.com/the-open-source-contributor-funnel-why-people-dont-contribute-to-your-open-source-project/) - Mike McQuaid
 - 📰 [Awesome maintainers](https://github.com/nayafia/awesome-maintainers) - *"Talks, blog posts, and interviews about the experience of being an open source maintainer"*
