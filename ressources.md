@@ -81,6 +81,7 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 🕴️ [Open Future Foundation](https://openfuture.eu/)
 - 🕴️ 🇪🇺 [OpenForum Europe](https://openforumeurope.org/)
 - 🕴️ 🇬🇧 [OpenUk](https://openuk.uk/)
+- 🕴️ [Open Research Institute](https://www.openresearch.institute/)
 - 🕴️ [Open Climate](https://open-climate.org/), exploring the intersection between the open movement and the climate crisis
 - 🕴️ [Digital Public Goods Alliance](https://digitalpublicgoods.net/)
 - 🕴️ [International Association for the Study of the Commons](https://iasc-commons.org/) (IASC)
