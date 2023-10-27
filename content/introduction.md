@@ -3,7 +3,7 @@
 > **Open models**: Modes of organisation and knowledge production based on the digital, the free circulation of information and collaboration on an Internet scale which seek to benefit from the properties of interaction between ecosystems.
 
 <p align="center" width="100%">
-    <img src="https://raw.githubusercontent.com/Open-Models/Brique/main/images/modele_ouverts.png">
+    <img src="https://raw.githubusercontent.com/Open-Models/Brique/main/images/open-models.png">
 </p>
 
 The digital is transforming our relationship with knowledge through its ability to disseminate information and connect people. A variety of new dynamics based on sharing and collaboration around informational resources are emerging enabling the co-production of knowledge.
