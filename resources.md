@@ -1,44 +1,43 @@
-# Ressources sur les modèles ouverts
+# Resources on open models
 
-Ensemble de ressources complémentaires pour pouvoir explorer plus largement les modèles ouverts.  
-Des liens vers une variété d'éléments pour en apprendre plus sur ces phénomènes, pour trouver des acteurs
-dans ces domaines, pour s'informer, trouver des outils, en connaitre plus sur les législations en cours...
+A set of complementary resources to help you explore open models more deeply.  
+Links to a variety of elements to learn more about these phenomena, to find players in these fields, to get informed, find tools, learn more about current legislation...
 
-Dans une logique contributive, toute recommandation qui permettra d'enrichir cette liste de ressources
-et notre savoir collectif sera appréciée, idéalement en issue (ou directement en pull request) sur [Github](https://github.com/Open-Models/Brique/issues).
+In the spirit of contribution, any recommendation that will enrich this list of resources and our collective knowledge will be appreciated, ideally as an issue (or directly as a pull request) on [Github](https://github.com/Open-Models/Brique/issues).
 
-### Table des matières
+### Table of contents
 
-1. [Modèles ouverts et communs](#modèles-ouverts-et-communs)
-1. [Open Source](#open-source)
-1. [Open Science](#open-science)
-1. [Open Education](#open-education)
-1. [Open Innovation](#open-innovation)
-1. [Open Data](#open-data)
-1. [Open Hardware](#open-hardware)
-1. [Open License](#open-license)
-1. [Open Content](#open-content)
-1. [Open Scolarship](#open-scolarship)
-1. [Open Business](#open-business)
-1. [Open Health](#open-health)
-1. [Open Music](#open-music)
-1. [Open Collaboration](#open-collaboration)
-1. [Open Standard](#open-standard)
-1. [Type indéterminé](#type-indéterminé)
+1. [Open models and commons](#open-models-and-commons)
+2. [Open Source](#open-source)
+3. [Open Science](#open-science)
+4. [Open Education](#open-education)
+5. [Open Innovation](#open-innovation)
+6. [Open Data](#open-data)
+7. [Open Hardware](#open-hardware)
+8. [Open License](#open-license)
+9. [Open Content](#open-content)
+10. [Open Scholarship](#open-scolarship)
+11. [Open Business](#open-business)
+12. [Open Health](#open-health)
+13. [Open Music](#open-music)
+14. [Open Collaboration](#open-collaboration)
+15. [Open Standard](#open-standard)
+16. [Type undetermined](#type-undetermined)
 
-**Type de ressources** :
-- 📖 Livres
-- 📰 Article(s)
-- 👩🏽‍🔬 Recherche
-- 🎥 Vidéo
-- 📡 Média
-- 🏦 Règlementation
-- 👩‍🎓 Contenu Pédagogique
-- 🕴️ Acteur
-- 🛠️ Outils
-- 📚 Database
+**Type of resources**:
 
-## Modèles ouverts et communs
+* 📖 Books
+* 📰 Article(s)
+* 👩🏽‍🔬 Research
+* 🎥 Video
+* 📡 Media
+* 🏦 Policy
+* 👩‍🎓 Pedagogical content
+* 🕴️ Player
+* 🛠️ Tools
+* 📚 Database
+
+## Open models and commons
 
 - [Open Work Definition](https://openworkdefinition.com/)
 - [Open Design Definition](https://github.com/OpenDesign-WorkingGroup/Open-Design-Definition/blob/master/open.design_definition/open.design.definition.md)
@@ -486,7 +485,7 @@ et notre savoir collectif sera appréciée, idéalement en issue (ou directement
 - 🛠️ [ccREL](https://www.w3.org/Submission/ccREL/) : The Creative Commons Rights Expression Language
 - 📖 Standards Battles in Open Source Software: The Case of Firefox, H. Vries, I. Oshri
 
-## Type indéterminé
+## Type undetermined
 
 - 📖 [Swarmwise](https://falkvinge.net/files/2013/04/Swarmwise-2013-by-Rick-Falkvinge-v1-Final-2013Jul18.pdf) - Rick Falkvinge
 - 📖 [Howdy or Hello? Technical and Professional Communication](https://pressbooks.library.tamu.edu/howdyorhello/), by a Texas OER Committee
