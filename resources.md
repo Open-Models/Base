@@ -45,7 +45,7 @@ In the spirit of contribution, any recommendation that will enrich this list of 
 - 📖 [Open Models : les business models de l'économie ouverte](https://drive.google.com/file/d/0B3FF0PcRH-F7YTduczNYdmNzT2s/view?resourcekey=0-JLwfPn6eT6eavH5lU1D9Aw) - coordonné par Louis-David Benyayer
 - 📖 [The Public Domain: Enclosing the Commons of the Mind](https://thepublicdomain.org/thepublicdomain1.pdf), James Boyle
 - 📖 Kritika: Essays on Intellectual Property,  Peter Drahos, Gustavo Ghidini, Hanns Ullrich
-- 📖 Commun : Essai sur la révolution au XXIe siècle, Pierre Dardot, Christian Laval
+- 📖 Common: On Revolution in the 21st Century, Pierre Dardot, Christian Laval
 - 📖 [The Sharing Economy in Europe: Developments, Practices, and Contradictions](https://core.ac.uk/outputs/491239584)
 - 📖 [Free, Fair, and Alive : The Insurgent Power of the Commons](https://freefairandalive.org/)
 - 🎥 [Commun(s)](https://www.youtube.com/watch?v=8QpQUsMlpxQ), Politikon
@@ -64,19 +64,19 @@ In the spirit of contribution, any recommendation that will enrich this list of 
 - [Appel pour une société des communs](https://societedescommuns.com/appel/)
 - [copyleft.org](https://copyleft.org/)
 - [The Open Definition](https://opendefinition.org/), by Open Knowldege Foundation
-- 👩🏽‍🔬 [Comment faire converger la transition numérique et la transition écologique au Québec dans un horizon de 20 ans ?](https://cheminsdetransition.org/defi-numerique.pdf), Chemins de transition (Université de Montréal)
+- 👩🏽‍🔬 [Comment faire converger la transition numérique et la transition écologique au Québec dans un horizon de 20 ans ?](https://cheminsdetransition.org/defi-numerique.pdf), Chemins de transition (Montreal University)
 - 📰 [Podcast Brevets et droits d’auteur : propriétés fragiles](https://www.radiofrance.fr/franceculture/podcasts/concordance-des-temps/brevets-et-droits-d-auteur-proprietes-fragiles-2322638), France Culture avec l'Historien Gabriel Galvez-Behar
-- 📰 [Paradox of Open](https://openfuture.eu/publication/paradox-of-open-responses/) par Open Future Foundation (réponses)
-- 📚 [Openverse](https://wordpress.org/openverse/), banque d'image et son sous CC
-- 📚 [Unsplash](https://unsplash.com/), banque d'image
-- 📚 [Pixabay](https://pixabay.com/), banque d'images, sons et vidéos libres de droits
-- 📚 [Iconoir](https://iconoir.com/), librairie de logo
+- 📰 [Paradox of Open](https://openfuture.eu/publication/paradox-of-open-responses/) by Open Future Foundation (answers)
+- 📚 [Openverse](https://wordpress.org/openverse/), image and sound bank
+- 📚 [Unsplash](https://unsplash.com/), image bank
+- 📚 [Pixabay](https://pixabay.com/), image, sound and video bank
+- 📚 [Iconoir](https://iconoir.com/), logo library
 - 📚 [Fontawesome](https://fontawesome.com/), icons library
 - 📚 [The Noun Project](https://thenounproject.com/), icons and photos library
 - 📚 [Fontello](https://fontello.com/), icons library
 - 📚 [Iconmonstr](https://iconmonstr.com), icons library
 - 📚 [Directory of Open Access Books](https://www.doabooks.org/) (DOAB)
-- 🕴️ [Fabrique des mobilités](https://lafabriquedesmobilites.fr/), construire la mobilité durable via les communs
+- 🕴️ [Fabrique des mobilités](https://lafabriquedesmobilites.fr/), building sustainable mobility via the commons
 - 🕴️ [Open Future Foundation](https://openfuture.eu/)
 - 🕴️ 🇪🇺 [OpenForum Europe](https://openforumeurope.org/)
 - 🕴️ 🇬🇧 [OpenUk](https://openuk.uk/)
@@ -90,11 +90,11 @@ In the spirit of contribution, any recommendation that will enrich this list of 
 
 ## Open Source
 
-- 📡 [Blog open source de Google](https://opensource.googleblog.com/)
+- 📡 [Google Open Source Blog](https://opensource.googleblog.com/)
 - 📡 [OSPOlogy](https://www.youtube.com/@ospology), TODO group youtube channel
 - 📡 Podcast [Projets Libres !](https://smartlink.ausha.co/projets-libres)
 - 📖 [The Cathedral and the Bazaar](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/index.html#catbmain) - Eric S. Raymond
-- 📖 [Producing Open Source Software](https://producingoss.com/) de Karl Fogel
+- 📖 [Producing Open Source Software](https://producingoss.com/) by Karl Fogel
 - 📖 [The Open Source Way 2.0](https://www.theopensourceway.org/the_open_source_way-guidebook-2.0.html)
 - 📖 [Open Source 2.0](https://en.wikipedia.org/wiki/Open_Sources_2.0) - O'Reilly Media
 - 📖 [Open Sources: Voices from the Open Source Revolution](https://en.wikipedia.org/wiki/Open_Sources) - O'Reilly Media
@@ -103,14 +103,14 @@ In the spirit of contribution, any recommendation that will enrich this list of 
 - 📖 How Open Source Ate Software: Understand the Open Source Movement and So Much More, G. Haff
 - 📖 Rebel Code: Linux and the Open Source Revolution, G. Moody
 - 📖 Économie du logiciel libre, F. Elie
-- 📖 [Vers une communication numérique plus sociale et solidaire](https://blog.comem.ch/wp-content/uploads/2020/08/guide_v2_read.pdf), guide ESS
+- 📖 [Vers une communication numérique plus sociale et solidaire](https://blog.comem.ch/wp-content/uploads/2020/08/guide_v2_read.pdf), guide ESS(/SSE)
 - 📰 [Defining Open Source](https://the.webm.ink/defining-open-source)
 - 📰 [I hate the term “open source”](https://medium.com/@nayafia/i-hate-the-term-open-source-a65fd481a95)
-- 📰 Github - [The readme project](https://github.com/readme/) : Interview d'acteurs de l'open source
+- 📰 Github - [The readme project](https://github.com/readme/): interviews with open source players
 - 📰 [The Open Source contributor funnel](https://mikemcquaid.com/the-open-source-contributor-funnel-why-people-dont-contribute-to-your-open-source-project/) - Mike McQuaid
 - 📰 [Awesome maintainers](https://github.com/nayafia/awesome-maintainers) - *"Talks, blog posts, and interviews about the experience of being an open source maintainer"*
 - 📰 [Time Till Open Source Alternative](https://staltz.com/time-till-open-source-alternative.html), André Staltz
-- 📰 [Projet GPL Violations](https://gpl-violations.org/) [inactif, archivage]
+- 📰 [Projet GPL Violations](https://gpl-violations.org/) [inactive/archive]
 - 📰 [Deconstructing Software copyright, 30 years of bad logic](http://www.patenting-art.com/copyprob/softcopy.htm)
 - 📰 [Dossier magazine Swissquote : Les milliards de l'open source](https://resources.swissquote.com/sites/default/files/2020-08/magazine_56_fr.pdf)
 - 📰 [The five stages of the Open Source Program Office](https://blog.opensource.org/the-five-stages-of-the-open-source-program-office/)
@@ -126,11 +126,11 @@ In the spirit of contribution, any recommendation that will enrich this list of 
 - 🎥 [Bryan Ostergaard - Gestion de projet open source](https://www.youtube.com/watch?v=8mukIfWEC7g)
 - 🎥 [Revolution OS (History of GNU, Linux, Free and Open Source Software)](https://www.youtube.com/watch?v=vjMZssWMweA)
 - 🎥 [The Linux Story](https://www.youtube.com/watch?v=cLnlaNESCcg)
-- [Grace Hopper, "premier" développement open source avec COBOL](https://www.bbc.co.uk/sounds/play/p04n04cm)
+- [Grace Hopper, "first" open source development with COBOL](https://www.bbc.co.uk/sounds/play/p04n04cm)
 - Label [Territoire Numérique Libre](https://territoire-numerique-libre.org)
-- 👩🏽‍🔬 Étude FOSSEPS pour la commission Européenne - [Free and Open Source Software Solutions for European Public Services](https://joinup.ec.europa.eu/collection/fosseps/news/fosseps-critical-open-source-software-study-report)
-- 👩🏽‍🔬 Enquête [Open Source Program Office 2022](https://todogroup.org/blog/ospo-survey-2022-results/) par TODO group
-- 👩🏽‍🔬 Enquête GitHub [State of the Octoverse](https://octoverse.github.com/)
+- 👩🏽‍🔬 FOSSEPS study for European Commission -[Free and Open Source Software Solutions for European Public Services](https://joinup.ec.europa.eu/collection/fosseps/news/fosseps-critical-open-source-software-study-report)
+- 👩🏽‍🔬 [Open Source Program Office 2022](https://todogroup.org/blog/ospo-survey-2022-results/) study by TODO group
+- 👩🏽‍🔬 [State of the Octoverse](https://octoverse.github.com/), GitHub study
 - 👩🏽‍🔬 [Why We Engage in FLOSS: Answers from Core Developers](https://arxiv.org/pdf/1803.05741.pdf)
 - 👩🏽‍🔬 [Report on the 2020 FOSS Contributor Survey](https://www.linuxfoundation.org/resources/publications/foss-contributor-survey-2020), Linux Foundation
 - 👩🏽‍🔬 [Open Source Maintainers report](https://www.linuxfoundation.org/research/open-source-maintainers), Linux Foundation
@@ -139,8 +139,8 @@ In the spirit of contribution, any recommendation that will enrich this list of 
 - 👩🏽‍🔬 [Why Do Developers Adopt Open Source Software? Past, Present and Future](https://hal.archives-ouvertes.fr/hal-02305701)
 - 👩🏽‍🔬 [Study about the impact of open source software and hardware on technological independence, competitiveness and innovation in the EU economy](https://digital-strategy.ec.europa.eu/en/library/study-about-impact-open-source-software-and-hardware-technological-independence-competitiveness-and)
 - 👩🏽‍🔬 [Open source software and global entrepreneurship](https://doi.org/10.1016/j.respol.2023.104846)
-- 👩🏽‍🔬 [Sources d’influence : Enjeux économiques et géopolitiques des logiciels open source](https://www.ifri.org/sites/default/files/atoms/files/pannier_influence_logiciels_open_source_2022.pdf), étude IFRI
-- 👩‍🎓 [Site éducatif sur l'open source](https://opensource.dev/) de Google
+- 👩🏽‍🔬 [Software Power: The Economic and Geopolitical Implications of Open Source Software](https://www.ifri.org/en/publications/etudes-de-lifri/software-power-economic-and-geopolitical-implications-open-source), IFRI
+- 👩‍🎓 [opensource.dev](https://opensource.dev/), Google pedagogical website
 - 👩‍🎓 [The Linux Foundation’s training program](https://training.linuxfoundation.org/)
 - 👩‍🎓 [Best [Security] Practices for OSS Developers](https://github.com/ossf/wg-best-practices-os-developers), OSSF working group
 - 🏦 🇪🇺 [European Free and Open Source Software Auditing](https://commission.europa.eu/about-european-commission/departments-and-executive-agencies/informatics/eu-fossa-2-free-and-open-source-software-auditing_en) (EU-FOSSA-2)
@@ -151,8 +151,7 @@ In the spirit of contribution, any recommendation that will enrich this list of 
 - 🕴️ [OSPO++](https://ospoplusplus.org/), network for OSPO in universities, governments and civic institutions
 - 🕴️ 🇫🇷 [Addulact](https://adullact.org/)
 - 🕴️ 🇫🇷 [The Open Source I Trust (TOSIT)](https://tosit.fr/)
-- 🕴️ 🇫🇷 [Conseil National du Logiciel Libre](https://cnll.fr/)
-- 🕴️ 🇫🇷 [Clusters d'entreprises du logiciel open source](https://cnll.fr/cnll/membres/), adhérents du CNLL
+- 🕴️ 🇫🇷 [Conseil National du Logiciel Libre](https://cnll.fr/) (CNLL)
 - 🕴️ 🇩🇪 [Open Source Business (OSB) Alliance](https://osb-alliance.de/)
 - 🕴️ 🇮🇹 [Rete Italiana Open Source](https://www.reteitalianaopensource.net/) (RIOS)
 - 🕴️ 🇪🇸 [Federación ASOLIF](https://twitter.com/asolif_empresas)
@@ -162,10 +161,10 @@ In the spirit of contribution, any recommendation that will enrich this list of 
 - 🕴️ [Free/Libre and Open Source Software (FLOSS) foundations](https://flossfoundations.org/foundation-directory/)
 - 🕴️ [OpenMairie](http://www.openmairie.org/)
 - 🕴️ [Apereo Foundation](https://www.apereo.org/), Open Source Software Serving the Academic Mission, institutions network
-- 🕴️ 🇫🇷 [ESUP-PORTAIL](https://www.esup-portail.org/), communauté pour le développement de solutions universitaires open source
+- 🕴️ 🇫🇷 [ESUP-PORTAIL](https://www.esup-portail.org/), community for the development of open source university solutions
 - 🕴️ [Framasoft](https://framasoft.org/fr/)
 - 🕴️ [Open Mainframe Project](https://www.openmainframeproject.org/)
-- 🕴️ [Open Source Observatory](https://joinup.ec.europa.eu/collection/open-source-observatory-osor) (OSOR), commission européene
+- 🕴️ [Open Source Observatory](https://joinup.ec.europa.eu/collection/open-source-observatory-osor) (OSOR), European Commission
 - 🕴️ [Foundation for Public Code](https://publiccode.net/)
 - 🕴️ [OpenInfra Foundation](https://openinfra.dev/)
 - 🕴️ [Open Source Software Capital](https://oss.capital/) (OSSC)
@@ -174,23 +173,23 @@ In the spirit of contribution, any recommendation that will enrich this list of 
 - 🕴️ [Open Core Ventures](https://opencoreventures.com/)
 - [Public Code, Public Money](https://publiccode.eu/)
 - [The Open Source Software Security Mobilization Plan](https://openssf.org/oss-security-mobilization-plan/) (OpenSSF, 2022)
-- [fedigov.eu](https://fedigov.eu/fr/), promotion citoyenne du fediverse pour les institutions
-- 📚 [CodeGouv](https://code.gouv.fr/), code source du secteur public français
-- 📚 🇩🇪 [Open CoDE](https://opencode.de/en), forge gouvernement allemand
-- 📚 [Guide des logiciels open source](https://www.smile.eu/fr/livres-blancslivres-blancs/guide-lopen-source), Smile
-- 📚 [Awesome-Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted), liste de logiciels open source à auto-héberger
+- [fedigov.eu](https://fedigov.eu/fr/), citizen promotion of fediverse for institutions
+- 📚 [CodeGouv](https://code.gouv.fr/), French government forge
+- 📚 🇩🇪 [Open CoDE](https://opencode.de/en), German government forge
+- 📚 [Guide to open source softwares](https://www.smile.eu/en/white-paperswhite-papers/guide-open-source), Smile
+- 📚 [Awesome-Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 - 📚 [(Ex-)Annuaire des principaux logiciels libres & open source](https://www.jdbonjour.ch/logiciel-libre/), EPFL
-- 📚 [Comptoir du libre](https://comptoir-du-libre.org/fr/), annuaire de l'ADULLACT
-- 📚 [Socle interministériel (🇫🇷) de logiciels libres](https://sill.etalab.gouv.fr/software)
-- 📚 [Open Sustainable Technology](https://report.opensustain.tech/chapters/overview.html), annuaire de logiciels sur la durabilité et le climat
-- 📚 [Open Source - répertoire des (50) sites de référence et de formation, Thot Cursus](https://cursus.edu/fr/17405/open-source-code-source-libre-repertoire-des-sites-de-reference-et-de-formation)
+- 📚 [Comptoir du libre](https://comptoir-du-libre.org/fr/), ADULLACT directory
+- 📚 [Interministerial (🇫🇷) Free Software Catalog](https://sill.etalab.gouv.fr/software)
+- 📚 [Open Sustainable Technology](https://report.opensustain.tech/chapters/overview.html), directory of sustainability and climate software
+- 📚 [Open source code: directory of reference and training sites, Thot Cursus](https://cursus.edu/en/17405/open-source-open-source-code-directory-of-reference-and-training-sites)
 - 📚 [Open Source Events](https://github.com/anubhavpulkit/Open-Source-Events)
-- 📚 [Software Heritage](https://www.softwareheritage.org/), archive ouverte universelle de logiciels
-- 📚 🇫🇷 [Entreprises COSS françaises](https://www.mxcrbn.com/posts/the-rise-of-oss-startups-in-france)
+- 📚 [Software Heritage](https://www.softwareheritage.org/), universal open software archive
+- 📚 🇫🇷 [French COSS business](https://www.mxcrbn.com/posts/the-rise-of-oss-startups-in-france)
 - 🛠️ [GitHub Sponsor](https://github.com/sponsors)
 - 🛠️ [FundOSS](https://fundoss.org/)
 - 🛠️ [Free Software Fund](https://www.fsf.org/working-together/fund) (FSF)
-- 🛠️ [Copie Publique](https://copiepublique.fr/), crowfunding d'entreprises pour support brique logicielle
+- 🛠️ [Copie Publique](https://copiepublique.fr/), company crowdfunding for software brick support
 - 🛠️ [OSS.Fund](https://www.oss.fund/), catalog of monetization platforms for open source builders
 - 🛠️ [NGI Search](https://www.ngisearch.eu/), Funding the Next Generation of (open source) Web Searching Tools
 - 🛠️ [Open Collective](https://opencollective.com/), legal and financial toolbox for grassroots groups
@@ -200,22 +199,22 @@ In the spirit of contribution, any recommendation that will enrich this list of 
 
 ## Open Science
 
-- 📡 [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org/), blog de la SSP sur l'édition savante
+- 📡 [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org/), SSP blog on scholarly publishing
 - 📡 [Open Science Magazine](https://open-science-future.zbw.eu/en/)
 - 📖 [Opening Science](http://www.openingscience.org/get-the-book/), Sönke Bartling & Sascha Friesike
 - 📖 [The Turing Way](https://the-turing-way.netlify.app/index.html), handbook to reproducible, ethical and collaborative data science
 - 📖 [Plan S for Shock](https://www.ubiquitypress.com/site/books/m/10.5334/bcq/)
-- 👩‍🎓 🇫🇷 [MOOC La science ouverte](https://www.fun-mooc.fr/fr/cours/la-science-ouverte/), par France Université Numérique (FUN) MOOC
-- 👩‍🎓 🇫🇷 [Passeport pour la science ouverte : guide pratique à l'usage des doctorant(e)s](https://www.ouvrirlascience.fr/wp-content/uploads/2021/10/SO_21-10-14-WEB-FR.pdf)
+- 👩‍🎓 🇫🇷 [Open Science MOOC](https://www.fun-mooc.fr/en/courses/open-science/), by France Université Numérique (FUN)
+- 👩‍🎓 🇫🇷 [Passport For Open Science: A Practical Guide for PhD Students](https://www.ouvrirlascience.fr/passport-for-open-science-a-practical-guide-for-phd-students/)
 - 👩‍🎓 [The Open Science Training Handbook](https://open-science-training-handbook.github.io/Open-Science-Training-Handbook_EN//) by Foster open science
-- 👩‍🎓 🇫🇷 [Guide sur les journaux prédateurs](https://www.unige.ch/biblio/files/8316/4362/2029/2022_midi_predatory_journals_memo_fr_v1.pdf), Université de Genève
+- 👩‍🎓 🇫🇷 [Guide on predatory journals](https://www.unige.ch/biblio/files/3916/4363/6480/2022_predatory_journals_memo_en_v1.pdf), University of Geneva
 - 👩‍🎓 [Opensciency](https://zenodo.org/record/7662732), open science curriculum by and for the research community
 - 👩‍🎓 [Open Science: A Practical Guide for Early-Career Researchers](https://doi.org/10.5281/zenodo.7716152)
 - 👩‍🎓 [Mapping Open Science [practices] resources from around the world by discipline and principles](https://doi.org/10.21428/51e64700.893d7337)
 - 👩‍🎓 CCSD [trainings on HAL platform](https://www.ccsd.cnrs.fr/en/trainings/)
 - 🎥 [Open Science : À qui les données de la science appartiennent-elles ?](https://www.youtube.com/watch?v=vsP8S63qOhY), La Tronche en biais ft. TenL95
 - 🎥 [Open science avec Célya Gruson-Daniel (HackYourPhD & DRISS) \| Probablement?](https://www.youtube.com/watch?v=5rWpNmm0dfA), Science4All
-- 👩🏽‍🔬 [Étude sur les journaux en Open Access Diamonds](https://scienceeurope.org/media/yejfasey/20210309_coalitions_diamond_study_final.pdf)
+- 👩🏽‍🔬 [Study on Open Access Diamonds Journals](https://scienceeurope.org/media/yejfasey/20210309_coalitions_diamond_study_final.pdf)
 - 👩🏽‍🔬 [Towards an Open Science definition as a political and legal framework](https://hal.archives-ouvertes.fr/hal-02962399/document)
 - 👩🏽‍🔬 [The Economic Impacts of Open Science: A Rapid Evidence Assessment](https://www.mdpi.com/2304-6775/7/3/46/htm)
 - 👩🏽‍🔬 [Le marché de l'édition scientifique, entre accès « propriétaire » et accès « libre »](https://www.cairn.info/revue-hermes-la-revue-2010-2-page-137.htm)
@@ -232,16 +231,16 @@ In the spirit of contribution, any recommendation that will enrich this list of 
 - 🛠️ [Explore OpenAIRE](https://explore.openaire.eu/), search engine for open research data
 - 🛠️ [LA Referencia](https://www.lareferencia.info/en/), open access search engine for latin america
 - 🛠️ [Sci-Hub](https://fr.wikipedia.org/wiki/Sci-Hub)
-- 🛠️ [Libgen](https://fr.wikipedia.org/wiki/Library_Genesis), moteur de recherche d'articles et de livres
-- 🛠️ [Sherpa Romeo](https://v2.sherpa.ac.uk/romeo/), analyses des politiques open access des éditeurs
-- 🛠️ [Unpaywall](https://unpaywall.org/), extension navigateur pour contourner les paywalls
+- 🛠️ [Libgen](https://fr.wikipedia.org/wiki/Library_Genesis), search engine for articles and books
+- 🛠️ [Sherpa Romeo](https://v2.sherpa.ac.uk/romeo/), analysis of publishers' open access policies
+- 🛠️ [Unpaywall](https://unpaywall.org/), browser extension to bypass paywalls
 - 🛠️ 🇪🇺 [Open Mining INfrastructure for TExt and Data](http://openminted.eu/) (OpenMinTeD)
 - 🛠️ [Open Researcher and Contributor ID](https://orcid.org/) (ORCID)
-- 🛠️ [Invenio](https://inveniosoftware.org/), open software pour plateforme open science (base de Zenodo)
-- 🛠️ [Prereview](https://prereview.org/), plateforme d'open peer review
+- 🛠️ [Invenio](https://inveniosoftware.org/), open software for open science publication platform (Zenodo base)
+- 🛠️ [Prereview](https://prereview.org/), open peer review platform
 - 📚 [Open Science Framework](https://osf.io/)
 - 📚 [HAL archive ouverte](https://hal.archives-ouvertes.fr/)
-- 📚 [Open Research Europe](https://open-research-europe.ec.europa.eu/), plateforme publication hébergé par la Commission Européenne
+- 📚 [Open Research Europe](https://open-research-europe.ec.europa.eu/), publication platform hosted by the European Commission
 - 📚 [Theses.fr](https://www.theses.fr/fr/)
 - 📚 [Open Edition](https://www.openedition.org/)
 - 📚 [Open Access Publishing in European Networks](https://www.oapen.org/) (OAPEN)
@@ -256,16 +255,16 @@ In the spirit of contribution, any recommendation that will enrich this list of 
 - 📚 [Open Access Publishing Tools](https://radicaloa.disruptivemedia.org.uk/resources/publishing-tools/), by Radical Open Access
 - 📚 [Open Directory of Open Access Repositories](https://v2.sherpa.ac.uk/opendoar/) (OpenDOAR)
 - 🏦🇺🇸 White House Office of Science and Technology Policy, [orientation politique du 25/08/2022](https://www.whitehouse.gov/ostp/news-updates/2022/08/25/breakthroughs-for-alldelivering-equitable-access-to-americas-research/)
-- 🏦 🇫🇷 [Plan national pour la science ouverte](https://www.enseignementsup-recherche.gouv.fr/fr/le-plan-national-pour-la-science-ouverte-les-resultats-de-la-recherche-scientifique-ouverts-tous-49241)
-- 🏦🇫🇷 [Deuxième plan pour la science ouverte, généraliser la science ouverte en France 2021-2024](https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2021-09/2e-plan-national-pour-la-science-ouverte-12968.pdf)
-- 🏦 🇪🇺 [Politique Open Science de la Commission Européenne](https://research-and-innovation.ec.europa.eu/strategy/strategy-2020-2024/our-digital-future/open-science_en)
+- 🏦 🇫🇷 [First French National Plan for Open Science](https://www.ouvrirlascience.fr/national-plan-for-open-science-4th-july-2018/)
+- 🏦 🇫🇷 [Second French Plan for Open Science](https://www.ouvrirlascience.fr/second-national-plan-for-open-science/)
+- 🏦 🇪🇺 [EU's open science policy](https://research-and-innovation.ec.europa.eu/strategy/strategy-2020-2024/our-digital-future/open-science_en)
 - 🏦 🇺🇳 [UNESCO Recommendation on Open Science](https://www.unesco.org/en/open-science/about)
-- 🏦 🇪🇺 [Analyses des politiques d'open science en Europe (V7)](https://zenodo.org/record/4725817)
-- 🏦 🇪🇺 [Open Science Monitor](https://ec.europa.eu/info/research-and-innovation/strategy/strategy-2020-2024/our-digital-future/open-science/open-science-monitor_en) de la Commission Européenne
-- 🏦 🇫🇷 [Open Science Monitor](https://frenchopensciencemonitor.esr.gouv.fr/) français
+- 🏦 🇪🇺 [Analysis of Open Science Policies in Europe (v7)](https://zenodo.org/record/4725817)
+- 🏦 🇪🇺 [Open Science Monitor](https://ec.europa.eu/info/research-and-innovation/strategy/strategy-2020-2024/our-digital-future/open-science/open-science-monitor_en) of European Commission
+- 🏦 🇫🇷 [French National Open Science Monitor](https://frenchopensciencemonitor.esr.gouv.fr/)
 - 🏦 🇺🇸 [Year of Open Science announcement](https://www.whitehouse.gov/ostp/news-updates/2023/01/11/fact-sheet-biden-harris-administration-announces-new-actions-to-advance-open-and-equitable-research/) (2023), Office of Science and Technology Policy (OSTP), White House
 - 🏦 🇺🇸 [Scientific Integrity Policy](https://www.whitehouse.gov/ostp/news-updates/2023/06/22/white-house-office-of-science-and-technology-policy-ostp-scientific-integrity-policy/) (2023), Office of Science and Technology Policy (OSTP), White House
-- 🏦 🇺🇸 [Transform to Open Science (TOPS)](https://science.nasa.gov/open-science/transform-to-open-science), mission NASA
+- 🏦 🇺🇸 [Transform to Open Science (TOPS)](https://science.nasa.gov/open-science/transform-to-open-science), NASA mission
 - 🏦 🇺🇸 [open.science.gov](https://open.science.gov/), Open Science Announcements from U.S. Federal Agencies
 - [Budapest Open Access Initiative](https://www.budapestopenaccessinitiative.org/read/), 2002
 - [Berlin Declaration on Open Access to Knowledge in the Sciences and Humanities](https://openaccess.mpg.de/Berlin-Declaration), 2003
@@ -274,7 +273,7 @@ In the spirit of contribution, any recommendation that will enrich this list of 
 - [Open Climate Campaign](https://openclimatecampaign.org/)
 - [Paris Call on Research Assessment](https://osec2022.eu/paris-call/) (OSEC 2022)
 - 🕴️ [Directory of Open Access Journals](https://doaj.org/), find open access journals & articles
-- 📰 [Liste Wikipédia de dépôts de pré-publication](https://en.wikipedia.org/wiki/List_of_preprint_repositories)
+- 📰 [List of preprint repositories](https://en.wikipedia.org/wiki/List_of_preprint_repositories)
 - 📰 [« La science ouverte est une nouvelle façon de diffuser les savoirs, et les bibliothèques sont au cœur de cette évolution »](https://bbf.enssib.fr/bbffocus/la-science-ouverte-est-une-nouvelle-facon-de-diffuser-les-savoirs-et-les-bibliotheques-sont-au-coeur-de-cette-evolution_70750), interview responsables BU
 - 📰 [The rise and fall of peer review](https://experimentalhistory.substack.com/p/the-rise-and-fall-of-peer-review)
 - 📰 [Se réapproprier la production de connaissance](https://aoc.media/opinion/2023/05/17/se-reapproprier-la-production-de-connaissance/), introduction licence UsageRight
@@ -282,13 +281,13 @@ In the spirit of contribution, any recommendation that will enrich this list of 
 - 🛠️ [OpenReview](https://openreview.net/)
 - 🛠️ [Licence UsageRight](https://pbil.univ-lyon1.fr/members/tannier/usageright/accueil_fr.html)
 - 🕴️ [Coalition for Advancing Research Assessment](https://coara.eu/) (CoARA)
-- 🕴️🇫🇷 [Centre pour la Communication Scientifique Directe](https://www.ccsd.cnrs.fr/)
+- 🕴️🇫🇷 [Centre pour la Communication Scientifique Directe](https://www.ccsd.cnrs.fr/) (CCSD)
 - 🕴️[OpenAIRE](https://www.openaire.eu/), create and operate services for Open Science
 - 🕴️ [Confederation of Open Access Repositories](https://www.coar-repositories.org)
 - 🕴️ [European Open Science Cloud](https://eosc-portal.eu/)
 - 🕴️ [Public Library of Science](https://plos.org/) (PLOS)
-- 🕴️ [Ouvrir la science](https://www.ouvrirlascience.fr/)
-- 🕴️ 🇫🇷 [Le Fonds National pour la Science Ouverte](https://www.ouvrirlascience.fr/le-fonds-national-pour-la-science-ouverte/)
+- 🕴️ [Ouvrir la science](https://www.ouvrirlascience.fr/), French Committee for Open Science
+- 🕴️ 🇫🇷 [National Fund for Open Science](https://www.ouvrirlascience.fr/le-fonds-national-pour-la-science-ouverte/)
 - 🕴️ [Center For Open Science](https://www.cos.io/)
 - 🕴️ [SPARC](https://sparcopen.org/)
 - 🕴️ [Electronic Information for Libraries (EIFL)](https://www.eifl.net/)
@@ -298,8 +297,8 @@ In the spirit of contribution, any recommendation that will enrich this list of 
 - 🕴️ [Facilitate Open Science Training for European Research (FOSTER)](https://www.fosteropenscience.eu/)
 - 🕴️ [International Network of Open Science & Scholarship Communities](http://osc-international.com/) (INOSC)
 - 🕴️ [Radical Open Access](https://radicaloa.disruptivemedia.org.uk/)
-- 🕴️ 🇪🇺 [Plan S](https://www.coalition-s.org/), coalition (cOAlition S) de financeurs public/privé de la recherche
-- 🕴️ [Portail Open Science Centre Européen pour la Recherche Nucléaire (CERN)](https://openscience.cern/)
+- 🕴️ 🇪🇺 [Plan S](https://www.coalition-s.org/), coalition (cOAlition S) of public/private research funders
+- 🕴️ [Open Science portal of European Organization for Nuclear Research](https://openscience.cern/) (CERN)
 - 🕴️ 🇪🇺 [Open Universal Science (OPUS)](https://opusproject.eu/)
 - 🕴️ [Open Research Funders Group](https://www.orfg.org/)
 - 🕴️ [Invest in Open Infrastructure](https://investinopen.org/)
@@ -312,15 +311,16 @@ In the spirit of contribution, any recommendation that will enrich this list of 
 - 📚 [OER Commons](https://www.oercommons.org/)
 - 📚 [MIT OpenCourseWare](https://ocw.mit.edu/)
 - 📚 [Databases of Open Educational Ressources](https://guides.library.unr.edu/oer/find), by University of Nevada
-- 📚 [Openstax](https://openstax.org/), manuels scolaire en libre accès
-- 📚 [LibreTexts](https://commons.libretexts.org/), réseau de librairies pour manuels
+- 📚 [Openstax](https://openstax.org/), textbooks library
+- 📚 [LibreTexts](https://commons.libretexts.org/), library network for textbooks
 - 📚 [Open Textbook Library](https://open.umn.edu/opentextbooks), powered by Open Education Network
 - 📚 [Open Library](https://openlibrary.ecampusontario.ca/), powered by eCampusOntario
 - 📚 🇺🇸 [OERTX](https://oertx.highered.texas.gov/), OER used by higher education institutions in Texas
-- 📚 [Sites de l'innovation pédagogique dans l'enseignement supérieur francophone](https://www.innovation-pedagogique.fr/article39.html)
+- 📚 [Innovation Pédagogique et Transition](https://www.innovation-pedagogique.fr/article39.html)
 - 📚 [Open Source Society University](https://github.com/ossu)
 - 🕴️ 🇫🇷 [Délégation Académique au Numérique Éducatif (DANE)](https://www.ac-paris.fr/delegation-academique-au-numerique-educatif-dane-122341), AC Paris
-- 🕴️ 🇫🇷 [L'éducation ouverte à Nantes Université](https://www.univ-nantes.fr/decouvrir-luniversite/vision-strategie-et-grands-projets/open-education-leducation-ouverte-a-nantes-universite)
+- 🕴️ 🇫🇷 [Open Education at Nantes University](https://www.univ-nantes.fr/decouvrir-luniversite/vision-strategie-et-grands-projets/open-education-leducation-ouverte-a-nantes-universite)
+- 🕴️ [Chair UNESCO RELIA](https://chaireunescorelia.univ-nantes.fr/), Open Educational resources and IA, Nantes University
 - 🕴️ 🇺🇸 [Community College Consortium for OER](https://www.cccoer.org/) (CCCOER)
 - 🕴️ 🇺🇸 [OERizona Network](https://sites.google.com/scottsdalecc.edu/oerizonanetwork/home)
 - 🕴️ 🇪🇺 [European Network for Catalysing Open Resources in Education](https://encoreproject.eu/) (ENCORE+)
@@ -342,8 +342,7 @@ In the spirit of contribution, any recommendation that will enrich this list of 
 - 🕴️ [Open Schools for Open Societies](https://www.openschools.eu/)
 - 🕴️ [Center for Open Education Research](https://uol.de/coer) (COER), Oldenburg university (🇩🇪)
 - 🕴️ 🇬🇧 [Open Education Research Hub](http://oerhub.net/) (OER Hub)
-- 🕴️ [Chaire UNESCO RELIA](https://chaireunescorelia.univ-nantes.fr/), Ressources Éducatives Libres et Intelligence Artificielle, Nantes Université
-- 📰 [Chaires dans l'Open Education](https://educacaoaberta.org/en/chairs-in-open-education/) (jusqu'à 2020)
+- 📰 [Chairs in Open Education](https://educacaoaberta.org/en/chairs-in-open-education/) (up to 2020)
 - 📰 [Symmathesy: A Word in Progress](https://norabateson.wordpress.com/2015/11/03/symmathesy-a-word-in-progress/)
 - 👩🏽‍🔬 🇫🇷 [Sondage annuel (depuis 2014) usage numérique chez les enseignants](https://www.ac-paris.fr/sondage-sur-les-usages-du-numerique-123944)
 - 👩🏽‍🔬 [Creating an Online Social Learning Platform: A Model Approach for Open Development, Open Access and Open Education](https://doi.org/10.5445/IR/1000155833)
@@ -358,36 +357,36 @@ In the spirit of contribution, any recommendation that will enrich this list of 
 - 📖 [Handook of Open, Distance and Digital Education](https://link.springer.com/referencework/10.1007/978-981-19-2080-6)
 - 📖 [L’enseignement à l’ère numérique](https://pressbooks.bccampus.ca/tiada3french/)
 - 📖 [The Battle for Open, How openness won and why it doesn't feel like victory](https://www.ubiquitypress.com/site/books/m/10.5334/bam/)
-- 🏦 🇫🇷 [Stratégie du numérique pour l'Éducation Nationale](https://www.education.gouv.fr/strategie-du-numerique-pour-l-education-2023-2027-344263) (2023-2027)
+- 🏦 🇫🇷 [Digital Strategie for National Education](https://www.education.gouv.fr/strategie-du-numerique-pour-l-education-2023-2027-344263) (2023-2027)
 - 🏦 [UNESCO Recommendation on Open Educational Resources](https://www.unesco.org/en/legal-affairs/recommendation-open-educational-resources-oer) (2019)
 - 🏦 🇺🇸 [Open Education at Office of Educational Technology](https://tech.ed.gov/open/), U.S. Department of Education Office of Educational Technology
-- 🛠️ [Openly Available Sources Integrated Search](https://oasis.geneseo.edu/index.php) (OASIS), moteur de recherche pour OER
-- 🛠️ [The Mason OER Metafinder](https://mom.gmu.edu) (MOM), moteur de recherche pour OER
+- 🛠️ [Openly Available Sources Integrated Search](https://oasis.geneseo.edu/index.php) (OASIS), OER search engine
+- 🛠️ [The Mason OER Metafinder](https://mom.gmu.edu) (MOM), OER search engine
 - 🛠️ [PressBooks](https://pressbooks.com/), open book creation platform
-- 🛠️ [Florilège](https://florilege.ls2n.fr/), indexation OER francophones par annotation manuelle
+- 🛠️ [Florilège](https://florilege.ls2n.fr/), French-language OER indexing by manual annotation
 - 🛠️ [convOERter](https://convoerter-eval.elearn.rwth-aachen.de/en/), convert presentation to OER
 
 ## Open Innovation
 
 - 🎥 [Goldcorp Challenge - Rob McEwen](https://www.youtube.com/watch?v=BbifoFEswQ0)
-- 📰 [4 examples d'open innovation chez Lego, Nasa, Samsung et General Eletric](https://www.onova.io/innovation-insights/four-examples-of-open-innovation)
+- 📰 [4 examples of open innovation at Lego, Nasa, Samsung and General Electric](https://www.onova.io/innovation-insights/four-examples-of-open-innovation)
 - 👩🏽‍🔬 [Open Innovation Business Models : the example of living labs in France](https://hal.archives-ouvertes.fr/hal-03312263/document)
 - 👩🏽‍🔬 [A Study of Patent Open Source Strategies Based on Open Innovation: The Case of Tesla](https://www.scirp.org/journal/paperinformation.aspx?paperid=101900)
 - 👩🏽‍🔬 [Intellectual Property and Licensing Strategies in Open Collaborative Innovation](http://www.marcelbogers.com/Pubs/Bogers-Bekkers-Granstrand_2012_ch3_Intellectual-Property-and-Licensing-Strategies-in-Open-Collaborative-Innovation.pdf)
 - 🕴️ [Open Innovation Network](https://openinventionnetwork.com/)
-- 🕴️ 🇫🇷 [pole-emploi.io](https://pole-emploi.io/), plateforme d’innovation ouverte pôle emploi
+- 🕴️ 🇫🇷 [pole-emploi.io](https://pole-emploi.io/), Pôle Emploi's open innovation platform
 
 ## Open Data
 
 - 🛠️ [RedPajama-Data repository](https://github.com/togethercomputer/RedPajama-Data), Open Source Recipe to Reproduce LLaMA training dataset
-- [Pappers](https://pappers.fr) pour les informations d'entreprises, [Justice Pappers](https://justice.pappers.fr/) pour les décisions de justice
+- 🇫🇷 [Pappers](https://pappers.fr) for company information, [Justice Pappers](https://justice.pappers.fr/) for court decisions
 - 📚 🇪🇺 [data.europe.eu](https://data.europa.eu/en)
 - 📚 [data.gouv.fr](https://www.data.gouv.fr/fr/)
-- 📚 🇫🇷 [api.gouv.fr](https://api.gouv.fr/), liste API des services publics
+- 📚 🇫🇷 [api.gouv.fr](https://api.gouv.fr/), API list of public services
 - 📚 [open.urssaf.fr](https://open.urssaf.fr)
 - 📚 [DataBank](https://databank.worldbank.org/), The World Bank
 - 📚 [Global Biodiversity Information Facility](https://www.gbif.org/) (GBIF)
-- 📚 [Radio Garden FM AM](https://radio.garden/), map monde des radios
+- 📚 [Radio Garden FM AM](https://radio.garden/), world map of radios
 - 📚 🇨🇦 [Federated Research Data Repository](https://www.frdr-dfdr.ca/repo/?locale=en) (FRDR), find and share Canadian Resarch Data
 - 📚 🇨🇦 [Borealis](https://borealisdata.ca/),  Canadian Dataverse Repository for research data
 - 📚 [Registry of Research Data Repositories](https://www.re3data.org/) (re3data), overview of existing international repositories for research data
@@ -396,8 +395,8 @@ In the spirit of contribution, any recommendation that will enrich this list of 
 - 📚 [Inter-university Consortium for Political and Social Research](https://www.icpsr.umich.edu/web/pages/ICPSR/index.html) (ICPSR), curated repository for social, behavioral, and health sciences research data
 - 📰 [OpenStreetMap is having a Moment](https://joemorrison.medium.com/openstreetmap-is-having-a-moment-dcc7eef1bb01) (organisations investment)
 - 📰 [The world needs a better map: TomTom is making it with its new mapping platform and ecosystem](https://www.tomtom.com/newsroom/behind-the-map/the-future-of-mapmaking-tomtom-maps-platform/) (2022)
-- 🕴️ 🇫🇷 [La fédération des professionnels d’OpenStreetMap](https://fposm.fr/)
-- 🕴️ [Overture Maps Foundation](https://overturemaps.org/), coalition pour des cartes interopérables
+- 🕴️ 🇫🇷 [French Federation of OpenStreetMap Professional](https://fposm.fr/)
+- 🕴️ [Overture Maps Foundation](https://overturemaps.org/), coalition for interoperable map
 - 👩🏽‍🔬 [Reports for Open Data Maturity of European countries](https://data.europa.eu/en/publications/open-data-maturity/), European Commission
 - 📰 👩🏽‍🔬 [Carto-vandalisme dans OpenStreetMap : mythe ou réalité ?](https://static.geotribu.fr/articles/2023/2023-05-24_carto-vandalisme_dans_OSM/#introduction) (Mémoire)
 - 🏦 🇪🇺 [European Data Governance Act](https://digital-strategy.ec.europa.eu/en/policies/data-governance-act)
@@ -406,14 +405,14 @@ In the spirit of contribution, any recommendation that will enrich this list of 
 
 - 🎥 [Le libre et l'open source des logiciels et objets - monsieur Bidouille](https://www.youtube.com/watch?v=y2GNVGagWdM)
 - 🕴️ [Arduino](https://www.arduino.cc/)
-- 🛠️ [Prusa](https://www.prusa3d.com/), imprimantes 3D
+- 🛠️ [Prusa](https://www.prusa3d.com/), 3D printers
 - [Open Source Ecology](https://www.opensourceecology.org/)
 - 🕴️ [L'Atelier Paysan](https://www.latelierpaysan.org/)
-- 🕴️ [Vhélio](https://vhelio.org/), vélo solaire
+- 🕴️ [Vhélio](https://vhelio.org/), solar bike
 - 🕴️ [PinePhone](https://www.pine64.org/)
 - 🕴️ [Open Compute Project](https://www.opencompute.org/)
 - 🕴️ Hugh Piggott [wind turbine](https://scoraigwind.co.uk/about/)
-- 📰 [Liste de projets open hardware](https://en.wikipedia.org/wiki/List_of_open-source_hardware_projects)
+- 📰 [List of Open Hardware Projects](https://en.wikipedia.org/wiki/List_of_open-source_hardware_projects), Wikipedia
 - 📰 ["Open Design" or "Open Source Hardware"? Lets talk about what?](https://larszimmermann.de/open-design-or-open-source-hardware-lets-talk-about-what/)
 - 📰 [Abandoned, The human cost of neurotechnology failure](https://www.nature.com/immersive/d41586-022-03810-5/index.html)
 - 📚 [Thingiverse](https://www.thingiverse.com/)
@@ -445,7 +444,7 @@ In the spirit of contribution, any recommendation that will enrich this list of 
 - 🕴️ [Alliance for Open Scolarship](https://www.all4os.org/) (All4OS)
 - 🕴️ [European Association of Distance Teaching Universities](https://eadtu.eu/index.php) (EADTU)
 - 🎥 [What's an Open University Degree Like?](https://www.youtube.com/watch?v=Pj0rbafFBak)
-- 👩🏽‍🔬 [L'ouverture en question : quand des universités ouvertes se redéfinissent à l'ère de la globalisation numérique](https://theses.hal.science/tel-01687221) (Thèse)
+- 👩🏽‍🔬 [L'ouverture en question : quand des universités ouvertes se redéfinissent à l'ère de la globalisation numérique](https://theses.hal.science/tel-01687221) (Thesis)
 - 👩🏽‍🔬 [The open academic: Why and how business academics should use social media to be more ‘open’ and impactful](https://doi.org/10.1016/j.bushor.2022.05.001)
 - 📚 [List of open universities](https://en.wikipedia.org/wiki/List_of_open_universities), Wikipedia
 - 📚 [Ubiquity Press](https://www.ubiquitypress.com/), open access publisher of peer-reviewed academic journals, books and data
@@ -474,14 +473,14 @@ In the spirit of contribution, any recommendation that will enrich this list of 
 
 ## Open Standard
 
-- 🕴️ [OASIS Open](https://www.oasis-open.org), organisme de standardisation
+- 🕴️ [OASIS Open](https://www.oasis-open.org), standardization organism
 - 🕴️ [Alliance for Open Media](https://aomedia.org/)
 - 🏦 🇪🇺[Interoperable Europe Act](https://ec.europa.eu/commission/presscorner/detail/fr/ip_22_6907)
-- 📚 🇫🇷 [schema.data.gouv.fr](https://schema.data.gouv.fr), référencement des schémas de données publiques pour la France
+- 📚 🇫🇷 [schema.data.gouv.fr](https://schema.data.gouv.fr), index of public data schemas for France
 - 📚 [Schema.org](https://schema.org/), create, maintain, and promote schemas for structured data on the Internet, on web pages, in email messages, and beyond
 - 🛠️ [RISC-V](https://riscv.org/), Instruction Set Architecture (computer architecture)
-- 🛠️ [OAI-PMH](http://www.openarchives.org/OAI/openarchivesprotocol.html), protocole de récolte de métadonnées
-- 🛠️ [Dublin Core](https://dublincore.org/), schéma de métadonnées pour ressources numériques
+- 🛠️ [OAI-PMH](http://www.openarchives.org/OAI/openarchivesprotocol.html), protocol for metadata harvesting
+- 🛠️ [Dublin Core](https://dublincore.org/), metadata schema for digital resources
 - 🛠️ [ccREL](https://www.w3.org/Submission/ccREL/) : The Creative Commons Rights Expression Language
 - 📖 Standards Battles in Open Source Software: The Case of Firefox, H. Vries, I. Oshri
 
