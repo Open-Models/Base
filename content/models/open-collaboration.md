@@ -6,7 +6,7 @@
 supports the collective production of an artifact (2) through a technologically mediated collaboration
 platform (3) that presents a low barrier to entry and exit, and (4) supports the emergence of persistent but
 malleable social structures.*  
-> [Andrea Forte](http://andreaforte.net/) (Drexel University), [Cliff Lampe](http://clifflampe.org/biography/) (University of Michigan)
+> [Defining, Understanding and Supporting Open Collaboration](http://andreaforte.net/ForteLampe-Submitted.pdf), Andrea Forte and Cliff Lampe
 
 > *A system of innovation or production that relies on goal-oriented yet loosely coordinated participants who interact to create a product (or service) of economic value, which is made available to contributors and noncontributors alike.*  
 > Sheen S. Levine; Michael J. Prietula (2014). [Open Collaboration for Innovation: Principles and Performance](https://www.researchgate.net/publication/263545221_Open_Collaboration_for_Innovation_Principles_and_Performance)

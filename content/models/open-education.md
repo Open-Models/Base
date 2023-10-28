@@ -55,13 +55,13 @@ While we know that much remains to be invented, the tools needed to produce open
 
 ## Landscape
 
-Today, the English-speaking world is more developed in open education, but everywhere the dynamic is being built
+Today, the English-speaking world is more developed in open education but everywhere the dynamic is being built
 
 In various forms and to varying degrees, hundreds of educational establishments around the world are today moving towards open education with public policies amplifying the dynamic.
 
 Coalitions of organizations are being set up such as the [Open Education Global](https://www.oeglobal.org/) network with over 250 members. The issue of access to school textbooks (open textbooks) unites a multitude of organization, with initiatives such as [LibreTexts](https://libretexts.org/) which serves as a digital library for dozens of (American) institutions, reaching millions of students.
 
-Distance learning structures such as open universities or more traditional universities such as MIT which are transforming with technological developments are exploring these new approaches to promoting access to education.
+Distance learning structures such as open universities or more traditional universities such as MIT which are transforming with technological developments are exploring these new approaches to support access to education.
 
 At the political level, UNESCO has issued [recommendations on open educational resources](https://www.unesco.org/en/legal-affairs/recommendation-open-educational-resources-oer) in 2019. The U.S. Department of Education, through its Office of Educational Technology, [encourages the use of open licenses](https://tech.ed.gov/open/) and makes them a condition for certain loans. Without explicitly talking about open education, France's Ministry of Education promotes collaboration and the use of digital commons for educational content in its [Digital Strategy for Education](https://www.education.gouv.fr/strategie-du-numerique-pour-l-education-2023-2027-344263) (2023-2027).
 

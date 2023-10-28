@@ -5,17 +5,11 @@
 Open peer review is an umbrella term for a number of overlapping ways that peer review models can be adapted in line with the aims of Open Science, including making reviewer and author identities open, publishing review reports and enabling greater participation in the peer review process. The full list of traits is:
 
 - **Open identities**: Authors and reviewers are aware of each other’s identity
-
 - **Open reports**: Review reports are published alongside the relevant article.
-
 - **Open participation**: The wider community to able to contribute to the review process.
-
 - **Open interaction**: Direct reciprocal discussion between author(s) and reviewers, and/or between reviewers, is allowed and encouraged.
-
 - **Open pre-review manuscripts**: Manuscripts are made immediately available (e.g., via pre-print servers like arXiv) in advance of any formal peer review procedures.
-
 - **Open final-version commenting**: Review or commenting on final “version of record” publications.
-
 - **Open platforms (“decoupled review”)**: Review is facilitated by a different organizational entity than the venue of publication.
 
 *Source : [Tony Ross-Hellauer - What is open peer review ? A systematic review](https://f1000research.com/articles/6-588/v2)*

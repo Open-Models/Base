@@ -13,11 +13,9 @@ Open innovation involves, as an actor within an ecosystem, enriching oneself wit
 
 Chesbrough divides open innovation into two aspects,*outside-in* and *inside-out*.
 
-For an organization,**outside-in** means using external knowledge for internal activities. Being able to draw on information and include different contributions from partners and users.
-
 **Outside-in** refers to an organization using external knowledge for its internal activities. Being able to retrieve information and include different contributions from partners and users.
 
-The **inside-out** approach is to allow one's intellectual property to be reused by others to implement their own solutions. Research knowledge, often under-exploited, can be used elsewhere. For resources central to the player, it enables others to reuse, modify and improve its solutions to benefit from potential contributions.
+**Inside-out** approach is to allow one's intellectual property to be reused by others to implement their own solutions. Research knowledge, often under-exploited, can be used elsewhere. For resources central to the player, it enables others to reuse, modify and improve its solutions to benefit from potential contributions.
 
 At the intersection of outside-in and inside-out, we can find collaborative digital environments where improvements are pooled between different complementary players, each using the solution for their own activities, with skills interacting as the resource is co-constructed.
 

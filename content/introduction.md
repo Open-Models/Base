@@ -26,4 +26,4 @@ Since the Age of Enlightenment and the first scientific revolution, science has 
 
 These transformations are gradually extending to all other fields such as education and industry, which are themselves affected by this change in relationship to knowledge. Their implementation is sometimes more complex, both technically and culturally.
 
-Open models seem to be as much the heart as the fruit of the digital revolution, a paradigm shift that could become tomorrow's standards.
+Open models are at the heart of the digital revolution, a paradigm shift that will impact tomorrow's standards.

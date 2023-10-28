@@ -8,7 +8,7 @@ Eric Raymond, in his essay The Cathedral and the Bazaar, formulates Linus' law: 
 
 The more a software product is read and re-read, the more important its quality can becomes. This is what can produce security and robustness in open source software, which can be massively studied and reworked by everyone. That's why it's important when using open source software to be able to analyze the size and involvement of the community to try to assess its potential quality.
 
-There are certain limits to this logic, however: not all eyes are created equal and some subjects are genuinely complex. For example, if we stay with the Linux kernel, it's relatively mission impossible for a layman to judge the quality of the code, as considerable expertise is required to give an opinion.
+There are certain limits to this logic, however: not all eyes are created equal and some subjects are genuinely complex. For example, if we stay with the Linux kernel, it's relatively mission impossible for a layman to judge the quality of the code, as considerable expertise is required to jump in.
 
 This logic of peer review also applies to Wikipedia. Not all articles are equal, but those of the highest quality will be those that have been reviewed by a large number of experts, academics, specialists, enthusiasts... In fact, since the encyclopedia is public and collaborative, it is potentially the most reliable source of knowledge ever created by humankind. When a scientific journal article is reviewed by 2-3 peers, Wikipedia can count thousands. (https://au.pcmag.com/social-media/87504/wikipedia-the-most-reliable-source-on-the-internet)
 
