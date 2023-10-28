@@ -4,7 +4,7 @@ Open models are subjects that evolve over a long period of time, from decades to
 
 The objectives around the brick of knowledge on open models are going to be to disseminate these models through educational work to acculturate the citizen of the XXIᵉ century, continue to build this digital common and federate an ecosystem of stakeholders around these dynamics to prepare for the future.
 
-In an open logic, everyone is free to contribute according to their skills, desires and financial/time/geographical/etc. constraints. More details in the [contribution guidelines](contribution-guidelines.md).
+In an open logic, everyone is free to contribute according to their skills, desires and financial/time/geographical/etc constraints. More details in the [contribution guidelines](contribution-guidelines.md).
 
 <p align="center" width="100%">
     <img src="https://raw.githubusercontent.com/Open-Models/Brique/main/images/roadmap.jpg">
@@ -36,7 +36,7 @@ As a first step, at least 3 dimensions need to be built up further:
 
 One day there will be the question of building a truly collaborative platform, the technical environment of the brick is very immature.
 
-A kanban allows you to see the developments in progress for [version 0](https://github.com/Open-Models/Brique/projects/1), which will be built according to the needs and problems that emerge with [GitHub](https://github.com/Open-Models/Brique)'s system of[issues](https://github.com/Open-Models/Brique/issues) and [pull requests](https://github.com/Open-Models/Brique/pulls).
+A kanban allows you to see the developments in progress for [version 0](https://github.com/Open-Models/Brique/projects/1), which will be built according to the needs and problems that emerge with [GitHub](https://github.com/Open-Models/Brique)'s system of [issues](https://github.com/Open-Models/Brique/issues) and [pull requests](https://github.com/Open-Models/Brique/pulls).
 
 ## Federating an ecosystem of stakeholders
 

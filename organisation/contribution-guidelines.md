@@ -24,6 +24,6 @@ Come and give your opinion in the [issues](https://github.com/Open-Models/Brique
 
 The contribution is not limited to producing the content of the brick of knowledge.
 
-If you feel you're ready, you can educate people on the subject of open models: workshops, training courses, conferences... As well as producing content for social networks.
+If you feel you're ready, you can provide education on the subject of open models: workshops, training courses, conferences... As well as producing content for social networks.
 
 Help answer questions from the community, whether on Github or anywhere else!
