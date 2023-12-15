@@ -47,7 +47,7 @@ There is no single answer to the problem of how to produce open education traini
 
 While we know that much remains to be invented, the tools needed to produce open educational resources will vary from one project to another, depending on financial and human resources, technical skills, and so on.
 
-> **The Open Models Knowledge Brick** is a complex example of open education, an experiment of open educational resource for education in open models, in a digital commons logic developed using open software tools such as [Markdown](https://www.markdowntutorial.com/), [git](https://about.gitlab.com/topics/version-control/what-is-git-version-control/) and [GitHub](https://en.wikipedia.org/wiki/GitHub).
+> **The Brick of Knowledge on Open Models** is a complex example of open education, an experiment of open educational resource for education in open models, in a digital commons logic developed using open software tools such as [Markdown](https://www.markdowntutorial.com/), [git](https://about.gitlab.com/topics/version-control/what-is-git-version-control/) and [GitHub](https://en.wikipedia.org/wiki/GitHub).
 >
 > The project is intended to be a resource accessible to anyone wishing to learn about open models. Although it requires some technical knowledge with which to familiarize oneself, all content is retrievable, modifiable and shareable. Pedagogical content that is freely accessible, that can be co-produced, based on [spaces for exchange with the community around the project](/README.html#contribute-), learners and stakeholders who gravitate around open models
 >
