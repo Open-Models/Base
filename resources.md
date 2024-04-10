@@ -266,6 +266,7 @@ In the spirit of contribution, any recommendation that will enrich this list of 
 - 🏦 🇺🇸 [Scientific Integrity Policy](https://www.whitehouse.gov/ostp/news-updates/2023/06/22/white-house-office-of-science-and-technology-policy-ostp-scientific-integrity-policy/) (2023), Office of Science and Technology Policy (OSTP), White House
 - 🏦 🇺🇸 [Transform to Open Science (TOPS)](https://science.nasa.gov/open-science/transform-to-open-science), NASA mission
 - 🏦 🇺🇸 [open.science.gov](https://open.science.gov/), Open Science Announcements from U.S. Federal Agencies
+- 🏦 [Knowledge Base on open access policies for open access books](https://knowledgebase.oabooks-toolkit.org/home)
 - [Budapest Open Access Initiative](https://www.budapestopenaccessinitiative.org/read/), 2002
 - [Berlin Declaration on Open Access to Knowledge in the Sciences and Humanities](https://openaccess.mpg.de/Berlin-Declaration), 2003
 - [Bethesda Statement on Open Access Publishing](http://legacy.earlham.edu/~peters/fos/bethesda.htm), 2003
