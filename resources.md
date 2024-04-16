@@ -269,6 +269,7 @@ In the spirit of contribution, any recommendation that will enrich this list of 
 - [Budapest Open Access Initiative](https://www.budapestopenaccessinitiative.org/read/), 2002
 - [Berlin Declaration on Open Access to Knowledge in the Sciences and Humanities](https://openaccess.mpg.de/Berlin-Declaration), 2003
 - [Bethesda Statement on Open Access Publishing](http://legacy.earlham.edu/~peters/fos/bethesda.htm), 2003
+- [Barcelona Declaration on Open Research Information](https://barcelona-declaration.org/), 2024
 - [Guerilla Open Access Manifesto](https://archive.org/details/GuerillaOpenAccessManifesto/mode/2up)
 - [Open Climate Campaign](https://openclimatecampaign.org/)
 - [Paris Call on Research Assessment](https://osec2022.eu/paris-call/) (OSEC 2022)
@@ -443,6 +444,7 @@ In the spirit of contribution, any recommendation that will enrich this list of 
 - 🕴️ [Higher Education Leadership Initiative for Open Scholarship](https://www.heliosopen.org/) (HELIOS)
 - 🕴️ [Alliance for Open Scolarship](https://www.all4os.org/) (All4OS)
 - 🕴️ [European Association of Distance Teaching Universities](https://eadtu.eu/index.php) (EADTU)
+- [The Principles of Open Scholarly Infrastructure](https://openscholarlyinfrastructure.org/)
 - 🎥 [What's an Open University Degree Like?](https://www.youtube.com/watch?v=Pj0rbafFBak)
 - 👩🏽‍🔬 [L'ouverture en question : quand des universités ouvertes se redéfinissent à l'ère de la globalisation numérique](https://theses.hal.science/tel-01687221) (Thesis)
 - 👩🏽‍🔬 [The open academic: Why and how business academics should use social media to be more ‘open’ and impactful](https://doi.org/10.1016/j.bushor.2022.05.001)
