@@ -7,7 +7,7 @@
 
 ## Presentation
 
-![open innovation](https://raw.githubusercontent.com/Open-Models/Brique/main/images/open-innovation.jpg)
+![open innovation](https://raw.githubusercontent.com/Open-Models/Base/main/images/open-innovation.jpg)
 
 Open innovation involves, as an actor within an ecosystem, enriching oneself with external knowledge while redistributing one's own to the rest of the ecosystem to create new solutions. In the business world, this is achieved through the sharing of intellectual property and R&D resources.
 

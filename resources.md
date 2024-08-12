@@ -3,7 +3,7 @@
 A set of complementary resources to help you explore open models more deeply.  
 Links to a variety of elements to learn more about these phenomena, to find players in these fields, to get informed, find tools, learn more about current legislation...
 
-In the spirit of contribution, any recommendation that will enrich this list of resources and our collective knowledge will be appreciated, ideally as an issue (or directly as a pull request) on [Github](https://github.com/Open-Models/Brique/issues).
+In the spirit of contribution, any recommendation that will enrich this list of resources and our collective knowledge will be appreciated, ideally as an issue (or directly as a pull request) on [Github](https://github.com/Open-Models/Base/issues).
 
 ### Table of contents
 

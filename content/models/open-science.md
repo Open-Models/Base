@@ -8,7 +8,7 @@
 ## Presentation
 
 <p align="center">
-    <img width="60%" src="https://raw.githubusercontent.com/Open-Models/Brique/main/images/open-science-schema.jpg">
+    <img width="60%" src="https://raw.githubusercontent.com/Open-Models/Base/main/images/open-science-schema.jpg">
        <br>
        <i>NASA illustration</i>
 </p>

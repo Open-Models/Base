@@ -10,15 +10,15 @@ But above all, the more you understand about open models, the more comfortable y
 
 ## Contribute to content
 
-The content of the base and any modifications are based on a [Github repository](https://github.com/Open-Models/Brique).
+The content of the base and any modifications are based on a [Github repository](https://github.com/Open-Models/Base).
 
 At the moment, there are real technical obstacles to contribution, and a certain mastery of Git/Github and Markdown will be required to produce the content (guide coming soon?).
 
-Take a look at the [version 0](https://github.com/Open-Models/Brique/projects/1) roadmap to see what's currently being developed and participate where you feel comfortable.
+Take a look at the [version 0](https://github.com/Open-Models/Base/projects/1) roadmap to see what's currently being developed and participate where you feel comfortable.
 
 Everything is constantly evolving and relies on peer review, so bring your critical eye if you see a way to improve the quality of the content.
 
-Come and give your opinion in the [issues](https://github.com/Open-Models/Brique/issues), [pull request](https://github.com/Open-Models/Brique/pulls) (modification proposals) reviews are highly useful.
+Come and give your opinion in the [issues](https://github.com/Open-Models/Base/issues), [pull request](https://github.com/Open-Models/Base/pulls) (modification proposals) reviews are highly useful.
 
 ## Contribute using content
 
