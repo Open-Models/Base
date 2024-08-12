@@ -38,7 +38,7 @@ Open model education takes many forms and reaches many audiences, a multitude of
 
 To set and understand the orientation of the community around the knowledge base, a [roadmap](organisation/roadmap.md) shows the main axes of work defined.
 
-A collective project, a collaboratively built digital common, open to contribution and hosted (temporarily 🤞) on the non-open-source [GitHub](https://github.com/Open-Models/Brique) platform.
+A collective project, a collaboratively built digital common, open to contribution and hosted (temporarily 🤞) on the non-open-source [GitHub](https://github.com/Open-Models/Base) platform.
 
 ## Contribute 🐜
 
@@ -50,7 +50,7 @@ Many ways to participate in this democratization of open models!
 
 ## Exchange with the community 🤳🏼
 
-The [discussion space](https://github.com/Open-Models/Brique/discussions) allows you to ask questions, go into more detail on certain points or simply chat with other members of the community ❤️ 
+The [discussion space](https://github.com/Open-Models/Base/discussions) allows you to ask questions, go into more detail on certain points or simply chat with other members of the community ❤️ 
 
 Don't hesitate to share any open models related projects you may have over there, they could be of interest to others people!
 

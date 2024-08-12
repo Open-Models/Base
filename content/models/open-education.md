@@ -6,7 +6,7 @@
 > [Open Education Handbook](https://en.wikibooks.org/wiki/Open_Education_Handbook), Wikibooks
 
 <p align="center">
-    <img width="80%" src="https://raw.githubusercontent.com/Open-Models/Brique/main/images/open-education-schema.jpg">
+    <img width="80%" src="https://raw.githubusercontent.com/Open-Models/Base/main/images/open-education-schema.jpg">
        <br>
        <i>Illustration of the « <a href="https://publications.jrc.ec.europa.eu/repository/handle/JRC101436">Opening up Education</a> », Joint Research Centre of the European Union </i>
 </p>

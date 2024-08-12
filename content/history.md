@@ -8,11 +8,11 @@ Little by little, the software world began to have a more or less direct influen
 
 ## Open models in the software world
 
-![Open Source Timeline](https://raw.githubusercontent.com/Open-Models/Brique/main/images/open-source-timeline.png)
+![Open Source Timeline](https://raw.githubusercontent.com/Open-Models/Base/main/images/open-source-timeline.png)
 
 In the early days of computing, open source software and open collaboration were technically impossible.
 
-In 1945, the first computer weighed 30 tons, built by academics with programs written on [punched cards](https://raw.githubusercontent.com/Open-Models/Brique/main/images/punch-card.png). The first digitized program appeared on June 11, 1948. When the first companies to produce computer hardware and then software appeared, software was in a sense "open source" even if the term didn't exist; the source code was supplied with the hardware as business models were based on the sale of physical components. Computers were reserved for small groups of specialists who were proficient in programming and required to modify software.
+In 1945, the first computer weighed 30 tons, built by academics with programs written on [punched cards](https://raw.githubusercontent.com/Open-Models/Base/main/images/punch-card.png). The first digitized program appeared on June 11, 1948. When the first companies to produce computer hardware and then software appeared, software was in a sense "open source" even if the term didn't exist; the source code was supplied with the hardware as business models were based on the sale of physical components. Computers were reserved for small groups of specialists who were proficient in programming and required to modify software.
 
 From the 70s onwards, a new stage in the democratization of computing took place with the arrival of "[microcomputer](https://en.wikipedia.org/wiki/Microcomputer)", as computers became more personal. Hobbyist and hackers got to grips with the technology while new companies such as Microsoft in 1975 and Apple in 1977 emerged. As the latter wanted to retain control over software, the code was gradually closed, intellectual property began to apply to software with the [Copyright Act](https://en.wikipedia.org/wiki/Copyright_Act_of_1976) of 1976. The source code became the exclusive property of companies, software was distributed without the source code in the form of executables.
 

@@ -7,7 +7,7 @@ The objectives around the base of knowledge on open models are going to be to di
 In an open logic, everyone is free to contribute according to their skills, desires and financial/time/geographical/etc constraints. More details in the [contribution guidelines](contribution-guidelines.md).
 
 <p align="center" width="100%">
-    <img src="https://raw.githubusercontent.com/Open-Models/Brique/main/images/roadmap.jpg">
+    <img src="https://raw.githubusercontent.com/Open-Models/Base/main/images/roadmap.jpg">
 </p>
 
 ## Training in open models
@@ -36,7 +36,7 @@ As a first step, at least 3 dimensions need to be built up further:
 
 One day there will be the question of building a truly collaborative platform, the technical environment of the base is very immature.
 
-A kanban allows you to see the developments in progress for [version 0](https://github.com/Open-Models/Brique/projects/1), which will be built according to the needs and problems that emerge with [GitHub](https://github.com/Open-Models/Brique)'s system of [issues](https://github.com/Open-Models/Brique/issues) and [pull requests](https://github.com/Open-Models/Brique/pulls).
+A kanban allows you to see the developments in progress for [version 0](https://github.com/Open-Models/Base/projects/1), which will be built according to the needs and problems that emerge with [GitHub](https://github.com/Open-Models/Base)'s system of [issues](https://github.com/Open-Models/Base/issues) and [pull requests](https://github.com/Open-Models/Base/pulls).
 
 ## Federating an ecosystem of stakeholders
 
