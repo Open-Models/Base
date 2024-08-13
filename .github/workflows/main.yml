@@ -1,0 +1,55 @@
+name: Publish to GitHub Pages
+
+on:
+  push:
+    branches:
+      - quarto
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      QUARTO_VERSION: 1.4.543
+
+    environment:
+      name: github-pages
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v2
+
+    - name: Cache dependencies
+      id: caching
+      uses: actions/cache@v3
+      with:
+        path: .dependencies
+        key: quarto-${{ env.QUARTO_VERSION }}
+    
+    - if:  ${{ steps.caching.outputs.cache-hit != 'true' }}
+      name: Download Quarto
+      run: |
+        mkdir .dependencies && cd .dependencies
+        wget --no-verbose https://github.com/quarto-dev/quarto-cli/releases/download/v${QUARTO_VERSION}/quarto-${QUARTO_VERSION}-linux-amd64.deb 
+
+    - name: Install Quarto
+      run: |
+        sudo apt install ./.dependencies/*.deb
+
+    - name: Render website
+      run: |
+        quarto render
+        # Use README.html rather than index.html as homepage file
+        cd _site
+        rm index.html && ln -s README.html index.html
+
+    - uses: actions/upload-pages-artifact@v3
+      with:
+        path: _site
+
+    - uses: actions/deploy-pages@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
