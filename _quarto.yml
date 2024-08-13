@@ -1,0 +1,37 @@
+project:
+  type: website
+  render:
+    - "*.md"
+    - README.md
+    - content/method/README.md
+    - content/projects/README.md
+    - content/models/README.md
+
+website:
+  title: "Open Models"
+  navbar:
+    left:
+      - href: README.md
+        text: Knowledge Base
+      - href: https://portal.open-models.org/
+        text: Portal
+    tools:
+      - icon: github
+        href: https://github.com/Open-Models/Base
+      - icon: chat-right-dots
+        href: https://github.com/Open-Models/Base/discussions
+      - icon: cc-circle
+        href: https://creativecommons.org/publicdomain/zero/1.0/
+
+  sidebar:
+    style: "docked"
+    contents:
+      - section: "Open Models"
+        href: content/models/README.md
+        contents:
+          - content/models/open-education.md
+
+format:
+  html:
+    theme: cosmo
+    toc: true
