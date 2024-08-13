@@ -25,11 +25,29 @@ website:
 
   sidebar:
     style: "docked"
+    collapse-level: 1
     contents:
+      - text: "Introduction"
+        href: content/introduction.md
+      - text: "History"
+        href: content/history.md
       - section: "Open Models"
         href: content/models/README.md
         contents:
           - content/models/open-education.md
+          - content/models/open-science.md
+          - content/models/open-hardware.md
+          - content/models/open-collaboration.md
+          - content/models/open-peer-review.md
+          - content/models/open-innovation.md
+      - text: "Projects Example"
+        href: content/projects/README.md
+      - text: "Knowledge Base Roadmap"
+        href: organisation/roadmap.md
+      - text: "Contribution Guidelines"
+        href: organisation/contribution-guidelines.md
+      - text: "Resources"
+        href: resources.md
 
 format:
   html:
