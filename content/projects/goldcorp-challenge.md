@@ -16,8 +16,4 @@ The difficulty lies in finding sufficient interest to unite external players aro
 
 An organization's best skills lie outside the organization.
 
-<div style="text-align: center;">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/BbifoFEswQ0" title="YouTube video player"
-    frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen></iframe>
-</div>
+{{< video https://www.youtube.com/embed/BbifoFEswQ0 width="560" height="315" >}}

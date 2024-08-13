@@ -6,9 +6,8 @@ The objectives around the base of knowledge on open models are going to be to di
 
 In an open logic, everyone is free to contribute according to their skills, desires and financial/time/geographical/etc constraints. More details in the [contribution guidelines](contribution-guidelines.md).
 
-<p align="center" width="100%">
-    <img src="https://raw.githubusercontent.com/Open-Models/Base/main/images/roadmap.jpg">
-</p>
+
+![Roadmap](https://raw.githubusercontent.com/Open-Models/Base/main/images/roadmap.jpg)
 
 ## Training in open models
 
