@@ -21,7 +21,7 @@ Open educational resources are going to be protean: a textbook, a text, a video,
 
 **Some examples of open education and OER initiatives:**
 
-* 🇫🇷 [The Forge of Digital Educational Commons](https://forge.aeif.fr/framaka/que-la-forge-soit-avec-toi), by the French Ministry of Education and the Association des enseignantes et enseignants d'informatique de France (AEIF)
+* 🇫🇷 [The Forge of Digital Educational Commons](https://docs.forge.apps.education.fr/), by the French Ministry of Education and the Association des enseignantes et enseignants d'informatique de France (AEIF)
 * 🇺🇸 [LibreTexts](https://commons.libretexts.org/), decentralized textbook library
 * [Mason OER Metafinder](https://mom.gmu.edu) (MOM), search engine for OER
 * 🇨🇭 [Swiss Digital Skills Academy](https://d-skills.ch/), swissuniversities initiative for open education training
