@@ -1,7 +1,8 @@
 # Open Source (2.0)
 
 ::: {.callout-warning}
-**Related to the [Open Source 2.0 Initiative](https://github.com/Open-Models/Base/discussions/465).**
+**Related to the [Open Source 2.0 Initiative](https://github.com/Open-Models/Base/discussions/465) and preprint « *[Open
+Source 2.0: From Open Source Software to Open Source Resources?](https://doi.org/10.5281/zenodo.20237079)* ».**
 
 The meaning of « open source » remains unclear, the interpretation here differs from the conventional sense of the term to favor
 open source resources instead of open source software.
